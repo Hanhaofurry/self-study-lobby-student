@@ -32,10 +32,10 @@
           "lexile": 1000,
           "lexile_source": "estimated",
           "paragraphs": [
-            "Bath, a city in southwest England, is known around the world for its ancient baths and historic buildings. Because of these famous landmarks, the whole city is protected as a UNESCO World Heritage Site. The main sights are close together, so visitors can easily walk from one to the next. That makes Bath a great choice for travelers who have only a day or two.",
-            "The story of Bath begins with the Romans, who built it as a place to relax in natural hot springs. Their bath complex is still the most famous site in the city. Hot water rises from deep underground and fills a large pool in the middle. Visitors cannot swim there today, but they can discover how important the baths were in the daily life of Roman Britain. Right next to the baths stands Bath Abbey, a large church with tall windows and a stone ceiling shaped like open fans. Carvings of angels on ladders decorate its outside walls, and a tour to the top of the tower gives visitors wide views of the city.",
+            "Bath, a city in southwest England, is known around the world for its ancient baths and historic buildings. Because of these famous landmarks, the whole city has been named a UNESCO World Heritage Site. The main sights are close together, so visitors can easily walk from one to the next. That makes Bath a great choice for travelers who have only a day or two.",
+            "The story of Bath begins with the Romans, who made it a place where people could relax in natural hot springs. Their bath complex is still the most famous site in the city. Hot water rises from deep underground and fills a large pool in the middle. Visitors cannot swim there today, but they can discover how important the baths were in the daily life of Roman Britain. Right next to the baths stands Bath Abbey, a large church with tall windows and a stone ceiling shaped like open fans. Carvings of angels on ladders decorate its outside walls, and a tour to the top of the tower gives visitors wide views of the city.",
             "Bath is also home to grand streets such as the Royal Crescent, a long row of 30 houses, and the Circus, where the houses form a perfect circle. These Georgian buildings are made from a local yellow stone, which gives the city a warm, golden color. Book lovers will find reasons to visit, too. Jane Austen lived in Bath in the early 1800s and often wrote about it in her novels, and Mary Shelley, the author of Frankenstein, also spent time there. Visitors can learn about both writers in the city.",
-            "With so much history in such a small area, Bath is easy to explore on foot. It is no wonder that the city has been a favorite destination for visitors to England for so long. Whether you love history, buildings, or books, Bath really shows Britain at its best."
+            "With so much history in such a small area, Bath is easy to explore on foot. It is no wonder that the city has attracted travelers to England for so many years. Whether you love history, buildings, or books, Bath really shows Britain at its best."
           ]
         },
         {
@@ -43,10 +43,10 @@
           "lexile": 840,
           "lexile_source": "estimated",
           "paragraphs": [
-            "Bath is a city in southwest England. It is famous for its ancient baths and historic buildings. Because of these famous landmarks, the city is a UNESCO World Heritage Site. The main sights are close together, so you can walk to them. Bath is a great choice for a short trip.",
-            "The Romans built Bath as a place to relax in natural hot springs. The Roman Baths are still the most famous site in the city. Hot water comes from deep underground and fills a large pool. You cannot swim there today, but you can learn about daily life in Roman Britain. Bath Abbey, a large church, stands next to the baths. It has tall windows and a stone ceiling shaped like open fans. On its outside walls, there are carvings of angels on ladders.",
+            "Bath is a city in southwest England. Its ancient baths and historic buildings are famous. Because of these famous landmarks, the city is a UNESCO World Heritage Site. The main sights are close together, so you can walk to them. Bath is a great choice for a short trip.",
+            "The Romans built Bath so people could relax in natural hot springs. The Roman Baths are still the most famous site in the city. Hot water comes from deep underground and fills a large pool. You cannot swim there today, but you can learn about daily life in Roman Britain. Bath Abbey, a large church, stands next to the baths. It has tall windows and a stone ceiling shaped like open fans. You can see carvings of angels on ladders on its outside walls.",
             "Bath is also home to grand streets like the Royal Crescent and the Circus. The buildings are made from a local yellow stone, so the city looks warm and golden. Jane Austen lived in Bath, and Mary Shelley, the author of Frankenstein, also spent time there.",
-            "Bath is easy to explore on foot. It is no wonder that it has been a favorite destination for visitors to England for so long. Bath really shows Britain at its best."
+            "Bath is easy to explore on foot. It is no wonder that it has attracted travelers to England for so many years. Bath really shows Britain at its best."
           ]
         }
       ],
@@ -208,7 +208,7 @@
       "skill": "reading",
       "sub_skill": "detail",
       "type": "single-choice",
-      "stem": "According to paragraph 1, why is Bath protected as a UNESCO World Heritage Site?",
+      "stem": "According to paragraph 1, why is Bath a UNESCO World Heritage Site?",
       "stem_support": "Why is Bath a UNESCO World Heritage Site?",
       "options": [
         {
@@ -233,7 +233,7 @@
         }
       ],
       "answer": "C",
-      "explanation": "Paragraph 1 says the city is protected \"because of these famous landmarks\" — its ancient baths and historic buildings (C). 細節題：找出 because of 後面的原因。",
+      "explanation": "Paragraph 1 says the city is a World Heritage Site \"because of these famous landmarks\" — its ancient baths and historic buildings (C). 細節題：找出 because of 後面的原因。",
       "hints": [
         {
           "level": 1,

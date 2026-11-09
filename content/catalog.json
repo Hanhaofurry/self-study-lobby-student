@@ -3,29 +3,46 @@
   "courses": [
     {
       "course_id": "g10-core-a",
-      "title": "十年級必修英文",
-      "short": "必修英文",
-      "grade": [10],
+      "title": "高一 English 4U 9月號",
+      "short": "4U",
+      "grade": [
+        10
+      ],
       "track": "general",
-      "description": "生活與科技議題：閱讀、字彙、文法、寫作、聽力",
+      "description": "第二次段考範圍：Unit 6–12（下半冊）",
       "path": "courses/g10-core-a/course.json"
     },
     {
       "course_id": "g11-core-a",
-      "title": "十一年級必修英文",
-      "short": "必修英文",
-      "grade": [11],
-      "track": "general",
-      "description": "社會議題：消費、環境與文化",
+      "title": "職科高二 Live 互動英語 8月號",
+      "short": "Live",
+      "grade": [
+        11
+      ],
+      "track": "vocational",
+      "description": "第二次段考範圍：Unit 8–13（下半冊）",
       "path": "courses/g11-core-a/course.json"
     },
     {
-      "course_id": "g12-core-a",
-      "title": "十二年級學測衝刺英文",
-      "short": "學測衝刺",
-      "grade": [12],
+      "course_id": "g11-allplus",
+      "title": "綜高高二 ALL+ 互動英語 8月號",
+      "short": "ALL+",
+      "grade": [
+        11
+      ],
       "track": "general",
-      "description": "抽象議題與多觀點閱讀、議論寫作",
+      "description": "第二次段考範圍：Unit 8–13（下半冊）",
+      "path": "courses/g11-allplus/course.json"
+    },
+    {
+      "course_id": "g12-core-a",
+      "title": "十二年級學測衝刺英文（範例）",
+      "short": "範例",
+      "grade": [
+        12
+      ],
+      "track": "general",
+      "description": "範例課程",
       "path": "courses/g12-core-a/course.json"
     }
   ]

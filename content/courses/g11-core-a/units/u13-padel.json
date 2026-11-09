@@ -32,10 +32,10 @@
           "lexile": 990,
           "lexile_source": "estimated",
           "paragraphs": [
-            "At first, padel may look a lot like tennis, but it is played on a smaller court surrounded by glass walls. The ball can bounce off these walls and still stay in play, which keeps the game fast and exciting. Today, this fun sport is spreading quickly around the world.",
-            "Padel was invented in Mexico in 1969 by a man named Enrique Corcuera. He wanted to play tennis at home, but he did not have enough space. So he built a smaller court with walls around it, and a brand-new sport was born. The game later spread to Spain and Argentina, where it became very popular.",
-            "Padel and tennis seem similar, but there are clear differences. A padel court is only about one-third the size of a tennis court. Padel rackets are solid with small holes, while tennis rackets have strings. Tennis players usually serve over their heads, but padel players must serve below the waist. However, the two sports keep score in the same way.",
-            "Why is padel growing so fast? First, it is easy to pick up, and many beginners enjoy a match after just one lesson. Matches are also shorter than tennis matches, so they fit into busy schedules, and the game is a great workout. Millions of people now play on more than 77,000 courts worldwide, and Spain alone has more padel courts than tennis courts. Padel was scheduled to be played as a medal sport at the 2026 Asian Games for the first time, and fans hope to see it at the 2032 Olympics. Closer to home, Taiwan opened its first padel club in 2025. With simple rules and great fitness benefits, padel is set to become one of the world's most popular sports."
+            "At first glance, padel looks a lot like tennis. However, it is played on a smaller court with glass walls all around it. The ball is allowed to bounce off these walls and stay in play, which keeps the game fast and exciting. Today, this fun sport is spreading quickly around the world.",
+            "The sport began in Mexico in 1969. A man named Enrique Corcuera loved tennis and wanted to play it at home, but he didn't have room for a full tennis court. So he made a smaller court and put walls around it, and that is how a brand-new sport started. Later, padel traveled to Spain and Argentina, where it became a big hit.",
+            "Padel and tennis seem alike, but they have clear differences. A padel court is only around one-third as big as a tennis court. Padel rackets are solid and have small holes, while tennis rackets have strings. Tennis players usually serve over their heads, but in padel the serve must be hit below the waist. Still, the two sports use the same scoring system.",
+            "Why is padel growing so fast? First, it is easy to pick up, and many beginners can have fun in a match after only one lesson. A game also takes less time than a tennis match, so it fits into busy schedules, and the game is a great workout. Millions of people now play on more than 77,000 courts worldwide, and Spain alone has more padel courts than tennis courts. Padel was scheduled to appear as a medal sport at the 2026 Asian Games for the first time, and fans hope to see it at the 2032 Olympics. Closer to home, Taiwan opened its first padel club in 2025. With easy rules and big health benefits, it is set to become one of the world's top sports."
           ]
         },
         {
@@ -43,10 +43,10 @@
           "lexile": 830,
           "lexile_source": "estimated",
           "paragraphs": [
-            "Padel looks a lot like tennis. But the court is smaller and has glass walls. The ball can bounce off the walls and stay in play. This fun sport is spreading quickly around the world.",
-            "Padel was invented in Mexico in 1969 by Enrique Corcuera. He wanted to play tennis at home, but he did not have enough space. So he built a smaller court with walls. Later, the game became very popular in Spain and Argentina.",
-            "Padel and tennis are different in some ways. A padel court is about one-third the size of a tennis court. Padel rackets are solid with small holes, while tennis rackets have strings. In padel, players must serve below the waist. But the two sports keep score in the same way.",
-            "Why is padel growing so fast? It is easy to pick up. Many beginners enjoy a match after just one lesson. Matches are shorter than tennis matches, so they fit into busy schedules. It is also a great workout. There are more than 77,000 courts worldwide. Padel was scheduled to be played as a medal sport at the 2026 Asian Games for the first time. Taiwan opened its first padel club in 2025. Padel is set to become one of the world's most popular sports."
+            "Padel looks a lot like tennis. But the court is smaller, and it has glass walls. The ball can bounce off the walls and stay in play. This fun sport is spreading quickly around the world.",
+            "Padel began in Mexico in 1969. Enrique Corcuera wanted to play tennis, and he wanted to play it at home. But he didn't have room for a big court. So he made a smaller court with walls. Later, padel became a big hit in Spain and Argentina.",
+            "Padel and tennis are different in some ways. A padel court is around one-third as big as a tennis court. Padel rackets are solid and have small holes, while tennis rackets have strings. In padel, the serve must be hit below the waist. But the two sports use the same scoring system.",
+            "Why is padel growing so fast? It is easy to pick up. Many beginners can have fun in a match after only one lesson. Matches are shorter than tennis matches, so they fit into busy schedules. It is also a great workout. There are more than 77,000 courts worldwide. Padel was scheduled to appear as a medal sport at the 2026 Asian Games for the first time. Taiwan opened its first padel club in 2025. Many people believe padel is set to become a top sport around the world."
           ]
         }
       ],
@@ -173,10 +173,10 @@
         },
         {
           "level": 2,
-          "text": "Key words: \"was invented\", \"differences\"/\"different\", \"growing so fast\".",
+          "text": "Key words: \"began in Mexico\" and \"Why is padel growing so fast?\"",
           "action": "highlight-words",
           "words": [
-            "was invented in Mexico",
+            "began in Mexico",
             "Why is padel growing so fast?"
           ]
         },
@@ -221,7 +221,7 @@
         },
         {
           "key": "B",
-          "text": "He did not have enough space at home for tennis.",
+          "text": "He didn't have room at home for tennis.",
           "feedback": ""
         },
         {
@@ -232,11 +232,11 @@
         {
           "key": "D",
           "text": "He wanted to sell glass walls.",
-          "feedback": "Selling things is not mentioned. Look for \"enough space\"."
+          "feedback": "Selling things is not mentioned. Look for \"didn't have room\"."
         }
       ],
       "answer": "B",
-      "explanation": "Paragraph 2: he wanted to play tennis at home, but he did not have enough space (B).",
+      "explanation": "Paragraph 2: Corcuera loved tennis, but he didn't have room for a full court at home (B).",
       "hints": [
         {
           "level": 1,
@@ -246,11 +246,11 @@
         },
         {
           "level": 2,
-          "text": "Key words: \"wanted to play tennis at home\" and \"did not have enough space\".",
+          "text": "Key words: \"play it at home\" and \"didn't have room\".",
           "action": "highlight-words",
           "words": [
-            "wanted to play tennis at home",
-            "did not have enough space"
+            "play it at home",
+            "didn't have room"
           ]
         },
         {
@@ -264,7 +264,7 @@
         },
         {
           "level": 4,
-          "text": "No space at home → a smaller court. Answer: B.",
+          "text": "No room at home → a smaller court. Answer: B.",
           "action": "explain"
         }
       ],
@@ -319,11 +319,11 @@
         },
         {
           "level": 2,
-          "text": "Key words: \"easy to pick up\", \"after just one lesson\", \"busy schedules\".",
+          "text": "Key words: \"easy to pick up\", \"after only one lesson\", \"busy schedules\".",
           "action": "highlight-words",
           "words": [
             "easy to pick up",
-            "after just one lesson",
+            "after only one lesson",
             "busy schedules"
           ]
         },
@@ -382,7 +382,7 @@
         }
       ],
       "answer": "C",
-      "explanation": "pick up a skill/language = learn it（學會）. The next sentence proves it: beginners can enjoy a match after just one lesson. 字義題：用上下文判斷片語在這裡的意思。",
+      "explanation": "pick up a skill/language = learn it（學會）. The next sentence proves it: beginners can enjoy a match after only one lesson. 字義題：用上下文判斷片語在這裡的意思。",
       "hints": [
         {
           "level": 1,
@@ -392,11 +392,11 @@
         },
         {
           "level": 2,
-          "text": "Key words: \"beginners\" and \"after just one lesson\".",
+          "text": "Key words: \"beginners\" and \"after only one lesson\".",
           "action": "highlight-words",
           "words": [
             "easy to pick up",
-            "after just one lesson"
+            "after only one lesson"
           ]
         },
         {

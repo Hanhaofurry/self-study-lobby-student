@@ -1,9 +1,19 @@
 {
   "course_id": "g10-core-a",
-  "title": "十年級必修英文",
-  "grade": [10],
+  "title": "高一 English 4U 9月號（第二次段考：Unit 6–12）",
+  "grade": [
+    10
+  ],
   "track": "general",
-  "default_level": "standard",
-  "version": "2026.11",
-  "units": ["units/u01-phones.json", "units/u02-food-waste.json"]
+  "default_level": "support",
+  "version": "2026.09",
+  "units": [
+    "units/u06-agatha-christie.json",
+    "units/u07-mockumentary.json",
+    "units/u08-melamine-sponge.json",
+    "units/u09-social-prescribing.json",
+    "units/u10-fingerprints.json",
+    "units/u11-no-kids-zones.json",
+    "units/u12-city-nicknames.json"
+  ]
 }

@@ -32,10 +32,10 @@
           "lexile": 980,
           "lexile_source": "estimated",
           "paragraphs": [
-            "Videos of otters eating, playing, or sleeping are hugely popular online, and it is easy to see why. But not all otters are the same. Sea otters and river otters are both part of the weasel family, yet they live in different places, look different, and behave in different ways.",
-            "Sea otters make their home in the North Pacific Ocean, along the coasts from Russia to California. They spend almost their whole lives in the sea and rarely come onto land. River otters, on the other hand, live in freshwater rivers, lakes, and wetlands around the world, and they often move between water and land. Sea otters are also considerably bigger and heavier. Their tails are short and flat, while river otters have long, pointed tails. In addition, sea otters have the thickest fur of any animal, which keeps them warm in the cold ocean.",
-            "Their diets are different, too. Sea otters love crabs and clams, and they are one of the few animals that use tools: they use rocks to break open shells. River otters prefer fish, frogs, and crayfish, which they catch by diving underwater. They can hold their breath for up to eight minutes.",
-            "Even their playtime and bedtime look different. River otters slide down muddy hills on their bellies just for fun, and scientists think this helps them practice skills and save energy while they travel. Sea otters sleep floating on their backs. Sometimes they hold each other's paws so that they don't move apart, and they hold onto kelp to stay in one place. Although the two kinds of otters lead very different lives, both are smart, playful animals that are well suited to their homes. You can even see river otters in Kinmen, where more than 60 of them live."
+            "Online videos of otters eating, playing, or napping are hugely popular, and it is easy to see why. But not all otters are the same. Sea otters and river otters belong to the same animal group, the weasel family, yet they live in different places, look different, and behave in different ways.",
+            "Sea otters make their home in the northern Pacific, along the coasts between Russia and California. They spend nearly their whole lives in the water and rarely come onto land. River otters are quite different. Most of them live in freshwater rivers, lakes, and wetlands across the world, and they often travel back and forth between water and land. Sea otters are also considerably bigger and heavier. Their tails are short and flat, while the tails of river otters are long and pointed. On top of that, no animal on Earth has thicker fur than the sea otter, and this thick coat protects it from the cold ocean.",
+            "Their diets are different, too. Sea otters love crabs and clams, and they are among the few animals that use tools: they smash shells open with rocks. River otters would rather eat fish, frogs, and crayfish, which they hunt by diving underwater. A river otter can hold its breath for as long as eight minutes.",
+            "Even their playtime and bedtime look different. River otters like to slide down muddy hills on their bellies because it is fun, and scientists think this helps them practice skills and save energy when they travel. Sea otters, however, sleep floating on their backs. Sometimes two of them hold paws so that they don't drift apart, and they also grab onto kelp so they stay in one place. Although the two kinds of otters lead very different lives, both are clever, playful animals that fit their homes well. You can even see river otters in Kinmen, which is home to more than 60 of them."
           ]
         },
         {
@@ -43,10 +43,10 @@
           "lexile": 820,
           "lexile_source": "estimated",
           "paragraphs": [
-            "Many people love videos of otters eating, playing, or sleeping. But there is more than one kind of otter. Sea otters and river otters are both part of the weasel family. But they live in different places, look different, and act differently.",
-            "Sea otters live in the North Pacific Ocean, from Russia to California. They rarely come onto land. River otters, on the other hand, live in freshwater rivers, lakes, and wetlands around the world. They often move between water and land. Sea otters are bigger and heavier. Their tails are short and flat, while river otters have long, pointed tails. Sea otters have the thickest fur of any animal. It keeps them warm in the cold ocean.",
-            "They eat different foods. Sea otters love crabs and clams. They use rocks to break open shells. River otters prefer fish, frogs, and crayfish. They dive underwater to catch them. They can hold their breath for up to eight minutes.",
-            "They also play and sleep differently. River otters slide down muddy hills on their bellies just for fun. Sea otters sleep floating on their backs. Sometimes they hold each other's paws so that they don't move apart. Both kinds of otters are smart and playful, and both are well suited to their homes. More than 60 river otters live in Kinmen."
+            "Many people love online videos of otters. But there is more than one kind of otter. Sea otters and river otters are both in the weasel family. But their homes, looks, and habits are different.",
+            "Sea otters live in the northern Pacific, between Russia and California. They rarely come onto land; the ocean is their home. River otters are different. They live in rivers, lakes, and wetlands with fresh water all over the world. They often go back and forth between water and land. Sea otters are bigger and heavier. Their tails are short and flat, while the tails of river otters are long and pointed. No animal has thicker fur than the sea otter. Its fur keeps it warm in the cold ocean.",
+            "They eat different foods. Sea otters love crabs and clams. They smash shells open with rocks. River otters would rather eat fish, frogs, and crayfish. They dive underwater to catch them. A river otter can hold its breath for as long as eight minutes.",
+            "They also play and sleep in different ways. River otters slide down muddy hills on their bellies because it is fun. Sea otters sleep floating on their backs. Sometimes two of them hold paws so that they don't drift apart. Both kinds of otters are clever and playful, and both fit their homes well. More than 60 river otters live in Kinmen."
           ]
         }
       ],
@@ -172,12 +172,12 @@
         },
         {
           "level": 2,
-          "text": "Key words: \"on the other hand\" and \"while river otters\" show that two animals are being compared.",
+          "text": "Key words: \"on the other hand\" and \"while the tails of river otters\" show that two animals are being compared.",
           "action": "highlight-words",
           "words": [
             "weasel family",
             "on the other hand",
-            "while river otters"
+            "while the tails of river otters"
           ]
         },
         {
@@ -309,7 +309,7 @@
         }
       ],
       "answer": "A",
-      "explanation": "Sea otters love crabs and clams, and they use rocks to break open shells. So the rocks help them get food that is inside hard shells (A). 推論題：吃有硬殼的食物 → 需要工具敲開。",
+      "explanation": "Sea otters love crabs and clams, and they smash shells open with rocks. So the rocks help them get food that is inside hard shells (A). 推論題：吃有硬殼的食物 → 需要工具敲開。",
       "hints": [
         {
           "level": 1,
@@ -319,11 +319,11 @@
         },
         {
           "level": 2,
-          "text": "Key words: \"crabs and clams\" and \"break open shells\".",
+          "text": "Key words: \"crabs and clams\" and \"shells open with rocks\".",
           "action": "highlight-words",
           "words": [
             "crabs and clams",
-            "break open shells"
+            "shells open with rocks"
           ]
         },
         {
@@ -357,7 +357,7 @@
       "skill": "reading",
       "sub_skill": "cause-effect",
       "type": "single-choice",
-      "stem": "Why do sea otters sometimes hold each other's paws?",
+      "stem": "Why do sea otters sometimes hold paws?",
       "stem_support": "Why do sea otters hold paws?",
       "options": [
         {
@@ -377,12 +377,12 @@
         },
         {
           "key": "D",
-          "text": "So they don't move apart while they sleep",
+          "text": "So they don't drift apart while they sleep",
           "feedback": ""
         }
       ],
       "answer": "D",
-      "explanation": "\"They hold each other's paws so that they don't move apart\" (D). so that 表示目的：為了不要漂開。",
+      "explanation": "Sea otters hold paws \"so that they don't drift apart\" (D). so that 表示目的：為了不要漂開。",
       "hints": [
         {
           "level": 1,
@@ -392,11 +392,11 @@
         },
         {
           "level": 2,
-          "text": "Key words: \"so that they don't move apart\". so that = in order to.",
+          "text": "Key words: \"so that they don't drift apart\". so that = in order to.",
           "action": "highlight-words",
           "words": [
-            "hold each other's paws",
-            "so that they don't move apart"
+            "hold paws",
+            "so that they don't drift apart"
           ]
         },
         {
@@ -580,7 +580,7 @@
         },
         {
           "level": 4,
-          "text": "Answer: breath. River otters can hold their breath for up to eight minutes.",
+          "text": "Answer: breath. A river otter can hold its breath for as long as eight minutes.",
           "action": "explain"
         }
       ],
@@ -1020,7 +1020,7 @@
       "skill": "reading",
       "sub_skill": "inference",
       "type": "single-choice",
-      "stem": "River otters can hold their breath for up to eight minutes. This most likely helps them ___.",
+      "stem": "River otters can hold their breath for as long as eight minutes. This most likely helps them ___.",
       "options": [
         {
           "key": "A",

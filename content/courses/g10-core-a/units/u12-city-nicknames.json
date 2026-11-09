@@ -1,0 +1,1064 @@
+{
+  "unit": {
+    "unit_id": "g10-4u-u12",
+    "order": 12,
+    "title": "Not Just a Name: Stories Behind City Nicknames",
+    "title_zh": "城市暱稱裡的歷史、榮光與形象",
+    "topic": "culture",
+    "grade": [
+      10
+    ],
+    "objectives": [
+      "I can explain where some famous city nicknames come from.",
+      "I can choose between besides, except (for), and apart from to say 除此之外 / 除了…都.",
+      "I can use although / though to join two ideas that contrast."
+    ],
+    "estimated_minutes": 30,
+    "tags": [
+      "#4u-2026-09"
+    ],
+    "source": "English 4U 2026年9月號 p.60"
+  },
+  "passages": [
+    {
+      "passage_id": "g10-4u-u12-p1",
+      "title": "Cities with Nicknames",
+      "topic": "culture",
+      "abstraction": "social",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1000,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Many cities are known by more than one name. Besides its official name, a city may have a nickname that tells us about its past, its pride, or the way people see it. Here are three well-known examples.",
+            "Venice, Italy, is often called the City of Water. Apart from that name, it is also known as La Serenissima, “the most serene.” This title comes from the old Republic of Venice (697–1797) and suggests calm, dignity, and power. Venice has a more romantic nickname, too: the Bride of the Sea. In an old ceremony, the leader of the city dropped a gold ring into the Adriatic Sea. This special act showed how much Venice depended on the sea.",
+            "At first glance, the Windy City, a nickname for Chicago, seems to be about the cool breezes from Lake Michigan. However, several US cities are windier than Chicago. A common story points to the late 1800s, when Chicago's politicians and supporters loudly promoted their city and made big promises about its future. In English, a “windy” person talks too much or brags. Chicago competed with New York to host the 1893 World's Fair, and the nickname spread. Although New Yorkers laughed at Chicago's bold claims, Chicago won. The name began as criticism but became a badge of pride.",
+            "Some nicknames are shared. Johannesburg in South Africa and Dubai in the UAE are both called the City of Gold. In 1886, a huge gold mine was found in Johannesburg, and miners and fortune seekers rushed in. The city grew into a financial center, and its province, Gauteng, even means “place of gold.” Dubai has no gold mines, though. Instead, its location on the Persian Gulf made it a major place for trading gold in the 20th century. Its Gold Souk is still one of the world's biggest gold markets."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 850,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Besides its official name, a city often has a nickname. The nickname can tell us about its past, its pride, or its image.",
+            "Venice, Italy, is called the City of Water. Apart from that name, it is called La Serenissima, “the most serene.” This name comes from the old Republic of Venice. Venice is also the Bride of the Sea. In an old ceremony, the city's ruler threw a gold ring into the sea. This dramatic act showed how much Venice depended on the sea.",
+            "At first glance, the Windy City, Chicago's nickname, seems to be about wind from Lake Michigan. But several US cities are windier than Chicago. In the late 1800s, Chicago's politicians and supporters loudly promoted their city. In English, a “windy” person talks too much or brags. Although New Yorkers laughed at Chicago, Chicago won, and the 1893 World's Fair was held there. The name began as criticism but became a badge of pride.",
+            "Johannesburg and Dubai are both called the City of Gold. In 1886, a huge gold mine was found in Johannesburg. Many miners and fortune seekers came. Dubai has no gold mines, though. Its location on the Persian Gulf made it a major place for trading gold. Its Gold Souk is one of the world's biggest gold markets."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "nickname",
+          "pos": "n.",
+          "zh": "別名；綽號",
+          "example": "My friends gave me the nickname “Noodle” because I'm tall and thin."
+        },
+        {
+          "word": "reveal",
+          "pos": "v.",
+          "zh": "揭露；透露",
+          "example": "Her smile revealed that she had good news."
+        },
+        {
+          "word": "dramatic",
+          "pos": "adj.",
+          "zh": "引人注目的；戲劇性的",
+          "example": "The movie has a dramatic ending in the rain."
+        },
+        {
+          "word": "promote",
+          "pos": "v.",
+          "zh": "宣傳；推廣",
+          "example": "The band used social media to promote its new song."
+        },
+        {
+          "word": "bold",
+          "pos": "adj.",
+          "zh": "大膽的",
+          "example": "It was bold of him to sing in front of the whole school."
+        },
+        {
+          "word": "attract",
+          "pos": "v.",
+          "zh": "吸引",
+          "example": "The lantern festival attracts many tourists every year."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g10-4u-u12-r1",
+      "skill": "reading",
+      "title": "Reading 1 · What's in a City Name?",
+      "passage_id": "g10-4u-u12-p1",
+      "question_ids": [
+        "g10-4u-u12-q01",
+        "g10-4u-u12-q02",
+        "g10-4u-u12-q03",
+        "g10-4u-u12-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g10-4u-u12-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · City Words",
+      "question_ids": [
+        "g10-4u-u12-q11",
+        "g10-4u-u12-q12",
+        "g10-4u-u12-q13",
+        "g10-4u-u12-q14",
+        "g10-4u-u12-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g10-4u-u12-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · besides / except & although / though",
+      "question_ids": [
+        "g10-4u-u12-q21",
+        "g10-4u-u12-q22",
+        "g10-4u-u12-q23",
+        "g10-4u-u12-q24"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g10-4u-u12-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to choose a nickname for a friend",
+          "feedback": "The passage is about CITY nicknames, not friends' nicknames."
+        },
+        {
+          "key": "B",
+          "text": "How some city nicknames show a city's history, pride, or image",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Why Chicago is the windiest city in the US",
+          "feedback": "The passage says other US cities are windier than Chicago."
+        },
+        {
+          "key": "D",
+          "text": "Where to buy gold in Dubai",
+          "feedback": "The Gold Souk is only one detail in the last paragraph."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 1 says nicknames tell us about a city's past, pride, or image, and paragraphs 2–4 give examples (Venice, Chicago, the City of Gold). (B)",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 1. It introduces the topic.",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: “nickname” and “its past, its pride”.",
+          "action": "highlight-words",
+          "words": [
+            "nickname",
+            "its past, its pride"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C is false: other cities are windier.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Paragraph 1 = topic; paragraphs 2–4 = examples. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u12-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "In the old ceremony, what did the ruler of Venice throw into the sea?",
+      "stem_support": "What did Venice's ruler throw into the sea?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A crown",
+          "feedback": "A crown is not mentioned. Read paragraph 2 again."
+        },
+        {
+          "key": "B",
+          "text": "Some flowers",
+          "feedback": "Flowers are not in the text."
+        },
+        {
+          "key": "C",
+          "text": "A gold ring",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "A letter to the sea",
+          "feedback": "There is no letter in the passage."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 2: “the city's ruler threw a gold ring into the ... Sea.” A ring fits the idea of a marriage — the Bride of the Sea. (C)",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 2. Find the word “ceremony”.",
+          "action": "highlight-paragraph",
+          "paragraph": 1
+        },
+        {
+          "level": 2,
+          "text": "Key words: “threw a gold ring”.",
+          "action": "highlight-words",
+          "words": [
+            "a gold ring"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option B is not in the text. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "A ring for a bride → a gold ring. Answer: C.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "What can we infer about the word “windy” in Chicago's nickname?",
+      "stem_support": "What did “windy” probably mean at first?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It first described the city's strong winds only.",
+          "feedback": "The passage says several US cities are windier than Chicago. So weather may not be the real reason."
+        },
+        {
+          "key": "B",
+          "text": "It may first have described people who talked too much about their city.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "It was a name Chicago chose to sound calm and peaceful.",
+          "feedback": "Calm and peaceful describes Venice's nickname, not Chicago's."
+        },
+        {
+          "key": "D",
+          "text": "It was given to Chicago after it lost the World's Fair.",
+          "feedback": "Chicago WON the chance to host the fair."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Other US cities are windier than Chicago, and “windy” can also describe someone who brags or talks too much. Chicago's politicians made big promises, so the name probably described their talk (B). 推論：windy 一語雙關，指愛吹牛的人。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 3 carefully.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “windier than Chicago” and “talks too much or brags”.",
+          "action": "highlight-words",
+          "words": [
+            "windier than Chicago",
+            "talks too much or brags"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is false: Chicago won. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Not about weather → about talking. Answer: B.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 3,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q04",
+      "skill": "reading",
+      "sub_skill": "compare-contrast",
+      "type": "single-choice",
+      "stem": "How is Dubai's connection to gold different from Johannesburg's?",
+      "stem_support": "How are Dubai and Johannesburg different?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dubai found a bigger gold mine in 1886.",
+          "feedback": "The gold mine of 1886 was found in Johannesburg."
+        },
+        {
+          "key": "B",
+          "text": "Dubai has no gold mines but became a place for trading gold.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Dubai's name means “place of gold.”",
+          "feedback": "That is Gauteng, the province of Johannesburg."
+        },
+        {
+          "key": "D",
+          "text": "Dubai stopped selling gold long ago.",
+          "feedback": "Its Gold Souk is still one of the biggest gold markets."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Johannesburg has gold in the ground (a gold mine found in 1886). Dubai has no gold mines; its location made it a gold-trading place. (B)",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 4. Compare the two cities.",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: “gold mine was found in Johannesburg” and “Dubai has no gold mines”.",
+          "action": "highlight-words",
+          "words": [
+            "Dubai has no gold mines",
+            "trading gold"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C describes Gauteng, not Dubai. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Johannesburg = mining; Dubai = trading. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u12-q04v",
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Everyone calls my brother “Rocket” because he runs so fast. It's his ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "bride",
+          "feedback": "A bride is a woman getting married. Read the clue “calls my brother”."
+        },
+        {
+          "key": "B",
+          "text": "nickname",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "republic",
+          "feedback": "A republic is a kind of country."
+        }
+      ],
+      "answer": "B",
+      "explanation": "nickname = 綽號. “Rocket” is not his real name; it is a fun name friends use.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What do people “call” your brother?",
+          "action": "highlight-words",
+          "words": [
+            "calls my brother"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “an extra, informal name”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is a kind of country. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: nickname.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q12",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The singer went on many TV shows to ___ her new album.",
+      "options": [
+        {
+          "key": "A",
+          "text": "promote",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "compete",
+          "feedback": "Compete means “try to win against others”. You don't compete an album."
+        },
+        {
+          "key": "C",
+          "text": "locate",
+          "feedback": "Locate means “find the place of” something. Is that why she went on TV?"
+        }
+      ],
+      "answer": "A",
+      "explanation": "promote = 宣傳；推廣. She went on TV so more people would know about and buy the album.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Why does a singer go on TV shows with a new album?",
+          "action": "highlight-words",
+          "words": [
+            "new album"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “tell people about something so they buy it”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C means “find”. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: promote. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u12-q12v",
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q13",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "The new night market a_______ thousands of visitors every weekend. (draws people to it)",
+      "answer": [
+        "attracts",
+        "attracted"
+      ],
+      "explanation": "attract = 吸引. The subject (the night market) is singular and the sentence is about a habit, so attracts.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the meaning in brackets.",
+          "action": "highlight-words",
+          "words": [
+            "draws people to it"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The word starts with a and means 吸引.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "The subject is singular, present tense → add -s.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: attracts.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "It was a ___ decision to leave her safe job and open her own bakery.",
+      "options": [
+        {
+          "key": "A",
+          "text": "bold",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "commercial",
+          "feedback": "Commercial means “about business and buying”. The clue is “leave her safe job”."
+        },
+        {
+          "key": "C",
+          "text": "romantic",
+          "feedback": "Romantic is about love. Does opening a bakery need love or courage?"
+        }
+      ],
+      "answer": "A",
+      "explanation": "bold = 大膽的. Leaving a safe job to start a business takes courage.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read what she did.",
+          "action": "highlight-words",
+          "words": [
+            "leave her safe job"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “brave, not afraid of risk”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is about love. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: bold.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q15",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The hotel is ___ right next to the train station, so it's very easy to find.",
+      "options": [
+        {
+          "key": "A",
+          "text": "attracted",
+          "feedback": "Attract means “pull people in”. The clue is about where the hotel is."
+        },
+        {
+          "key": "B",
+          "text": "located",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "revealed",
+          "feedback": "Reveal means “show a secret”. Does it describe a place?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "be located + place = 位於…. The hotel is next to the station.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the words after the blank.",
+          "action": "highlight-words",
+          "words": [
+            "right next to the train station"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "be ___ + place = 位於.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is about secrets. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: located.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q21",
+      "skill": "grammar",
+      "sub_skill": "concession",
+      "type": "single-choice",
+      "stem": "___ the math test was difficult, Tim still got a high score.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because",
+          "feedback": "Because shows a reason. Does a difficult test cause a high score?"
+        },
+        {
+          "key": "B",
+          "text": "Although",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "So",
+          "feedback": "So shows a result and is not used at the start like this."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Although / Though + S + V, S + V = 雖然…，(還是)…. Difficult test ↔ high score is a contrast.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Compare the two ideas: difficult test / high score.",
+          "action": "highlight-words",
+          "words": [
+            "difficult",
+            "high score"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Contrast → although / though.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C cannot start this sentence. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: Although. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u12-q21v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q22",
+      "skill": "grammar",
+      "sub_skill": "besides-except",
+      "type": "single-choice",
+      "stem": "___ English, Amy also studies Japanese and Korean.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Except",
+          "feedback": "Except means “not including”. But Amy DOES study English."
+        },
+        {
+          "key": "B",
+          "text": "Besides",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Without",
+          "feedback": "Without means “not having”. Amy does study English."
+        }
+      ],
+      "answer": "B",
+      "explanation": "besides = 除了…之外（還有）. Amy studies English AND Japanese and Korean. The word “also” is a clue.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the word “also” in the sentence.",
+          "action": "highlight-words",
+          "words": [
+            "also"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "“also” → adding more things → besides / in addition to.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C means “not having”. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: Besides.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q23",
+      "skill": "grammar",
+      "sub_skill": "besides-except",
+      "type": "single-choice",
+      "stem": "Everyone in our class went on the trip ___ Leo, who was sick at home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "besides",
+          "feedback": "Besides adds people. But Leo did NOT go."
+        },
+        {
+          "key": "B",
+          "text": "in addition to",
+          "feedback": "In addition to adds people too. Leo stayed home."
+        },
+        {
+          "key": "C",
+          "text": "except",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "except (for) = 除了…之外（都…）, removing Leo from “everyone”. Leo was sick and did not go.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Did Leo go on the trip?",
+          "action": "highlight-words",
+          "words": [
+            "who was sick at home"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Everyone ... but NOT Leo → a word that removes someone.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A adds people. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: except.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u12-q24",
+      "skill": "grammar",
+      "sub_skill": "concession",
+      "type": "single-choice",
+      "stem": "Which sentence is NOT correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Although it was cold, we went swimming.",
+          "feedback": "This one is correct: Although + clause, main clause."
+        },
+        {
+          "key": "B",
+          "text": "Though he was tired, but he kept working.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "We went swimming, though it was cold.",
+          "feedback": "This one is correct: though can join two clauses in the middle."
+        },
+        {
+          "key": "D",
+          "text": "The phone is cheap. It works well, though.",
+          "feedback": "This one is correct: though can be an adverb at the end."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Do not use although / though and but in the same sentence. Correct: “Though he was tired, he kept working.” 中文說「雖然…但是…」，英文只能選一個。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Count the linking words in each sentence.",
+          "action": "highlight-words",
+          "words": [
+            "Though",
+            "but"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Rule: although/though + but ✗ (only one is allowed).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A follows the rule. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: B.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g10-4u-u12-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The Stories Behind City Nicknames"
+        },
+        {
+          "key": "B",
+          "text": "How to Travel Around Italy"
+        },
+        {
+          "key": "C",
+          "text": "The Biggest Gold Mines Today"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The passage explains where several city nicknames come from."
+    },
+    {
+      "question_id": "g10-4u-u12-q04v",
+      "skill": "reading",
+      "sub_skill": "compare-contrast",
+      "type": "single-choice",
+      "stem": "What helped Dubai become a major place for trading gold?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Its large gold mines"
+        },
+        {
+          "key": "B",
+          "text": "Its location on the Persian Gulf"
+        },
+        {
+          "key": "C",
+          "text": "Its cold weather"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Its location on the Persian Gulf made it a major trading place."
+    },
+    {
+      "question_id": "g10-4u-u12-q12v",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The city made a short video to ___ its lantern festival around the world.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reveal"
+        },
+        {
+          "key": "B",
+          "text": "promote"
+        },
+        {
+          "key": "C",
+          "text": "compete"
+        }
+      ],
+      "answer": "B",
+      "explanation": "promote an event = advertise it so more people come."
+    },
+    {
+      "question_id": "g10-4u-u12-q21v",
+      "skill": "grammar",
+      "sub_skill": "concession",
+      "type": "single-choice",
+      "stem": "___ it was raining, the children played outside.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Though"
+        },
+        {
+          "key": "B",
+          "text": "Because"
+        },
+        {
+          "key": "C",
+          "text": "But"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Rain ↔ playing outside is a contrast → Though."
+    }
+  ]
+}

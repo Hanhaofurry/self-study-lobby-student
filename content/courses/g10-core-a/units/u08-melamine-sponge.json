@@ -314,7 +314,7 @@
         },
         {
           "level": 2,
-          "text": "Key words: “Hot water” (support: “hot water”) and “cups or bowls”.",
+          "text": "Key words: “hot water” and “cups or bowls”.",
           "action": "highlight-words",
           "words": [
             "hot water",

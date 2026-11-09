@@ -45,10 +45,10 @@ content/
     └── g10-core-a/
         ├── course.json     課程設定與單元檔清單
         └── units/
-            └── u01-phones.json   單元：文章、題組、題目、變式題
+            └── u06-agatha-christie.json   單元：改寫文章、題組、題目、變式題
 ```
 
-1. **新增單元**：複製 `content/courses/g10-core-a/units/u01-phones.json`，修改內容後，把檔名加到該課程的 `course.json` → `units`。
+1. **新增單元**：複製 `content/courses/g10-core-a/units/u06-agatha-christie.json`，修改內容後，把檔名加到該課程的 `course.json` → `units`。
 2. **題目必填欄位**：`question_id`（全站唯一）、`skill`、`sub_skill`、`type`（`single-choice`／`fill-blank`／`essay`）、`stem`、`options`、`answer`、`explanation`、四個 `hints`、`difficulty`、`bloom`、`dok`、`status`。
    - 只有 `status: "published"` 的題目會出現給學生；`draft`／`review` 會被隱藏。
    - 支援版：文章寫在 `variants` 的 `level: "support"`；題幹可另填 `stem_support`。
@@ -57,7 +57,7 @@ content/
 4. **新增課程**：在 `content/courses/` 建新資料夾與 `course.json`，再到 `content/catalog.json` 登記。
 5. 在 GitHub 網頁上直接編輯或上傳檔案，按 **Commit changes**，幾分鐘後網站自動更新。
 
-範例班級代碼：`10A-2026`（練習模式）、`V1-2026`（高職、支援版、提示不扣分）、`11B-2026`、`12C-2026`（小考模式，只開放第一階段提示）。
+範例班級代碼：`10A-2026`（練習模式）、`V1-2026`（高職、支援版、提示不扣分）、`12C-2026`（小考模式，只開放第一階段提示）。
 
 ## 部署到 GitHub Pages
 

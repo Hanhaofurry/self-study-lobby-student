@@ -27,7 +27,7 @@
       "abstraction": "concrete",
       "original_available": true,
       "audio_url": "",
-      "transcript": "[1] Flight Delay\nPassenger: Hi. The screen says my flight is delayed. Do you know why?\nAgent: Yes. We found a technical problem with the plane, and safety comes first. Boarding will start at 6:30 p.m. Here is a meal voucher for the airport restaurants.\n[2] Airport Curfew\nPassenger: My delayed flight was just canceled! What happened?\nAgent: I'm sorry. This airport has a curfew. No planes can take off or land at night. The next flight leaves tomorrow at 10:30 a.m.\nPassenger: Will you give me a hotel room?\nAgent: I'm afraid not. We are a low-cost airline, so hotels aren't included. But we can give you a travel voucher.\n[3] Lost Baggage\nPassenger: My suitcase never came out. Here is my baggage claim ticket.\nAgent: Let me help you file a report. What does your bag look like?\nPassenger: It's a medium-sized black suitcase with a red tag.\nAgent: Thank you. Please write down your phone number and address. We'll track your bag and call you when we know more.\n[4] Missed Connection\nPassenger: My first flight was late, so I missed my connecting flight to Tokyo.\nAgent: There's another flight at 9:00 tonight. I can rebook you on it.\nPassenger: Do I have to pay extra?\nAgent: No. The delay was the airline's fault, so the change is free of charge. Please go to gate 12.",
+      "transcript": "[1] Flight Delay\nPassenger: Hi. The screen says my flight is delayed. Do you know why?\nAgent: Yes. We found a technical problem with the plane, and safety comes first. Boarding will start at 6:30 p.m. Here is a meal voucher for the airport restaurants.\n[2] Airport Curfew\nPassenger: My delayed flight was just canceled! What happened?\nAgent: I'm sorry. This airport has a curfew. No planes can take off or land at night. The next flight leaves tomorrow at 10:30 a.m.\nPassenger: Will you give me a hotel room?\nAgent: I'm afraid not. We are a low-cost airline, so hotels aren't included. But we can give you a travel voucher.\n[3] Lost Baggage\nPassenger: My suitcase never came out. Here is my baggage claim ticket.\nAgent: Let me help you file a report. What does your bag look like?\nPassenger: It's black and medium-sized, and it has a red tag.\nAgent: Thank you. Please write down your phone number and address. We'll track your bag and call you when we know more.\n[4] Missed Connection\nPassenger: My first flight was late, so I missed my connecting flight to Tokyo.\nAgent: There's another flight at 9:00 tonight. I can rebook you on it.\nPassenger: Do I have to pay extra?\nAgent: No. The delay was the airline's fault, so the change is free of charge. Please go to gate 12.",
       "variants": []
     }
   ],
@@ -215,7 +215,7 @@
         }
       ],
       "answer": "D",
-      "explanation": "She describes the bag (a medium-sized black suitcase with a red tag) and writes down her phone number and address, so the airline can track the bag and contact her (D).",
+      "explanation": "She describes the bag (black, medium-sized, with a red tag) and writes down her phone number and address, so the airline can track the bag and contact her (D).",
       "hints": [
         {
           "level": 1,
@@ -229,7 +229,7 @@
         },
         {
           "level": 3,
-          "text": "\"It's a medium-sized black suitcase with a red tag.\" ... \"Please write down your ___ ___ and address.\"",
+          "text": "\"It's black and medium-sized, and it has a red tag.\" ... \"Please write down your ___ ___ and address.\"",
           "action": "partial-transcript"
         },
         {
