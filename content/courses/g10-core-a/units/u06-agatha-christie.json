@@ -1,0 +1,1062 @@
+{
+  "unit": {
+    "unit_id": "g10-4u-u06",
+    "order": 6,
+    "title": "A Life Full of Mystery? Meet Agatha Christie!",
+    "title_zh": "謎樣人生——謎案作家阿嘉莎．克莉絲蒂",
+    "topic": "people",
+    "grade": [
+      10
+    ],
+    "objectives": [
+      "I can find key facts about a famous writer's life and work.",
+      "I can use non-restrictive appositives (e.g. “Mr. Lin, my teacher, ...”) with commas.",
+      "I can use the past perfect to show which past event happened first."
+    ],
+    "estimated_minutes": 30,
+    "tags": [
+      "#4u-2026-09"
+    ],
+    "source": "English 4U 2026年9月號 p.30"
+  },
+  "passages": [
+    {
+      "passage_id": "g10-4u-u06-p1",
+      "title": "The Queen of Crime and Her Own Mystery",
+      "topic": "people",
+      "abstraction": "concrete",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 940,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Do you love a story that keeps you guessing? Then you should know Agatha Christie (1890–1976), an English writer who is still famous for her detective novels and collections of short stories. Her crime stories were so well loved that people began calling her “the Queen of Crime.” A lot of her plots happen in small, closed places. Murder on the Orient Express, a very famous book of hers, takes place on a train. And Then There Were None, in addition, follows a group of people on a remote island. Both books end in ways that few readers expect.",
+            "Christie also gave the world two unforgettable detectives. Hercule Poirot, a clever detective from Belgium, notices tiny clues that everyone else misses. Miss Marple is very different: she is an elderly woman, and she solves crimes with the wisdom of a long life. Neither of them is a strong action hero. Through them, Christie showed that brains matter more than muscles.",
+            "In 1926, Christie's own life turned into a mystery. Her mother had died, and her husband wanted a divorce. Then, suddenly, Christie went missing. For 11 days, police officers and ordinary citizens searched for her. Her car was found near a lake, which only made people more worried. At last, she was found safe at a hotel. Strangely, she had checked in with the surname of the woman her husband was seeing.",
+            "What had happened during those 11 days? Her husband claimed that she had lost her memory. However, many people believed a different theory: she had vanished on purpose to punish her husband and maybe even get the police to think he had done something wrong. Nobody knows the true answer, even today. In 2026, the 50th anniversary of her death, readers around the world are still enjoying her mysteries."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 790,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Do you love a story that keeps you guessing? Agatha Christie (1890–1976) was an English writer. She wrote detective novels and short stories. People call her “the Queen of Crime.” Most of her stories happen in small places. Murder on the Orient Express happens on a train. And Then There Were None happens on a remote island. Both books have surprising endings.",
+            "Christie also made two unforgettable detectives. Hercule Poirot, a clever detective from Belgium, sees tiny clues that others miss. Miss Marple is an elderly woman. She uses her life experience to solve crimes. They are not strong heroes. They win with their brains.",
+            "In 1926, Christie's mother had died, and her husband wanted a divorce. Then Christie went missing for 11 days. Police officers and ordinary citizens looked for her. Her car was found near a lake. At last, she was found safe at a hotel. She had checked in with the surname of the woman her husband was seeing.",
+            "What happened? Her husband claimed that she had lost her memory. But many people had another idea. They thought she had vanished on purpose to punish her husband. Nobody knows the true answer. In 2026, it is 50 years since her death, and people still love her mysteries."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "remote",
+          "pos": "adj.",
+          "zh": "偏遠的",
+          "example": "The hikers got lost in a remote forest with no phone signal."
+        },
+        {
+          "word": "elderly",
+          "pos": "adj.",
+          "zh": "上了年紀的",
+          "example": "The bus driver waited for the elderly man to sit down."
+        },
+        {
+          "word": "missing",
+          "pos": "adj.",
+          "zh": "失蹤的；找不到的",
+          "example": "My cat went missing last night, but she came home this morning."
+        },
+        {
+          "word": "citizen",
+          "pos": "n.",
+          "zh": "市民；公民",
+          "example": "Many citizens cleaned the beach together on Saturday."
+        },
+        {
+          "word": "claim",
+          "pos": "v.",
+          "zh": "聲稱",
+          "example": "Ben claims that he can eat ten hamburgers at once."
+        },
+        {
+          "word": "vanish",
+          "pos": "v.",
+          "zh": "（突然）消失",
+          "example": "The rabbit vanished into the bushes before I could take a photo."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g10-4u-u06-r1",
+      "skill": "reading",
+      "title": "Reading 1 · The Queen of Crime",
+      "passage_id": "g10-4u-u06-p1",
+      "question_ids": [
+        "g10-4u-u06-q01",
+        "g10-4u-u06-q02",
+        "g10-4u-u06-q03",
+        "g10-4u-u06-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g10-4u-u06-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Mystery Words",
+      "question_ids": [
+        "g10-4u-u06-q11",
+        "g10-4u-u06-q12",
+        "g10-4u-u06-q13",
+        "g10-4u-u06-q14",
+        "g10-4u-u06-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g10-4u-u06-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · Appositives & Past Perfect",
+      "question_ids": [
+        "g10-4u-u06-q21",
+        "g10-4u-u06-q22",
+        "g10-4u-u06-q23",
+        "g10-4u-u06-q24"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g10-4u-u06-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to write a good detective story",
+          "feedback": "The passage does not teach writing. Look at what each paragraph says about Christie."
+        },
+        {
+          "key": "B",
+          "text": "Agatha Christie's famous mysteries and the real mystery in her own life",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Why Christie's husband wanted a divorce",
+          "feedback": "The divorce is only one small detail in paragraph 3. The main idea covers the whole text."
+        },
+        {
+          "key": "D",
+          "text": "The history of trains in England",
+          "feedback": "A train appears in one book title only. Think bigger!"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraphs 1–2 talk about Christie's books and detectives; paragraphs 3–4 tell about her 11-day disappearance. So the passage is about her mysteries AND the mystery in her life (B). 主旨要涵蓋全文：她的作品＋她自己的謎樣失蹤事件。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the first sentence of paragraph 1 and paragraph 3. What two topics do you see?",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: “the Queen of Crime” and “went missing”.",
+          "action": "highlight-words",
+          "words": [
+            "the Queen of Crime",
+            "went missing"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is not about Christie at all. Remove it and compare the rest.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "The text talks about her stories first and then her own mystery. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u06-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "Where was Christie found after she went missing?",
+      "stem_support": "Where did people find Christie?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Near a lake",
+          "feedback": "That is where her CAR was found. Keep reading: where was SHE found?"
+        },
+        {
+          "key": "B",
+          "text": "On a train",
+          "feedback": "The train is in her book Murder on the Orient Express, not in her real life."
+        },
+        {
+          "key": "C",
+          "text": "At her mother's house",
+          "feedback": "The text says her mother had died. Look for the word “safe”."
+        },
+        {
+          "key": "D",
+          "text": "At a hotel",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paragraph 3: “At last, she was found safe at a hotel.” Her car, not Christie, was found near a lake. 注意區分：車子在湖邊被找到，人在飯店被找到。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 3. It tells the story of the 11 days.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “found safe at a hotel”.",
+          "action": "highlight-words",
+          "words": [
+            "found safe at a hotel",
+            "Her car was found near a lake"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Options B and C are not about where she was found.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B",
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Car → near a lake; Christie → at a hotel. The answer is D.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Why might the name Christie used at the hotel make people believe she disappeared on purpose?",
+      "stem_support": "She used a special name at the hotel. Why does this make people think she left on purpose?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The hotel was the place where she first met her husband.",
+          "feedback": "The passage never says this. Use only facts from the text."
+        },
+        {
+          "key": "B",
+          "text": "The police told her to use that name.",
+          "feedback": "The police were searching for her; they did not choose her name."
+        },
+        {
+          "key": "C",
+          "text": "Using that woman's surname looks like a planned message, not memory loss.",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "She always used that name when she traveled.",
+          "feedback": "The text does not say she did this before. Look at whose surname it was."
+        }
+      ],
+      "answer": "C",
+      "explanation": "She checked in with the surname of the woman her husband was seeing. A person who has lost her memory would not likely pick that exact name, so it looks planned — it fits the theory that she wanted to punish her husband (C). 推論題：用丈夫情婦的姓氏登記，看起來像是「刻意」而非失憶。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the last sentence of paragraph 3 and the first part of paragraph 4.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “surname of the woman her husband was seeing” and “on purpose to punish her husband”.",
+          "action": "highlight-words",
+          "words": [
+            "surname of the woman her husband was seeing",
+            "on purpose to punish her husband"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option B can be removed: the police were looking for her, not giving her a name.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Whose surname was it? Why would someone choose it? Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u06-q03v",
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 3,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q04",
+      "skill": "reading",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "In paragraph 4, the word “vanished” is closest in meaning to ___.",
+      "stem_support": "In paragraph 4, “vanished” means ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "appeared",
+          "feedback": "This is the opposite! People were searching for her because they could not see her."
+        },
+        {
+          "key": "B",
+          "text": "disappeared",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "argued",
+          "feedback": "Argue means “fight with words”. Does that fit “went missing”?"
+        },
+        {
+          "key": "D",
+          "text": "won",
+          "feedback": "Won is the past of win. It does not match the story of a missing person."
+        }
+      ],
+      "answer": "B",
+      "explanation": "vanish = disappear suddenly（突然消失）. Paragraph 3 says she “went missing”, so “vanished” has the same idea (B).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find “vanished” in paragraph 4. What happened to Christie for 11 days?",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Clue words: “went missing” and “vanished on purpose”.",
+          "action": "highlight-words",
+          "words": [
+            "went missing",
+            "vanished on purpose"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option A is the opposite meaning. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "vanish = disappear. The answer is B.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Liam's grandparents live in a ___ village; the nearest store is a two-hour drive away.",
+      "options": [
+        {
+          "key": "A",
+          "text": "remote",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "crowded",
+          "feedback": "Crowded means “full of people”. Would a crowded place be so far from a store?"
+        },
+        {
+          "key": "C",
+          "text": "modern",
+          "feedback": "Modern means “new and up-to-date”. Read the part after the semicolon (;)."
+        }
+      ],
+      "answer": "A",
+      "explanation": "remote = far away from other places（偏遠的）. “A two-hour drive” to the nearest store tells us the village is far away.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the part after “;”. How far is the store?",
+          "action": "highlight-words",
+          "words": [
+            "two-hour drive"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “far from towns and cities”（偏遠的）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C does not fit the clue about distance. Compare A and B.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: remote. Example: a remote island = 偏遠的島嶼.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q12",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "The manager ___ Tom of taking the money because he was the last person in the office.",
+      "options": [
+        {
+          "key": "A",
+          "text": "claimed",
+          "feedback": "Claim means “say something is true”. We do not say “claim someone of”."
+        },
+        {
+          "key": "B",
+          "text": "suspected",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "vanished",
+          "feedback": "Vanish means “disappear”. It cannot take an object like Tom."
+        }
+      ],
+      "answer": "B",
+      "explanation": "suspect sb of (V-ing) sth = 懷疑某人做了某事. The manager thinks Tom may have taken the money.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the word after Tom: “of taking”. Which verb goes with “sb of V-ing”?",
+          "action": "highlight-words",
+          "words": [
+            "of taking"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: suspect + person + of + V-ing（懷疑某人做…）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Vanish (C) has no object, so it cannot fit “___ Tom”.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: suspected. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u06-q12v",
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q13",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "fill-blank",
+      "stem": "Kevin didn't drop the cup by accident. He dropped it on ___ to get his sister's attention.",
+      "answer": [
+        "purpose"
+      ],
+      "explanation": "on purpose = 故意地, the opposite of by accident（不小心）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the opposite idea in the first sentence.",
+          "action": "highlight-words",
+          "words": [
+            "by accident"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The phrase means “because you want to”（故意地）. on p_______",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Example: She left the door open on purpose so the cat could come in.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: purpose → on purpose.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Our school club visits ___ people at a care home every month and sings songs for them.",
+      "options": [
+        {
+          "key": "A",
+          "text": "missing",
+          "feedback": "Missing means “cannot be found”. The club knows where these people are!"
+        },
+        {
+          "key": "B",
+          "text": "remote",
+          "feedback": "Remote describes places that are far away, not people at a care home."
+        },
+        {
+          "key": "C",
+          "text": "elderly",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "elderly = old（上了年紀的）. People who live at a care home are usually elderly.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Who usually lives at a “care home”?",
+          "action": "highlight-words",
+          "words": [
+            "care home"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a polite word for “old”（年長的）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A does not fit: the club can find these people easily.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: elderly. In the reading: Miss Marple is an elderly woman.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q15",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "My brother loves loud parties. My sister, ___, prefers quiet nights at home with a good book.",
+      "options": [
+        {
+          "key": "A",
+          "text": "for instance",
+          "feedback": "For instance gives an example. Is the second sentence an example of loud parties?"
+        },
+        {
+          "key": "B",
+          "text": "on the other hand",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "in addition",
+          "feedback": "In addition adds a similar idea. But the sister is very different from the brother."
+        }
+      ],
+      "answer": "B",
+      "explanation": "on the other hand = 另一方面, used to show a contrast（對比）. Loud parties vs. quiet nights → contrast.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Compare “loud parties” and “quiet nights”. Same or different?",
+          "action": "highlight-words",
+          "words": [
+            "loud parties",
+            "quiet nights"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Different ideas → use a contrast phrase.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A is for giving examples. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: on the other hand. for instance = 例如; in addition = 此外.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q21",
+      "skill": "grammar",
+      "sub_skill": "appositive",
+      "type": "single-choice",
+      "stem": "Which sentence uses commas correctly?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mr. Lin our math teacher, often tells funny stories.",
+          "feedback": "The extra information needs a comma on BOTH sides."
+        },
+        {
+          "key": "B",
+          "text": "Mr. Lin, our math teacher, often tells funny stories.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Mr. Lin, our math teacher often tells funny stories.",
+          "feedback": "You opened the comma but forgot to close it after “teacher”."
+        }
+      ],
+      "answer": "B",
+      "explanation": "“our math teacher” is a non-restrictive appositive（非限定同位語）: extra information about Mr. Lin. In the middle of a sentence it needs a comma before AND after it.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Which words give extra information about Mr. Lin?",
+          "action": "highlight-words",
+          "words": [
+            "our math teacher"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Rule: Noun, + extra information, + verb. 同位語在句中前後都要有逗號。",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C has only one comma. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: B. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u06-q21v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q22",
+      "skill": "grammar",
+      "sub_skill": "appositive",
+      "type": "single-choice",
+      "stem": "Combine the two sentences with an appositive: “Kenting is a national park in southern Taiwan. Kenting is famous for its beaches.”",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kenting, is a national park in southern Taiwan, is famous for its beaches.",
+          "feedback": "An appositive is a noun phrase only. Remove the first “is”."
+        },
+        {
+          "key": "B",
+          "text": "Kenting, which a national park in southern Taiwan, is famous for its beaches.",
+          "feedback": "“which” needs a verb (which is ...). An appositive has no “which”."
+        },
+        {
+          "key": "C",
+          "text": "Kenting, a national park in southern Taiwan, is famous for its beaches.",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "Kenting a national park in southern Taiwan is famous for its beaches.",
+          "feedback": "The extra information needs commas around it."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Take the first sentence, remove “Kenting is”, and put the noun phrase “a national park in southern Taiwan” after Kenting with commas. 同位語＝名詞片語，不需要 be 動詞。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What is the extra information about Kenting?",
+          "action": "highlight-words",
+          "words": [
+            "a national park in southern Taiwan"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "An appositive = a noun phrase (no verb) between two commas.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option D has no commas. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: C. It is the short form of “Kenting, which is a national park ..., is famous ...”.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q23",
+      "skill": "grammar",
+      "sub_skill": "past-perfect",
+      "type": "fill-blank",
+      "stem": "When we got to the station, the train ___ (already / leave). We had to wait an hour for the next one.",
+      "answer": [
+        "had already left",
+        "'d already left"
+      ],
+      "explanation": "The train left FIRST, and then we got to the station. The earlier past action uses the past perfect: had + p.p. → had already left. 先發生的過去用過去完成式。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Which happened first: “got to the station” or the train leaving?",
+          "action": "highlight-words",
+          "words": [
+            "got to the station"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Earlier past action → had + past participle (p.p.).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "The p.p. of leave is left. Where does “already” go? had + already + p.p.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: had already left. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u06-q23v",
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u06-q24",
+      "skill": "grammar",
+      "sub_skill": "past-perfect",
+      "type": "single-choice",
+      "stem": "“When I arrived at the party, Ken had left.” What does this sentence mean?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ken left before I arrived.",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "Ken left after I arrived.",
+          "feedback": "“had left” is the past perfect, so Ken's action happened EARLIER."
+        },
+        {
+          "key": "C",
+          "text": "Ken and I arrived together.",
+          "feedback": "If Ken had left, he was not there when I arrived."
+        },
+        {
+          "key": "D",
+          "text": "Ken was still at the party when I arrived.",
+          "feedback": "“had left” means he was already gone."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The past perfect (had left) shows the earlier action. So Ken left first, and then I arrived. I did not see Ken at the party. 過去完成式＝「更早」發生的事。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the verb in the past perfect.",
+          "action": "highlight-words",
+          "words": [
+            "had left"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "had + p.p. = the action that happened FIRST.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C cannot be right: “had left” means Ken was gone.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Ken left → then I arrived. The answer is A.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g10-4u-u06-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The Queen of Crime and Her Own Mystery"
+        },
+        {
+          "key": "B",
+          "text": "How to Find a Missing Person"
+        },
+        {
+          "key": "C",
+          "text": "A Trip on the Orient Express"
+        }
+      ],
+      "answer": "A",
+      "explanation": "A good title covers both parts: Christie's crime stories and her own disappearance."
+    },
+    {
+      "question_id": "g10-4u-u06-q03v",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Christie's husband said she had lost her memory. Which idea is DIFFERENT from his?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She left on purpose to punish him."
+        },
+        {
+          "key": "B",
+          "text": "She could not remember who she was."
+        },
+        {
+          "key": "C",
+          "text": "She forgot where she was."
+        }
+      ],
+      "answer": "A",
+      "explanation": "B and C both mean memory loss (his idea). Only A — leaving on purpose — is the other theory."
+    },
+    {
+      "question_id": "g10-4u-u06-q12v",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "The police ___ the driver of stealing the car, but he said he was at home all night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "promised"
+        },
+        {
+          "key": "B",
+          "text": "suspected"
+        },
+        {
+          "key": "C",
+          "text": "vanished"
+        }
+      ],
+      "answer": "B",
+      "explanation": "suspect sb of V-ing = think someone did something wrong."
+    },
+    {
+      "question_id": "g10-4u-u06-q21v",
+      "skill": "grammar",
+      "sub_skill": "appositive",
+      "type": "single-choice",
+      "stem": "Which sentence is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jay Chou a famous singer, was born in Taiwan."
+        },
+        {
+          "key": "B",
+          "text": "Jay Chou, a famous singer, was born in Taiwan."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The appositive “a famous singer” needs commas on both sides."
+    },
+    {
+      "question_id": "g10-4u-u06-q23v",
+      "skill": "grammar",
+      "sub_skill": "past-perfect",
+      "type": "fill-blank",
+      "stem": "By the time I woke up, my parents ___ (go) to work.",
+      "answer": [
+        "had gone",
+        "had already gone",
+        "'d gone"
+      ],
+      "explanation": "by the time + past simple → the earlier action uses had + p.p.: had gone."
+    }
+  ]
+}

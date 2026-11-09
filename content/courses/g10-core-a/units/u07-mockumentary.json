@@ -1,0 +1,1072 @@
+{
+  "unit": {
+    "unit_id": "g10-4u-u07",
+    "order": 7,
+    "title": "Mockumentary: The Other Side of Reality",
+    "title_zh": "真假難辨！？歡迎來到「偽紀錄片」的世界",
+    "topic": "media",
+    "grade": [
+      10
+    ],
+    "objectives": [
+      "I can explain what a mockumentary is and how it looks real.",
+      "I can use context clues and parts of speech to choose the right word in a cloze passage."
+    ],
+    "estimated_minutes": 30,
+    "tags": [
+      "#4u-2026-09"
+    ],
+    "source": "English 4U 2026年9月號 p.35"
+  },
+  "passages": [
+    {
+      "passage_id": "g10-4u-u07-p1",
+      "title": "Is It Real? The World of Mockumentaries",
+      "topic": "media",
+      "abstraction": "social",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 960,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Imagine watching a film that seems to show real people and real events, only to find out later that the whole thing is a joke. A film like this is called a mockumentary. The word joins “mock,” which can mean “fake,” with “documentary,” a film about real life.",
+            "To fool the audience, mockumentaries borrow the tools of true documentaries. The camera is often held by hand, so the picture shakes a little. There are interviews and plain, everyday conversations, and some films even add words on the screen or old video clips. Instead of loud music, strong feelings are often shown through silence or the expression on someone's face. Characters may also turn to the camera and tell viewers their private thoughts. As a result, viewers feel a close connection with the characters, and every scene seems more real.",
+            "Many mockumentaries dress up fiction as reality in order to make fun of how people behave. This Is Spinal Tap, a 1984 American comedy, follows a made-up British rock band on tour. The British TV series The Office laughs at the silly side of working life. The jokes may seem light, yet the messages under them can be sharp.",
+            "Not every mockumentary is a comedy, though. Some use the same real-looking style to make fear feel closer. The Taiwanese horror film Incantation (2022), for example, is shot with a handheld camera from one person's point of view, so the scary events feel as if they could really happen. Next time you pick a movie, why not select a mockumentary and see if you can tell fiction from reality?"
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 800,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Some films look like true stories, but they are really jokes. A film like this is called a mockumentary. The word comes from “mock” (fake) and “documentary” (a film about real life).",
+            "Mockumentaries use the tools of real documentaries. The camera is often held by hand. There are interviews and everyday conversations. Some films add words on the screen or old video clips. Strong feelings are often shown through silence or the expression on someone's face. Characters may look at the camera and tell us their private thoughts. As a result, viewers feel a close connection with them. Every scene seems more real.",
+            "Many mockumentaries dress up fiction as reality to make fun of people. This Is Spinal Tap (1984) follows a made-up rock band. The TV series The Office laughs at office life. The jokes may seem light, but the messages can be sharp.",
+            "Not every mockumentary is a comedy, though. The Taiwanese horror film Incantation (2022) uses a handheld camera, so the scary events feel real. Why not select a mockumentary and watch it today?"
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "reality",
+          "pos": "n.",
+          "zh": "現實；真實",
+          "example": "In games you can fly, but in reality you need a plane."
+        },
+        {
+          "word": "expression",
+          "pos": "n.",
+          "zh": "表情；神色",
+          "example": "Her surprised expression made everyone laugh."
+        },
+        {
+          "word": "humor",
+          "pos": "n.",
+          "zh": "幽默",
+          "example": "Our teacher's humor makes long classes feel short."
+        },
+        {
+          "word": "horror",
+          "pos": "n.",
+          "zh": "恐怖",
+          "example": "My brother screamed during the horror movie."
+        },
+        {
+          "word": "emotional",
+          "pos": "adj.",
+          "zh": "激起強烈情感的",
+          "example": "The final scene was so emotional that I cried."
+        },
+        {
+          "word": "make fun of",
+          "pos": "phr.",
+          "zh": "取笑；嘲笑",
+          "example": "Please don't make fun of my new haircut!"
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g10-4u-u07-r1",
+      "skill": "reading",
+      "title": "Reading 1 · Real or Fake?",
+      "passage_id": "g10-4u-u07-p1",
+      "question_ids": [
+        "g10-4u-u07-q01",
+        "g10-4u-u07-q02",
+        "g10-4u-u07-q03",
+        "g10-4u-u07-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g10-4u-u07-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Film Words",
+      "question_ids": [
+        "g10-4u-u07-q11",
+        "g10-4u-u07-q12",
+        "g10-4u-u07-q13",
+        "g10-4u-u07-q14",
+        "g10-4u-u07-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g10-4u-u07-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · Cloze Clues: Parts of Speech",
+      "question_ids": [
+        "g10-4u-u07-q21",
+        "g10-4u-u07-q22",
+        "g10-4u-u07-q23",
+        "g10-4u-u07-q24"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g10-4u-u07-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to make a real documentary about animals",
+          "feedback": "The passage talks about FAKE documentaries. Look at the word in paragraph 1."
+        },
+        {
+          "key": "B",
+          "text": "What mockumentaries are and how they make fake stories feel real",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Why horror films are better than comedies",
+          "feedback": "The writer never says one kind is better. Horror appears only in the last paragraph."
+        },
+        {
+          "key": "D",
+          "text": "The life of a British rock band",
+          "feedback": "The band is just one example in paragraph 3."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 1 defines a mockumentary, paragraph 2 shows its tools, and paragraphs 3–4 give comedy and horror examples. So the text is about what mockumentaries are and how they seem real (B).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 1. Which new word does the writer explain?",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: “mockumentary” and “seems more real”.",
+          "action": "highlight-words",
+          "words": [
+            "called a mockumentary",
+            "seems more real"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is only one example. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "The whole text explains one kind of film. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u07-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "According to paragraph 2, how do mockumentaries often show strong feelings?",
+      "stem_support": "In paragraph 2, how do these films show strong feelings?",
+      "options": [
+        {
+          "key": "A",
+          "text": "With loud music",
+          "feedback": "Read again: the text says “instead of” loud music."
+        },
+        {
+          "key": "B",
+          "text": "Through silence or people's facial expressions",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "With famous actors and big special effects",
+          "feedback": "These are not mentioned at all."
+        },
+        {
+          "key": "D",
+          "text": "By showing words in bright colors",
+          "feedback": "Words on the screen are mentioned, but not to show feelings."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 2: strong feelings are shown “through silence or the expression on someone's face” (B). 注意 instead of loud music 是「不用」大聲的音樂。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 2 and find the word “feelings”.",
+          "action": "highlight-paragraph",
+          "paragraph": 1
+        },
+        {
+          "level": 2,
+          "text": "Key words: “through silence or the expression”.",
+          "action": "highlight-words",
+          "words": [
+            "through silence or the expression"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C is never mentioned. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "silence + facial expression → B.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q03",
+      "skill": "reading",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "In paragraph 3, “The jokes may seem light, yet the messages under them can be sharp.” Here, “light” most likely means ___.",
+      "stem_support": "In paragraph 3, the jokes “seem light”. What does “light” mean here?",
+      "options": [
+        {
+          "key": "A",
+          "text": "bright, full of sunshine",
+          "feedback": "That is the meaning for rooms or colors. Here “light” describes jokes."
+        },
+        {
+          "key": "B",
+          "text": "not heavy in weight",
+          "feedback": "Jokes have no weight! Think about how jokes FEEL."
+        },
+        {
+          "key": "C",
+          "text": "easy and not serious",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "full of fear",
+          "feedback": "Fear belongs to horror films in paragraph 4, not to jokes."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The sentence uses a contrast word (yet / but): the jokes seem light, but the messages are sharp (serious, clever). So light = easy and not serious（輕鬆的）. 用轉折詞找反義線索。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the last sentence of paragraph 3. Find the contrast word.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Context clue: “light” is the opposite of “sharp”.",
+          "action": "highlight-words",
+          "words": [
+            "may seem light",
+            "can be sharp"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option B talks about weight, but jokes have no weight.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Light jokes ↔ sharp messages. light = not serious. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u07-q03v",
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 3,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q04",
+      "skill": "reading",
+      "sub_skill": "author-purpose",
+      "type": "single-choice",
+      "stem": "Why does the writer mention the film Incantation in paragraph 4?",
+      "stem_support": "Why does the writer talk about Incantation?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To show that not all mockumentaries are comedies",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "To prove that Taiwanese films are the funniest",
+          "feedback": "Incantation is a horror film. Is it funny?"
+        },
+        {
+          "key": "C",
+          "text": "To explain how to hold a camera",
+          "feedback": "The camera is only a detail. Look at the first sentence of paragraph 4."
+        },
+        {
+          "key": "D",
+          "text": "To tell readers never to watch horror films",
+          "feedback": "The writer actually invites readers to watch a mockumentary."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 4 begins: “Not every mockumentary is a comedy.” Incantation, a horror film, is the example that supports this idea (A). 例子是用來支持段落主題句。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the first sentence of paragraph 4. It is the topic sentence.",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: “Not every mockumentary is a comedy” and “horror film”.",
+          "action": "highlight-words",
+          "words": [
+            "Not every mockumentary is a comedy",
+            "horror film"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option B cannot be right: Incantation is scary, not funny.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "An example supports the topic sentence: mockumentaries can be scary too → A.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "I can't watch ___ movies at night; the scary sounds keep me awake.",
+      "options": [
+        {
+          "key": "A",
+          "text": "comedy",
+          "feedback": "A comedy is funny. Would funny sounds keep you awake?"
+        },
+        {
+          "key": "B",
+          "text": "horror",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "humor",
+          "feedback": "Humor is a noun meaning “being funny”. Look at the clue “scary”."
+        }
+      ],
+      "answer": "B",
+      "explanation": "horror = 恐怖. “Scary sounds” tells us the movies are horror movies.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the clue word in the second half.",
+          "action": "highlight-words",
+          "words": [
+            "scary sounds"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word that means 恐怖的 (類型).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A means funny films. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: horror. horror movie = 恐怖片.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q12",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "When Dad opened the gift, the happy ___ on his face told us he loved it.",
+      "options": [
+        {
+          "key": "A",
+          "text": "text",
+          "feedback": "Text means words on a page or screen. Is there text on Dad's face?"
+        },
+        {
+          "key": "B",
+          "text": "reality",
+          "feedback": "Reality means “what is real”. It is not something on your face."
+        },
+        {
+          "key": "C",
+          "text": "expression",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "expression = 表情. A happy expression on someone's face shows how they feel.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the words after the blank.",
+          "action": "highlight-words",
+          "words": [
+            "on his face"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "What do we see on a face that shows feelings?（表情）",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A is about words, not faces.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: expression. facial expression = 臉部表情.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q13",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "fill-blank",
+      "stem": "It is not kind to make ___ of classmates who make mistakes in English class.",
+      "answer": [
+        "fun"
+      ],
+      "explanation": "make fun of sb = 取笑某人. We should support classmates, not laugh at them.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the words around the blank.",
+          "action": "highlight-words",
+          "words": [
+            "make ___ of"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The phrase means “laugh at someone in an unkind way”（取笑）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Example: The older kids made f__ of his old shoes.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: fun → make fun of.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "In movies, heroes never get tired, but in ___, everyone needs food and sleep.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reality",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "fiction",
+          "feedback": "Fiction means made-up stories, like the movies in the first half. The sentence says “but”."
+        },
+        {
+          "key": "C",
+          "text": "humor",
+          "feedback": "Humor means being funny. Does it fit “in ___, everyone needs sleep”?"
+        }
+      ],
+      "answer": "A",
+      "explanation": "in reality = 在現實中. The sentence contrasts movies (made-up) with real life.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the contrast word in the sentence.",
+          "action": "highlight-words",
+          "words": [
+            "but"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Movies ↔ real life. Which word means “real life”?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C does not mean real life. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: reality. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u07-q14v",
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q15",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "The shop tried to dress the old phone ___ a brand-new model by painting it a new color.",
+      "options": [
+        {
+          "key": "A",
+          "text": "up as",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "out of",
+          "feedback": "“dress out of” is not an English phrase. Think of “A looks like B”."
+        },
+        {
+          "key": "C",
+          "text": "off from",
+          "feedback": "“dress off from” is not a phrase. Look for “dress A up as B”."
+        }
+      ],
+      "answer": "A",
+      "explanation": "dress A up as B = 把 A 包裝／偽裝成 B. The old phone is made to look like a new model.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find A and B: the old phone and a brand-new model.",
+          "action": "highlight-words",
+          "words": [
+            "the old phone",
+            "a brand-new model"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: dress + A + ___ ___ + B（把 A 偽裝成 B）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option B is not a real phrase. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: up as. In the reading: mockumentaries dress up fiction as reality.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q21",
+      "skill": "grammar",
+      "sub_skill": "why-not-v",
+      "type": "single-choice",
+      "stem": "Why not ___ a new hobby this summer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "trying",
+          "feedback": "After “Why not” we do not add -ing."
+        },
+        {
+          "key": "B",
+          "text": "to try",
+          "feedback": "After “Why not” we do not use “to”."
+        },
+        {
+          "key": "C",
+          "text": "try",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "tried",
+          "feedback": "“Why not” is a suggestion for now or later, so no past tense."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Why not + 原形動詞 = 何不…？ (a suggestion). → Why not try a new hobby?",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the first two words.",
+          "action": "highlight-words",
+          "words": [
+            "Why not"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Rule: Why not + base verb（原形動詞）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option D is past tense, which does not fit a suggestion.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: try. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u07-q21v",
+      "difficulty": "foundation",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q22",
+      "skill": "grammar",
+      "sub_skill": "part-of-speech",
+      "type": "single-choice",
+      "stem": "The video call with my grandma gave me a strong sense of ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "connect",
+          "feedback": "Connect is a verb. After “of” we need a noun."
+        },
+        {
+          "key": "B",
+          "text": "connected",
+          "feedback": "Connected is an adjective/past participle. After “of” we need a noun."
+        },
+        {
+          "key": "C",
+          "text": "connection",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "connecting",
+          "feedback": "Here we need the noun form ending in -tion."
+        }
+      ],
+      "answer": "C",
+      "explanation": "a sense of + 名詞 = 一種…的感覺. The noun form is connection（連結）. 介系詞 of 後面接名詞。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the word before the blank.",
+          "action": "highlight-words",
+          "words": [
+            "a strong sense of"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "A preposition (of) is followed by a noun.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A is a verb. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: connection (-tion = noun ending).",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q23",
+      "skill": "grammar",
+      "sub_skill": "part-of-speech",
+      "type": "single-choice",
+      "stem": "Their jokes may be ___, but the message behind them is serious.",
+      "options": [
+        {
+          "key": "A",
+          "text": "lightly",
+          "feedback": "Lightly is an adverb. After “be” we need an adjective."
+        },
+        {
+          "key": "B",
+          "text": "light",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "lighten",
+          "feedback": "Lighten is a verb. We cannot say “may be lighten”."
+        }
+      ],
+      "answer": "B",
+      "explanation": "be + 形容詞 describes the subject. light (adj.) = not serious, and “but” contrasts it with “serious”.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the verb before the blank.",
+          "action": "highlight-words",
+          "words": [
+            "may be"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "After be (am/is/are/be), use an adjective.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is a verb. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: light. light ↔ serious (contrast with but).",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u07-q24",
+      "skill": "grammar",
+      "sub_skill": "part-of-speech",
+      "type": "single-choice",
+      "stem": "Read: “Some videos also ___ old photos to look more real.” What kind of word does the blank need?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a noun",
+          "feedback": "There is already a noun after the blank (old photos). What does “Some videos” DO?"
+        },
+        {
+          "key": "B",
+          "text": "an adjective",
+          "feedback": "An adjective describes a noun, but this sentence has no main verb yet."
+        },
+        {
+          "key": "C",
+          "text": "a preposition",
+          "feedback": "A preposition (in, on, of) cannot be the main action of a sentence."
+        },
+        {
+          "key": "D",
+          "text": "a verb",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "The subject is “Some videos”, the adverb “also” describes an action, and “old photos” is the object. The sentence has no verb yet, so the blank needs a verb (e.g. include). 主詞＋also＋___＋受詞 → 缺動詞。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the subject and the object in the sentence.",
+          "action": "highlight-words",
+          "words": [
+            "Some videos",
+            "old photos"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Every sentence needs a main verb. Is there one?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C cannot be the main action. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Subject + also + VERB + object → a verb, such as include.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g10-4u-u07-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fake but Real-Looking: Inside Mockumentaries"
+        },
+        {
+          "key": "B",
+          "text": "How to Hold a Camera"
+        },
+        {
+          "key": "C",
+          "text": "The History of Taiwanese Movies"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The passage is about films that are fake but look real — mockumentaries."
+    },
+    {
+      "question_id": "g10-4u-u07-q03v",
+      "skill": "reading",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "“The movie looks like a simple comedy, but its message about family is deep.” Which word is the OPPOSITE of “simple” here?",
+      "options": [
+        {
+          "key": "A",
+          "text": "comedy"
+        },
+        {
+          "key": "B",
+          "text": "deep"
+        },
+        {
+          "key": "C",
+          "text": "movie"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The contrast word “but” links “simple” and “deep”."
+    },
+    {
+      "question_id": "g10-4u-u07-q14v",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The video looked like real news, but in ___ it was a joke made by two students.",
+      "options": [
+        {
+          "key": "A",
+          "text": "horror"
+        },
+        {
+          "key": "B",
+          "text": "reality"
+        },
+        {
+          "key": "C",
+          "text": "expression"
+        }
+      ],
+      "answer": "B",
+      "explanation": "in reality = actually, in real life."
+    },
+    {
+      "question_id": "g10-4u-u07-q21v",
+      "skill": "grammar",
+      "sub_skill": "why-not-v",
+      "type": "single-choice",
+      "stem": "It's a sunny day. Why not ___ a walk in the park?",
+      "options": [
+        {
+          "key": "A",
+          "text": "take"
+        },
+        {
+          "key": "B",
+          "text": "taking"
+        },
+        {
+          "key": "C",
+          "text": "took"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Why not + base verb → take."
+    }
+  ]
+}

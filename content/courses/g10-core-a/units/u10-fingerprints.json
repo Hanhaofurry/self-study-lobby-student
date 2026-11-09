@@ -1,0 +1,1050 @@
+{
+  "unit": {
+    "unit_id": "g10-4u-u10",
+    "order": 10,
+    "title": "More Than Just Lines: Fun Facts About Fingerprints",
+    "title_zh": "指紋——藏在指尖上的獨特密碼",
+    "topic": "science",
+    "grade": [
+      10
+    ],
+    "objectives": [
+      "I can explain why fingerprints are unique and useful for people and some animals.",
+      "I can use “without + noun / V-ing” correctly.",
+      "I can use “To one's + feeling noun, S + V” (e.g. To my surprise, ...)."
+    ],
+    "estimated_minutes": 30,
+    "tags": [
+      "#4u-2026-09"
+    ],
+    "source": "English 4U 2026年9月號 p.50"
+  },
+  "passages": [
+    {
+      "passage_id": "g10-4u-u10-p1",
+      "title": "The Secret Code on Your Fingertips",
+      "topic": "science",
+      "abstraction": "concrete",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 990,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Look closely at the tips of your fingers. The lines there may seem plain, but nobody else in the world has the same ones. Scientists think fingerprints form before we are born, while a baby is still inside its mother. Both genes and each baby's experiences in the womb shape them. That is why even identical twins have different fingerprints. In very rare cases, however, a person is born without any fingerprints at all.",
+            "Your fingerprints keep the same design all your life. They grow larger as you grow, but the pattern does not change. Even when the skin is cut or burned a little, it heals and keeps its original pattern. Because fingerprints last a whole lifetime, they are excellent for identifying people. For more than 100 years, police have used them to solve crimes and confirm who someone is. Fingerprints help our sense of touch, too. The tiny raised lines, called ridges, create small vibrations when we touch things, so we can feel the difference between silk and wool.",
+            "Humans are not the only ones with fingerprints. Monkeys and apes have them as well. That is not a big surprise, because these primates are closely related to us. Their prints help them hold onto branches as they move. To many people's surprise, though, koalas have fingerprints too, and koalas are not primates. Even so, their prints look almost identical to ours.",
+            "Koalas' fingerprints have practical uses. Their ridges may assist them in grasping branches as they climb. What's more, koalas are picky eaters that prefer young, fresh eucalyptus leaves. Their sensitive fingers let them inspect the texture of each leaf, so they can choose the best ones more easily. Fingerprints are small, but they tell a big story."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 830,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Look closely at your fingertips. The lines may seem plain, but nobody else has the same ones. Fingerprints form before we are born. Genes and each baby's experiences in the womb shape them. So even identical twins have different fingerprints. A very small number of people are born without any fingerprints.",
+            "Fingerprints get bigger as you grow, but the pattern does not change. After a small cut or burn, the skin heals and keeps its original pattern. Because fingerprints last a whole lifetime, police have used them for more than 100 years to solve crimes and confirm who someone is. The tiny raised lines, called ridges, also make small vibrations when we touch things. So we can feel the difference between silk and wool.",
+            "Monkeys and apes have fingerprints as well. They are closely related to us. To many people's surprise, even koalas have them. Koalas are not primates. Even so, their prints look almost identical to ours.",
+            "The ridges may assist koalas in grasping branches as they climb. What's more, koalas are picky eaters. They prefer young, fresh eucalyptus leaves. Their sensitive fingers let them inspect the texture of each leaf. So they can choose the best ones more easily."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "heal",
+          "pos": "v.",
+          "zh": "癒合",
+          "example": "My cut healed in about a week."
+        },
+        {
+          "word": "original",
+          "pos": "adj.",
+          "zh": "原先的；最初的",
+          "example": "I like the original movie more than the new one."
+        },
+        {
+          "word": "confirm",
+          "pos": "v.",
+          "zh": "證實",
+          "example": "The test confirmed that the water was safe to drink."
+        },
+        {
+          "word": "related",
+          "pos": "adj.",
+          "zh": "同源的；有關的",
+          "example": "Lions and house cats are related animals."
+        },
+        {
+          "word": "prefer",
+          "pos": "v.",
+          "zh": "偏好",
+          "example": "I prefer walking to taking the bus."
+        },
+        {
+          "word": "sensitive",
+          "pos": "adj.",
+          "zh": "靈敏的；敏感的",
+          "example": "Dogs have very sensitive ears."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g10-4u-u10-r1",
+      "skill": "reading",
+      "title": "Reading 1 · Lines on Your Fingers",
+      "passage_id": "g10-4u-u10-p1",
+      "question_ids": [
+        "g10-4u-u10-q01",
+        "g10-4u-u10-q02",
+        "g10-4u-u10-q03",
+        "g10-4u-u10-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g10-4u-u10-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Body & Science Words",
+      "question_ids": [
+        "g10-4u-u10-q11",
+        "g10-4u-u10-q12",
+        "g10-4u-u10-q13",
+        "g10-4u-u10-q14",
+        "g10-4u-u10-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g10-4u-u10-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · without + V-ing & To my surprise",
+      "question_ids": [
+        "g10-4u-u10-q21",
+        "g10-4u-u10-q22",
+        "g10-4u-u10-q23",
+        "g10-4u-u10-q24"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g10-4u-u10-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How police catch criminals in big cities",
+          "feedback": "Police appear in only one sentence. The main idea is bigger."
+        },
+        {
+          "key": "B",
+          "text": "What makes fingerprints special for humans and some animals",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Why koalas only eat leaves",
+          "feedback": "Koalas' food is a detail in the last paragraph."
+        },
+        {
+          "key": "D",
+          "text": "How identical twins are born",
+          "feedback": "Twins are only one example of why fingerprints are unique."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The passage explains that fingerprints are unique, last a lifetime, help touch, and are also found in primates and koalas. B covers all of this.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the first sentence of each paragraph.",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: “fingerprints”, “Monkeys and apes”, and “koalas”.",
+          "action": "highlight-words",
+          "words": [
+            "fingerprints",
+            "Monkeys and apes",
+            "koalas"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is only a small example. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Humans + animals + fingerprints = the main idea. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u10-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "What happens to your fingerprints as you grow older?",
+      "stem_support": "When you grow, what happens to your fingerprints?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They disappear.",
+          "feedback": "The text says they last a whole lifetime."
+        },
+        {
+          "key": "B",
+          "text": "They change into a new pattern.",
+          "feedback": "Read again: the pattern does NOT change."
+        },
+        {
+          "key": "C",
+          "text": "They get bigger, but the pattern stays the same.",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "They become the same as your parents'.",
+          "feedback": "Nobody else has the same fingerprints."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 2: fingerprints grow larger as you grow, “but the pattern does not change” (C).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 2.",
+          "action": "highlight-paragraph",
+          "paragraph": 1
+        },
+        {
+          "level": 2,
+          "text": "Key words: “the pattern does not change”.",
+          "action": "highlight-words",
+          "words": [
+            "the pattern does not change"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option A is wrong: fingerprints last a whole lifetime.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Bigger size, same pattern → C.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Why are koalas' fingerprints more surprising than monkeys' fingerprints?",
+      "stem_support": "Why are people more surprised that koalas have fingerprints?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Koalas are much bigger than monkeys.",
+          "feedback": "Size is not mentioned. Think about which animals are related to us."
+        },
+        {
+          "key": "B",
+          "text": "Koalas are not primates, so they are not closely related to humans.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Koalas live only in cities.",
+          "feedback": "The text does not say where koalas live."
+        },
+        {
+          "key": "D",
+          "text": "Koalas have no hands.",
+          "feedback": "Koalas do have fingers — the text says they have sensitive fingers."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Monkeys and apes are primates, closely related to us, so their fingerprints are not surprising. Koalas are NOT primates, yet their prints look almost like ours — that is the surprise (B).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 3 and compare monkeys with koalas.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “closely related to us” and “Koalas are not primates”.",
+          "action": "highlight-words",
+          "words": [
+            "closely related to us",
+            "not primates"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is wrong: koalas have sensitive fingers.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Related to us → not surprising; not related → surprising. Answer: B.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 3,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q04",
+      "skill": "reading",
+      "sub_skill": "cause-effect",
+      "type": "single-choice",
+      "stem": "How do fingerprints help koalas choose their food?",
+      "stem_support": "How do fingerprints help koalas pick food?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Their fingers can taste the leaves.",
+          "feedback": "Fingers cannot taste. What do the fingers check?"
+        },
+        {
+          "key": "B",
+          "text": "Their sensitive fingers check the texture of each leaf.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Their fingerprints change color near good leaves.",
+          "feedback": "Fingerprints do not change color."
+        },
+        {
+          "key": "D",
+          "text": "They use their fingerprints to count the leaves.",
+          "feedback": "Counting is not mentioned."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 4: koalas' sensitive fingers let them inspect the texture of each leaf, so they can choose the best ones (B). so 表示結果。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 4 about koalas' food.",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: “sensitive fingers” and “texture of each leaf”.",
+          "action": "highlight-words",
+          "words": [
+            "sensitive fingers",
+            "texture of each leaf"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C is not possible. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Cause: sensitive fingers feel texture → Effect: choose the best leaves. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u10-q04v",
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Keep the cut clean and dry so that it can ___ quickly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inspect",
+          "feedback": "Inspect means “look at carefully”. Can a cut look at something?"
+        },
+        {
+          "key": "B",
+          "text": "heal",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "prefer",
+          "feedback": "Prefer means “like better”. Does that fit a cut?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "heal = (傷口) 癒合. A clean cut heals faster.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What do we want a cut to do?",
+          "action": "highlight-words",
+          "words": [
+            "the cut"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “become healthy again”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is about liking. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: heal.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q12",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The video from the security camera ___ that the man was in the store at 9 p.m.",
+      "options": [
+        {
+          "key": "A",
+          "text": "confirmed",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "grasped",
+          "feedback": "Grasp means “hold tightly with your hand”. A video cannot hold things."
+        },
+        {
+          "key": "C",
+          "text": "healed",
+          "feedback": "Heal is about getting better from an injury."
+        }
+      ],
+      "answer": "A",
+      "explanation": "confirm = 證實 (show that something is true). The video proves the man was there.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What can a security video do?",
+          "action": "highlight-words",
+          "words": [
+            "security camera"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “show that something is true”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is about injuries. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: confirmed. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u10-q12v",
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q13",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "I p___ tea to coffee because coffee is too bitter for me. (like better)",
+      "answer": [
+        "prefer"
+      ],
+      "explanation": "prefer A to B = 比起 B 更喜歡 A. I like tea more than coffee.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the pattern “___ tea to coffee”.",
+          "action": "highlight-words",
+          "words": [
+            "tea to coffee"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The word starts with p and means “like better”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Pattern: prefer A to B.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: prefer.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "My dog has a very ___ nose. It can smell food from the other side of the house.",
+      "options": [
+        {
+          "key": "A",
+          "text": "original",
+          "feedback": "Original means “first” or “new and different”. Read the clue about smelling."
+        },
+        {
+          "key": "B",
+          "text": "identical",
+          "feedback": "Identical means “exactly the same”. That does not describe a good nose."
+        },
+        {
+          "key": "C",
+          "text": "sensitive",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "sensitive = 靈敏的. A sensitive nose can notice smells from far away.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the second sentence for a clue.",
+          "action": "highlight-words",
+          "words": [
+            "smell food"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “able to notice very small things”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option B means “exactly the same”. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: sensitive.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q15",
+      "skill": "vocabulary",
+      "sub_skill": "transition",
+      "type": "single-choice",
+      "stem": "The hotel is right next to the beach. ___, breakfast is free for every guest!",
+      "options": [
+        {
+          "key": "A",
+          "text": "What's more",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "Even so",
+          "feedback": "Even so shows a contrast (即使如此). Is free breakfast the opposite of being near the beach?"
+        },
+        {
+          "key": "C",
+          "text": "As a result",
+          "feedback": "As a result shows a result. Is free breakfast caused by the beach?"
+        }
+      ],
+      "answer": "A",
+      "explanation": "what's more = 再者；而且, used to add another good point. Near the beach + free breakfast = two good points.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Are both sentences good points about the hotel?",
+          "action": "highlight-words",
+          "words": [
+            "right next to the beach",
+            "breakfast is free"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Adding another point → use an “adding” phrase.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C shows cause and effect. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: What's more. even so = 即使如此; as a result = 因此.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q21",
+      "skill": "grammar",
+      "sub_skill": "without-n-ving",
+      "type": "single-choice",
+      "stem": "Mia left home ___ an umbrella, so she got wet in the rain.",
+      "options": [
+        {
+          "key": "A",
+          "text": "with",
+          "feedback": "If she had an umbrella, would she get wet?"
+        },
+        {
+          "key": "B",
+          "text": "without",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "no",
+          "feedback": "“no” cannot connect “left home” and “an umbrella”. We need a preposition."
+        }
+      ],
+      "answer": "B",
+      "explanation": "without + N = 沒有…. She had no umbrella, so she got wet.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the result: “she got wet”.",
+          "action": "highlight-words",
+          "words": [
+            "got wet"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Did she have an umbrella or not?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A is the opposite meaning. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: without.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q22",
+      "skill": "grammar",
+      "sub_skill": "without-n-ving",
+      "type": "single-choice",
+      "stem": "Tom left the party without ___ goodbye to anyone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "say",
+          "feedback": "After a preposition (without), use V-ing."
+        },
+        {
+          "key": "B",
+          "text": "to say",
+          "feedback": "We do not use “to V” after without."
+        },
+        {
+          "key": "C",
+          "text": "saying",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "said",
+          "feedback": "Use V-ing after without, not the past tense."
+        }
+      ],
+      "answer": "C",
+      "explanation": "without is a preposition → without + V-ing: without saying goodbye（沒說再見）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What kind of word is “without”?",
+          "action": "highlight-words",
+          "words": [
+            "without"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Preposition + V-ing.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option D is the past tense. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: saying. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u10-q22v",
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q23",
+      "skill": "grammar",
+      "sub_skill": "to-ones-emotion",
+      "type": "single-choice",
+      "stem": "___, I won first prize in the speech contest! I never thought I could win.",
+      "options": [
+        {
+          "key": "A",
+          "text": "To me surprise",
+          "feedback": "Use the possessive “my”, not “me”."
+        },
+        {
+          "key": "B",
+          "text": "To my surprised",
+          "feedback": "After “my”, we need a noun (surprise), not an adjective."
+        },
+        {
+          "key": "C",
+          "text": "To my surprise",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "To surprise me",
+          "feedback": "This means “in order to surprise me”, which does not fit."
+        }
+      ],
+      "answer": "C",
+      "explanation": "To one's + 情緒名詞, S + V = 令某人…的是. To my surprise = 令我驚訝的是.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the last sentence: did the speaker expect to win?",
+          "action": "highlight-words",
+          "words": [
+            "never thought I could win"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: To + my/his/her + feeling NOUN, + sentence.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A uses “me” instead of “my”. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: To my surprise.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u10-q24",
+      "skill": "grammar",
+      "sub_skill": "to-ones-emotion",
+      "type": "fill-blank",
+      "stem": "Much to our ___ (relieve), the lost dog came home safely that night.",
+      "answer": [
+        "relief"
+      ],
+      "explanation": "The pattern needs a feeling NOUN after “our”: relieve (v.) → relief (n.). Much to our relief = 讓我們大大鬆一口氣的是.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the word before the blank.",
+          "action": "highlight-words",
+          "words": [
+            "Much to our"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "After to + our, we need a noun.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "The noun of relieve ends in -f.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: relief.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g10-4u-u10-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to Clean Your Hands"
+        },
+        {
+          "key": "B",
+          "text": "Fingerprints: Small Lines, Big Story"
+        },
+        {
+          "key": "C",
+          "text": "Koalas: Australia's Sleepiest Animal"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The passage is all about fingerprints — in people and animals."
+    },
+    {
+      "question_id": "g10-4u-u10-q04v",
+      "skill": "reading",
+      "sub_skill": "cause-effect",
+      "type": "single-choice",
+      "stem": "When we touch silk or wool, how do the ridges help us?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They make small vibrations that help us feel the difference."
+        },
+        {
+          "key": "B",
+          "text": "They keep our hands warm."
+        },
+        {
+          "key": "C",
+          "text": "They make the fabric softer."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 2: the ridges create small vibrations, so we can feel the difference."
+    },
+    {
+      "question_id": "g10-4u-u10-q12v",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Please call the hotel to ___ your room for Friday night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "confirm"
+        },
+        {
+          "key": "B",
+          "text": "heal"
+        },
+        {
+          "key": "C",
+          "text": "inspect"
+        }
+      ],
+      "answer": "A",
+      "explanation": "confirm a booking = make sure it is true and fixed（確認）."
+    },
+    {
+      "question_id": "g10-4u-u10-q22v",
+      "skill": "grammar",
+      "sub_skill": "without-n-ving",
+      "type": "single-choice",
+      "stem": "Sophie answered the question without ___ at her notes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "look"
+        },
+        {
+          "key": "B",
+          "text": "looking"
+        },
+        {
+          "key": "C",
+          "text": "to look"
+        }
+      ],
+      "answer": "B",
+      "explanation": "without + V-ing → looking."
+    }
+  ]
+}

@@ -10,6 +10,7 @@ import { renderUnits } from "./views/units.js";
 import { renderPractice } from "./views/practice.js";
 import { renderReport } from "./views/report.js";
 import { renderLogin, renderPassword } from "./views/login.js";
+import { clearOriginals } from "./originals.js";
 
 load();
 applySettings();
@@ -177,6 +178,7 @@ document.addEventListener("click", async (event) => {
     out.disabled = true;
     out.textContent = "登出中…";
     await logout();
+    clearOriginals();
     toast("已登出");
     location.hash = "#/login";
   }
@@ -184,6 +186,7 @@ document.addEventListener("click", async (event) => {
 
 document.addEventListener("auth-expired", async () => {
   await logout();
+  clearOriginals();
   toast("登入已過期，請重新登入");
   location.hash = "#/login";
 });

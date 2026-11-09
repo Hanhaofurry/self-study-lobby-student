@@ -1,0 +1,355 @@
+{
+  "unit": {
+    "unit_id": "g11-allplus-u09",
+    "order": 9,
+    "title": "Should Teens Take On Part-Time Jobs?",
+    "title_zh": "青少年該打工嗎？",
+    "topic": "school-and-work",
+    "grade": [11],
+    "objectives": [
+      "I can tell which side of a debate an argument supports.",
+      "I can use the prefix op- to understand words like oppose and opponent.",
+      "I can talk about overwork with phrases like burn the candle at both ends and wear oneself out."
+    ],
+    "estimated_minutes": 35,
+    "tags": ["#allplus-2026-08"],
+    "source": "ALL+ 互動英語 2026年8月號 p.38"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-allplus-u09-p1",
+      "title": "Work After School: Help or Harm?",
+      "topic": "school-and-work",
+      "abstraction": "social",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1000,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "High school students are allowed by law to work part-time, yet people still disagree about whether a job is really good for them. An online forum recently invited a student, a parent, a teacher, a professor, a business owner, a government official, and a retired principal to share their views. Their answers show that the question has no simple answer.",
+            "Supporters believe a job teaches lessons that no textbook can. A student who works as a cashier every weekend says she has become more confident with strangers and more responsible with money. A university professor adds that working students usually have better time management skills when they reach college, and they learn early on that effort and discipline matter as much as being smart. A business owner says teen workers bring fresh energy to companies that face a shortage of staff, though employers should not give them too many hours.",
+            "Opponents, however, focus on the costs. A parent argues that jobs often cause poor sleep, weak concentration, and falling grades, so teens should put school first. A retired principal agrees. She warns that students who try to work and study at the same time often wear themselves out, and she believes no salary is worth damaging their health or their grades.",
+            "Others take a middle position. A teacher says the key is moderation: a few hours on weekends may be fine, but working on school nights is a bad idea. A government official points out that some students from low-income families truly need to earn money for themselves or their families, so schools should offer flexible schedules and extra academic help. In the end, whether a job helps or harms a student may depend on how much they work and why."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 850,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "High school students can work part-time by law. But is a job good for them? People do not agree. An online forum asked seven people for their views. There is no simple answer.",
+            "Some people support part-time jobs. A student works as a cashier every weekend. She says she is more confident with strangers now. She is also more responsible with money. A university professor says working students have better time management skills in college. They learn early on that effort and discipline are important. A business owner says teen workers bring fresh energy, and many companies have a shortage of staff. But employers should not give them too many hours.",
+            "Other people are against part-time jobs. A parent says jobs cause poor sleep, weak concentration, and falling grades. A retired principal agrees. She says students who work and study at the same time often wear themselves out. Money is not worth their health or grades.",
+            "Some people are in the middle. A teacher says the key is moderation. A few hours on weekends may be fine, but working on school nights is a bad idea. A government official says some students from low-income families need money. So schools should give them flexible schedules and extra academic help. Maybe a job helps or harms a student because of how much they work and why."
+          ]
+        }
+      ],
+      "glossary": [
+        { "word": "academic", "pos": "adj.", "zh": "學業的；學術的", "example": "Good sleep can improve your academic performance." },
+        { "word": "perspective", "pos": "n.", "zh": "觀點、看法", "example": "My grandma sees the problem from a different perspective." },
+        { "word": "concentration", "pos": "n.", "zh": "專注、集中", "example": "Loud music hurts my concentration when I study." },
+        { "word": "shortage", "pos": "n.", "zh": "短缺、不足", "example": "There is a shortage of nurses in many hospitals." },
+        { "word": "flexible", "pos": "adj.", "zh": "有彈性的", "example": "My boss gives me flexible hours during exam weeks." },
+        { "word": "sacrifice", "pos": "n.", "zh": "犧牲", "example": "Giving up sleep to play games is not a smart sacrifice." }
+      ]
+    }
+  ],
+  "sets": [
+    { "set_id": "g11-allplus-u09-r1", "skill": "reading", "title": "Reading 1 · Part-Time Jobs: Two Sides", "passage_id": "g11-allplus-u09-p1", "question_ids": ["g11-allplus-u09-q01", "g11-allplus-u09-q02", "g11-allplus-u09-q03", "g11-allplus-u09-q04"], "estimated_minutes": 12 },
+    { "set_id": "g11-allplus-u09-v1", "skill": "vocabulary", "title": "Vocabulary 1 · Words from the Forum", "question_ids": ["g11-allplus-u09-q11", "g11-allplus-u09-q12", "g11-allplus-u09-q13", "g11-allplus-u09-q14", "g11-allplus-u09-q15"], "estimated_minutes": 8 },
+    { "set_id": "g11-allplus-u09-g1", "skill": "grammar", "title": "Patterns 1 · Prefix op- & Talking About Overwork", "question_ids": ["g11-allplus-u09-q21", "g11-allplus-u09-q22", "g11-allplus-u09-q23", "g11-allplus-u09-q24"], "estimated_minutes": 8 }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-allplus-u09-q01",
+      "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        { "key": "A", "text": "How to find a part-time job as a cashier", "feedback": "The cashier is only one example. Does the passage teach you how to find a job?" },
+        { "key": "B", "text": "Different opinions on whether teens should work part-time", "feedback": "" },
+        { "key": "C", "text": "Why teens should never work during high school", "feedback": "This is only one side. The passage also shows supporters and a middle position." },
+        { "key": "D", "text": "New laws that stop students from working", "feedback": "The passage says students ARE allowed to work by law. Read paragraph 1 again." }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 2 shows supporters, paragraph 3 shows opponents, and paragraph 4 shows a middle position. So the passage is about different opinions (B). 正反兩方＋中間立場 → 主旨是「各方看法」。",
+      "hints": [
+        { "level": 1, "text": "Read the first sentence of paragraphs 2, 3, and 4. How many groups of people do you see?", "action": "highlight-paragraph", "paragraph": 0 },
+        { "level": 2, "text": "Key words: \"no simple answer\" — people do not agree.", "action": "highlight-words", "words": ["no simple answer", "middle"] },
+        { "level": 3, "text": "Option D is wrong: the law allows students to work.", "action": "eliminate-option", "eliminate": ["D"] },
+        { "level": 4, "text": "Supporters + opponents + middle = different opinions. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u09-q01v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 2, "paragraph_ref": 0, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q02",
+      "skill": "reading", "sub_skill": "detail", "type": "single-choice",
+      "stem": "According to the teacher, what is the best way for students to work?",
+      "stem_support": "What does the teacher say about working?",
+      "options": [
+        { "key": "A", "text": "Work every night so they earn more money", "feedback": "The teacher says working on school nights is a bad idea. Read paragraph 4." },
+        { "key": "B", "text": "Never work until they finish college", "feedback": "The teacher does not say \"never\". Look for the word \"moderation\"." },
+        { "key": "C", "text": "Work only a few hours on weekends", "feedback": "" },
+        { "key": "D", "text": "Work only during summer vacation", "feedback": "Summer vacation is not mentioned. What does the teacher say about weekends?" }
+      ],
+      "answer": "C",
+      "explanation": "The teacher says the key is moderation: a few hours on weekends may be fine, but not on school nights (C). moderation = 適度.",
+      "hints": [
+        { "level": 1, "text": "Go to paragraph 4. Find the teacher.", "action": "highlight-paragraph", "paragraph": 3 },
+        { "level": 2, "text": "Key words: \"moderation\", \"weekends\", \"school nights\".", "action": "highlight-words", "words": ["moderation", "on weekends may be fine", "school nights"] },
+        { "level": 3, "text": "Option A is the opposite of the teacher's advice.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Moderation = not too much. A few weekend hours = OK. Answer: C.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "paragraph_ref": 3, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q03",
+      "skill": "reading", "sub_skill": "argument-side", "type": "single-choice",
+      "stem": "\"Students with part-time jobs usually manage their time better when they get to college.\" Which side does this argument support?",
+      "stem_support": "\"Working students manage time better in college.\" Is this FOR or AGAINST part-time jobs?",
+      "options": [
+        { "key": "A", "text": "The side that supports part-time jobs for teens", "feedback": "" },
+        { "key": "B", "text": "The side that is against part-time jobs for teens", "feedback": "Is \"managing time better\" a good result or a bad result of working?" },
+        { "key": "C", "text": "Neither side; it is about government rules", "feedback": "The sentence talks about a benefit of working, not about rules. Who said it in the passage?" }
+      ],
+      "answer": "A",
+      "explanation": "Better time management is a benefit of working, and the university professor says it in paragraph 2, the supporters' paragraph. So it supports teens having part-time jobs (A). 好處 → 支持方的論點。",
+      "hints": [
+        { "level": 1, "text": "Find who talks about time management. Which paragraph is it in?", "action": "highlight-paragraph", "paragraph": 1 },
+        { "level": 2, "text": "Key words: \"time management skills\" and \"Supporters / support\".", "action": "highlight-words", "words": ["time management skills", "university professor"] },
+        { "level": 3, "text": "Option C is not right: the sentence is about a result of working, not about rules.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "A good result of working = a reason FOR jobs. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u09-q03v",
+      "difficulty": "standard", "bloom": "analyze", "dok": 2, "paragraph_ref": 1, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q04",
+      "skill": "reading", "sub_skill": "inference", "type": "single-choice",
+      "stem": "Which statement would the business owner most likely agree with?",
+      "stem_support": "What does the business owner think?",
+      "options": [
+        { "key": "A", "text": "Teens make bad workers because they are too young.", "feedback": "The business owner says teens bring fresh energy. That is a compliment." },
+        { "key": "B", "text": "Teens can be helpful workers, but their hours should be limited.", "feedback": "" },
+        { "key": "C", "text": "Teens should work as many hours as their boss wants.", "feedback": "The owner says employers should NOT give teens too many hours." },
+        { "key": "D", "text": "Companies have plenty of workers and do not need teens.", "feedback": "The owner talks about a SHORTAGE of staff. What does shortage mean?" }
+      ],
+      "answer": "B",
+      "explanation": "The business owner likes teen workers (fresh energy, help with staff shortages) but says employers should not give them too many hours. So B combines both ideas. 推論題要同時符合「優點」與「但書」。",
+      "hints": [
+        { "level": 1, "text": "Find the business owner at the end of paragraph 2.", "action": "highlight-paragraph", "paragraph": 1 },
+        { "level": 2, "text": "Key words: \"fresh energy\", \"shortage of staff\", \"too many hours\".", "action": "highlight-words", "words": ["fresh energy", "shortage of staff", "too many hours"] },
+        { "level": 3, "text": "Options C and D go against what the owner says.", "action": "eliminate-option", "eliminate": ["C", "D"] },
+        { "level": 4, "text": "Positive about teens + \"should not give them too many hours\" = B.", "action": "explain" }
+      ],
+      "difficulty": "challenge", "bloom": "analyze", "dok": 3, "paragraph_ref": 1, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q11",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "I stayed up too late, so my ___ was poor in class and I kept missing what the teacher said.",
+      "options": [
+        { "key": "A", "text": "concentration", "feedback": "" },
+        { "key": "B", "text": "household", "feedback": "A household is a family living together. The sentence is about paying attention." },
+        { "key": "C", "text": "forum", "feedback": "A forum is a place for discussion. What do you lose when you are tired in class?" }
+      ],
+      "answer": "A",
+      "explanation": "concentration = the ability to pay attention（專注）. \"kept missing what the teacher said\" shows poor concentration.",
+      "hints": [
+        { "level": 1, "text": "Read the end of the sentence. What was the problem in class?", "action": "highlight-words", "words": ["kept missing what the teacher said"] },
+        { "level": 2, "text": "You need a noun that means 專注力.", "action": "explain" },
+        { "level": 3, "text": "Option C (forum) is a place for discussion.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: concentration. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u09-q11v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q12",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "The restaurant cannot find enough workers. There is a ___ of staff.",
+      "options": [
+        { "key": "A", "text": "sacrifice", "feedback": "A sacrifice is giving up something you value. The first sentence says there are not enough workers." },
+        { "key": "B", "text": "shortage", "feedback": "" },
+        { "key": "C", "text": "perspective", "feedback": "A perspective is a point of view. Read the first sentence again." }
+      ],
+      "answer": "B",
+      "explanation": "shortage = not enough of something（短缺）. a shortage of staff = 人手不足.",
+      "hints": [
+        { "level": 1, "text": "The first sentence explains the blank: \"cannot find enough workers\".", "action": "highlight-words", "words": ["cannot find enough workers"] },
+        { "level": 2, "text": "Look for a word that comes from \"short\"（不夠）.", "action": "explain" },
+        { "level": 3, "text": "Option C (perspective) means a point of view.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: shortage. a shortage of + N = …的短缺.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q13",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "My manager gives me ___ hours, so I can work less during exam week and more in the summer.",
+      "options": [
+        { "key": "A", "text": "economic", "feedback": "Economic is about money and the economy. The sentence is about hours that can change." },
+        { "key": "B", "text": "retired", "feedback": "Retired describes a person who has stopped working. Can hours be retired?" },
+        { "key": "C", "text": "flexible", "feedback": "" }
+      ],
+      "answer": "C",
+      "explanation": "flexible = able to change easily（有彈性的）. Working less in exam week and more in summer = flexible hours.",
+      "hints": [
+        { "level": 1, "text": "The hours can be \"less\" or \"more\". They can change.", "action": "highlight-words", "words": ["work less during exam week and more in the summer"] },
+        { "level": 2, "text": "You need an adjective that means 可以變動的、有彈性的.", "action": "explain" },
+        { "level": 3, "text": "Option B describes people, not hours.", "action": "eliminate-option", "eliminate": ["B"] },
+        { "level": 4, "text": "Answer: flexible. flexible schedule / flexible hours.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q14",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "fill-blank",
+      "stem": "From a parent's p__________, safety and sleep are more important than money.",
+      "answer": ["perspective"],
+      "explanation": "perspective = point of view（觀點、看法）. from sb's perspective = 從某人的角度來看.",
+      "hints": [
+        { "level": 1, "text": "\"From a parent's ___\" — this means \"in a parent's view\".", "action": "highlight-words", "words": ["From a parent's"] },
+        { "level": 2, "text": "The word starts with p and means 觀點.", "action": "explain" },
+        { "level": 3, "text": "It has 11 letters: p e r s p _ _ _ _ _ e.", "action": "explain" },
+        { "level": 4, "text": "Answer: perspective.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q15",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "fill-blank",
+      "stem": "My grandfather stopped working at 65. He is r______ now and spends his days gardening.",
+      "answer": ["retired"],
+      "explanation": "retired = no longer working because of age（退休的）.",
+      "hints": [
+        { "level": 1, "text": "\"stopped working at 65\" is the clue.", "action": "highlight-words", "words": ["stopped working at 65"] },
+        { "level": 2, "text": "The word starts with r and means 退休的.", "action": "explain" },
+        { "level": 3, "text": "It has 7 letters: r e t _ _ _ d.", "action": "explain" },
+        { "level": 4, "text": "Answer: retired. 文中：a retired principal.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q21",
+      "skill": "grammar", "sub_skill": "prefix-op", "type": "single-choice",
+      "stem": "In the words oppose, opponent, and opposite, the prefix op- carries the idea of ___.",
+      "options": [
+        { "key": "A", "text": "again", "feedback": "\"Again\" is re-, as in rewrite. Think about what an opponent does in a game." },
+        { "key": "B", "text": "against / facing", "feedback": "" },
+        { "key": "C", "text": "before", "feedback": "\"Before\" is pre-, as in preview. An opponent stands across from you." }
+      ],
+      "answer": "B",
+      "explanation": "op- comes from Latin ob- (toward, against). oppose = be against; opponent = the person against you; opposite = facing / completely different. 字首 op- 有「對著、對抗」的意思。",
+      "hints": [
+        { "level": 1, "text": "What does an opponent do in a game? Is he on your team?", "action": "highlight-words", "words": ["oppose, opponent, and opposite"] },
+        { "level": 2, "text": "oppose = be ___ an idea.", "action": "explain" },
+        { "level": 3, "text": "Options A and C belong to other prefixes (re-, pre-).", "action": "eliminate-option", "eliminate": ["A", "C"] },
+        { "level": 4, "text": "Answer: against / facing. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u09-q21v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q22",
+      "skill": "grammar", "sub_skill": "prefix-op", "type": "single-choice",
+      "stem": "In the badminton final, my ___ was a tall girl from another school. She was very hard to beat.",
+      "options": [
+        { "key": "A", "text": "opponent", "feedback": "" },
+        { "key": "B", "text": "opposite", "feedback": "\"Opposite\" is usually an adjective or means \"the reverse\". We need a person you play against." },
+        { "key": "C", "text": "oppress", "feedback": "\"Oppress\" is a verb (壓迫). The blank needs a noun for a person." }
+      ],
+      "answer": "A",
+      "explanation": "opponent (n.) = the person you play or compete against（對手）. op- = against.",
+      "hints": [
+        { "level": 1, "text": "\"my ___\" needs a noun. Who do you play against in a final?", "action": "highlight-words", "words": ["hard to beat"] },
+        { "level": 2, "text": "The word means 對手 — a person.", "action": "explain" },
+        { "level": 3, "text": "Option C is a verb, so it cannot follow \"my\".", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: opponent.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q23",
+      "skill": "grammar", "sub_skill": "overwork", "type": "single-choice",
+      "stem": "Jenny works at a store every evening and studies until 2 a.m. She is ___.",
+      "options": [
+        { "key": "A", "text": "taking it easy", "feedback": "\"Take it easy\" means relax. Does Jenny have time to relax?" },
+        { "key": "B", "text": "burning the candle at both ends", "feedback": "" },
+        { "key": "C", "text": "in favor of sleep", "feedback": "She sleeps very little, so she is not choosing sleep." }
+      ],
+      "answer": "B",
+      "explanation": "burn the candle at both ends = work too much and rest too little（蠟燭兩頭燒、過度勞累）. Similar: overwork oneself, wear oneself out, burn out.",
+      "hints": [
+        { "level": 1, "text": "Jenny works every evening AND studies until 2 a.m. Is that too much?", "action": "highlight-words", "words": ["every evening", "until 2 a.m."] },
+        { "level": 2, "text": "Imagine a candle burning from both sides. It finishes very fast!", "action": "explain" },
+        { "level": 3, "text": "Option A means the opposite (relaxing).", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: burning the candle at both ends.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u09-q24",
+      "skill": "grammar", "sub_skill": "overwork", "type": "fill-blank",
+      "stem": "If you work seven days a week and never rest, you will wear yourself ___.",
+      "answer": ["out"],
+      "explanation": "wear oneself out = make yourself very tired（使自己筋疲力盡）. Also: overwork oneself, burn out.",
+      "hints": [
+        { "level": 1, "text": "Find the verb phrase: \"wear yourself ___\".", "action": "highlight-words", "words": ["wear yourself"] },
+        { "level": 2, "text": "You need a small word (a particle) that completes the phrase.", "action": "explain" },
+        { "level": 3, "text": "It is the same word as in \"burn ___\" (= become too tired to continue).", "action": "explain" },
+        { "level": 4, "text": "Answer: out. wear oneself out = 累垮自己.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-allplus-u09-q01v", "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        { "key": "A", "text": "Part-Time Jobs for Teens: Different Voices" },
+        { "key": "B", "text": "How to Become a Good Cashier" },
+        { "key": "C", "text": "Why All Teens Must Work" }
+      ],
+      "answer": "A", "explanation": "The passage shows many different views on teens working part-time."
+    },
+    {
+      "question_id": "g11-allplus-u09-q03v", "skill": "reading", "sub_skill": "argument-side", "type": "single-choice",
+      "stem": "\"Jobs often lead to poor sleep and falling grades.\" Which side does this argument support?",
+      "options": [
+        { "key": "A", "text": "For part-time jobs" },
+        { "key": "B", "text": "Against part-time jobs" },
+        { "key": "C", "text": "Neither side" }
+      ],
+      "answer": "B", "explanation": "Poor sleep and falling grades are bad results, so this is an argument against part-time jobs (the parent's view)."
+    },
+    {
+      "question_id": "g11-allplus-u09-q11v", "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Turn off your phone when you study. It will help your ___.",
+      "options": [
+        { "key": "A", "text": "shortage" },
+        { "key": "B", "text": "concentration" },
+        { "key": "C", "text": "household" }
+      ],
+      "answer": "B", "explanation": "Turning off your phone helps you focus → concentration（專注）."
+    },
+    {
+      "question_id": "g11-allplus-u09-q21v", "skill": "grammar", "sub_skill": "prefix-op", "type": "single-choice",
+      "stem": "Many parents ___ the plan to start school at 7 a.m. They think it is too early.",
+      "options": [
+        { "key": "A", "text": "oppose" },
+        { "key": "B", "text": "opponent" },
+        { "key": "C", "text": "opposite" }
+      ],
+      "answer": "A", "explanation": "The blank needs a verb meaning \"be against\" → oppose（反對）."
+    }
+  ]
+}

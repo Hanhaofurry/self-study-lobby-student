@@ -1,0 +1,9 @@
+{
+  "course_id": "g11-allplus",
+  "title": "綜高高二 ALL+ 8月號（第二次段考：Unit 8–13）",
+  "grade": [11],
+  "track": "general",
+  "default_level": "support",
+  "version": "2026.08",
+  "units": ["units/u08-hip-hop.json", "units/u09-part-time-jobs.json", "units/u10-information-access.json", "units/u11-pickleball.json", "units/u12-at-the-bank.json", "units/u13-scams.json"]
+}

@@ -1,0 +1,1074 @@
+{
+  "unit": {
+    "unit_id": "g10-4u-u11",
+    "order": 11,
+    "title": "A Growing Debate: Should Some Places Say “No Kids”?",
+    "title_zh": "包容還是設限？禁童空間爭議",
+    "topic": "society",
+    "grade": [
+      10
+    ],
+    "objectives": [
+      "I can explain both sides of the debate about “no kids” places.",
+      "I can tell apart different uses of “yet” (however / not yet).",
+      "I can use “have no / little choice but to V”."
+    ],
+    "estimated_minutes": 30,
+    "tags": [
+      "#4u-2026-09"
+    ],
+    "source": "English 4U 2026年9月號 p.54"
+  },
+  "passages": [
+    {
+      "passage_id": "g10-4u-u11-p1",
+      "title": "Should Some Places Be for Adults Only?",
+      "topic": "society",
+      "abstraction": "social",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1000,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "In Japan, South Korea, and Taiwan, fewer babies are being born than in the past, and many governments are actively asking people to have more children. Yet online, people complain more and more often about noisy kids in cafés, restaurants, and other shared spaces. Societies want more children, but many adults do not enjoy hearing them. This tension has started a debate: should some places be for adults only?",
+            "Supporters of “no kids” rules say that some places are meant to be calm. A fine restaurant, a museum, or an art show can lose its appeal when children run around and shout. Customers there pay for comfort as well as service. Supporters also think that the owner of a business has the right to make their own policies, such as age limits or quiet hours. In their view, these rules are not about shutting children out; they protect the peaceful experience adults pay for.",
+            "Others disagree. In their view, kids belong to society like everyone else, so no one should deny them entry. Besides, their parents pay just like other customers. Besides, some parents cannot find anyone to look after the kids, so sometimes they have no choice but to bring them along. Opponents also warn that when there are fewer children, adults have less contact with them, which could weaken their patience and understanding. Kids need real-life chances to learn how to behave in public, and they cannot learn if they are kept out.",
+            "Perhaps the best way forward is for both sides to make an effort. Parents can guide their children, and other adults can show patience in return. Then public spaces can welcome everyone, young and old."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 840,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "In Japan, South Korea, and Taiwan, fewer babies are born now. Many governments are actively asking people to have more children. Yet people complain online more and more about noisy kids in restaurants and cafés. This has started a debate: should some places be for adults only?",
+            "Some people support “no kids” rules. They say some places are meant to be calm. A fine restaurant or a museum can lose its appeal when children run around and shout. Customers pay for comfort. Business owners should have the right to make their own policies, like age limits or quiet hours.",
+            "Others disagree. Kids are part of society, so no one should deny them entry. Their parents pay, too. Some parents have no one to look after the kids, so they have no choice but to bring them along. When there are fewer children, adults have less contact with them. This could weaken their patience. Kids also need chances to learn how to behave in public.",
+            "Perhaps the best way forward is for both sides to try. Parents can guide their children. Other adults can show patience in return. Then public spaces can welcome everyone."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "actively",
+          "pos": "adv.",
+          "zh": "積極地",
+          "example": "Our class actively helps clean the park every month."
+        },
+        {
+          "word": "complaint",
+          "pos": "n.",
+          "zh": "抱怨；投訴",
+          "example": "The shop got a complaint about its rude staff."
+        },
+        {
+          "word": "appeal",
+          "pos": "n.",
+          "zh": "吸引力",
+          "example": "The beach has lost its appeal because of all the trash."
+        },
+        {
+          "word": "policy",
+          "pos": "n.",
+          "zh": "政策；原則",
+          "example": "Our school has a no-phone policy during tests."
+        },
+        {
+          "word": "deny",
+          "pos": "v.",
+          "zh": "拒絕（給予）",
+          "example": "The club denied him entry because he was too young."
+        },
+        {
+          "word": "patience",
+          "pos": "n.",
+          "zh": "耐心",
+          "example": "Learning to play the guitar takes a lot of patience."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g10-4u-u11-r1",
+      "skill": "reading",
+      "title": "Reading 1 · Kids Welcome?",
+      "passage_id": "g10-4u-u11-p1",
+      "question_ids": [
+        "g10-4u-u11-q01",
+        "g10-4u-u11-q02",
+        "g10-4u-u11-q03",
+        "g10-4u-u11-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g10-4u-u11-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Debate Words",
+      "question_ids": [
+        "g10-4u-u11-q11",
+        "g10-4u-u11-q12",
+        "g10-4u-u11-q13",
+        "g10-4u-u11-q14",
+        "g10-4u-u11-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g10-4u-u11-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · yet & have no choice but to V",
+      "question_ids": [
+        "g10-4u-u11-q21",
+        "g10-4u-u11-q22",
+        "g10-4u-u11-q23",
+        "g10-4u-u11-q24"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g10-4u-u11-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to make children study harder",
+          "feedback": "Studying is not mentioned. Look at the question at the end of paragraph 1."
+        },
+        {
+          "key": "B",
+          "text": "A debate about whether some public places should be for adults only",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Why Japan has the best restaurants",
+          "feedback": "Japan is mentioned only as one country with fewer births."
+        },
+        {
+          "key": "D",
+          "text": "How to open a new café",
+          "feedback": "The passage talks about café rules, not how to open one."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 1 asks “should some places be for adults only?”, paragraph 2 gives the supporters' view, paragraph 3 the opponents' view, and paragraph 4 a possible way forward. So it is about this debate (B).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the last sentence of paragraph 1.",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: “a debate” and “Others disagree”.",
+          "action": "highlight-words",
+          "words": [
+            "a debate",
+            "Others disagree"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C is only a small detail. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Two sides + one question = a debate. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u11-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "According to supporters, why might a fine restaurant lose its appeal?",
+      "stem_support": "Why might some people stop liking a fine restaurant?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The food is too expensive.",
+          "feedback": "Price is not the reason in the passage."
+        },
+        {
+          "key": "B",
+          "text": "Children run around and shout there.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "There are too few waiters.",
+          "feedback": "Waiters are not mentioned."
+        },
+        {
+          "key": "D",
+          "text": "It has quiet hours.",
+          "feedback": "Quiet hours are a rule to SOLVE the problem, not the reason."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 2: a fine restaurant “can lose its appeal when children run around and shout” (B).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 2.",
+          "action": "highlight-paragraph",
+          "paragraph": 1
+        },
+        {
+          "level": 2,
+          "text": "Key words: “lose its appeal” and “run around and shout”.",
+          "action": "highlight-words",
+          "words": [
+            "lose its appeal",
+            "run around and shout"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C is not in the text. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Noise from running and shouting → B.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Why do opponents think having fewer children could make adults less patient with kids?",
+      "stem_support": "Why could fewer children make adults less patient?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Adults spend less time around kids, so they are less used to them.",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "Adults have more money, so they want quiet places.",
+          "feedback": "Money is not mentioned in this part."
+        },
+        {
+          "key": "C",
+          "text": "Children today are louder than in the past.",
+          "feedback": "The passage never compares children today with the past."
+        },
+        {
+          "key": "D",
+          "text": "Governments tell adults to stay away from children.",
+          "feedback": "Governments are actually asking for MORE children."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 3: with fewer children, adults “have less contact with them, which could weaken their patience and understanding.” Less contact → less used to kids → less patience (A).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the middle of paragraph 3.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “less contact with them” and “weaken their patience”.",
+          "action": "highlight-words",
+          "words": [
+            "less contact with them",
+            "weaken their patience"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is the opposite of paragraph 1. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Less contact → less patience. Answer: A.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 3,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q04",
+      "skill": "reading",
+      "sub_skill": "author-purpose",
+      "type": "single-choice",
+      "stem": "What is the purpose of the last paragraph?",
+      "stem_support": "Why does the writer write the last paragraph?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To say that children should never go to restaurants",
+          "feedback": "The writer wants public spaces to welcome everyone."
+        },
+        {
+          "key": "B",
+          "text": "To suggest a solution where both sides make an effort",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "To tell parents to stop having children",
+          "feedback": "This is not in the passage at all."
+        },
+        {
+          "key": "D",
+          "text": "To list more countries with fewer babies",
+          "feedback": "No countries are named in the last paragraph."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The last paragraph says “the best way forward” is for both sides to make an effort: parents guide kids, other adults show patience. It suggests a solution (B).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 4.",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: “the best way forward” and “in return”.",
+          "action": "highlight-words",
+          "words": [
+            "the best way forward",
+            "in return"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C is not in the text. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Parents + other adults both try → a solution. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u11-q04v",
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The hotel received many ___ about the noisy air conditioner in Room 305.",
+      "options": [
+        {
+          "key": "A",
+          "text": "complaints",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "policies",
+          "feedback": "A policy is a rule. Do guests send rules about noise?"
+        },
+        {
+          "key": "C",
+          "text": "patience",
+          "feedback": "Patience means staying calm. It does not fit “many ___ about the noisy...”."
+        }
+      ],
+      "answer": "A",
+      "explanation": "complaint about sth = 對…的抱怨／投訴. Guests were unhappy about the noise.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find what guests were unhappy about.",
+          "action": "highlight-words",
+          "words": [
+            "noisy air conditioner"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “saying you are not happy”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C cannot be counted (“many patience”). Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: complaints.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q12",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "The guard ___ us entry because we didn't have tickets.",
+      "options": [
+        {
+          "key": "A",
+          "text": "disagreed",
+          "feedback": "Disagree is used with “with”: disagree with someone."
+        },
+        {
+          "key": "B",
+          "text": "denied",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "weakened",
+          "feedback": "Weaken means “make weaker”. It does not go with “us entry”."
+        }
+      ],
+      "answer": "B",
+      "explanation": "deny sb sth = 拒絕給某人某物. deny us entry = 不讓我們進去.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the words after the blank.",
+          "action": "highlight-words",
+          "words": [
+            "us entry"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: ___ + person + thing = refuse to give.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A needs “with”. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: denied. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u11-q12v",
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q13",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "fill-blank",
+      "stem": "Could you look ___ my cat while I'm on vacation next week?",
+      "answer": [
+        "after"
+      ],
+      "explanation": "look after sb/sth = 照顧. Someone needs to take care of the cat.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read: “look ___ my cat”.",
+          "action": "highlight-words",
+          "words": [
+            "look ___ my cat"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Which phrase means “take care of”?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Example: Grandma looks a____ my baby brother on weekdays.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: after → look after.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Teaching young kids takes a lot of ___; they ask the same question again and again.",
+      "options": [
+        {
+          "key": "A",
+          "text": "appeal",
+          "feedback": "Appeal means “attraction”. Does teaching take attraction?"
+        },
+        {
+          "key": "B",
+          "text": "patience",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "entry",
+          "feedback": "Entry means “going in”. It does not fit here."
+        }
+      ],
+      "answer": "B",
+      "explanation": "patience = 耐心. Answering the same question many times needs patience.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the clue after the semicolon (;).",
+          "action": "highlight-words",
+          "words": [
+            "again and again"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "What do you need when someone repeats a question?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is about going in. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: patience.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q15",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "I helped Ken with his math homework, and he taught me to play the guitar in ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "purpose",
+          "feedback": "“in purpose” is not English. (We say “on purpose”.)"
+        },
+        {
+          "key": "B",
+          "text": "addition",
+          "feedback": "“In addition” adds an idea; it does not mean giving something back."
+        },
+        {
+          "key": "C",
+          "text": "return",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "in return = 作為回報. Ken gave something back for my help.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Who helped whom? Did Ken give something back?",
+          "action": "highlight-words",
+          "words": [
+            "helped Ken",
+            "taught me"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a phrase meaning “as a way of giving back”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A is not a correct phrase. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: in return.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q21",
+      "skill": "grammar",
+      "sub_skill": "have-no-choice-but",
+      "type": "single-choice",
+      "stem": "The last bus had already left, so we had no choice but ___ home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "walk",
+          "feedback": "This pattern needs “to” before the verb."
+        },
+        {
+          "key": "B",
+          "text": "walking",
+          "feedback": "Not V-ing here: have no choice but + to V."
+        },
+        {
+          "key": "C",
+          "text": "to walk",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "walked",
+          "feedback": "Use “to + base verb”, not the past tense."
+        }
+      ],
+      "answer": "C",
+      "explanation": "S + have no / little choice but + to V = 別無選擇，只能…. → had no choice but to walk.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the pattern before the blank.",
+          "action": "highlight-words",
+          "words": [
+            "had no choice but"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: have no choice but + to + base verb.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option D is past tense. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: to walk. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u11-q21v",
+      "difficulty": "foundation",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q22",
+      "skill": "grammar",
+      "sub_skill": "yet-uses",
+      "type": "single-choice",
+      "stem": "“I haven't finished my science report yet.” What does “yet” mean here?",
+      "options": [
+        {
+          "key": "A",
+          "text": "然而；但是",
+          "feedback": "This meaning is used to show contrast, usually at the start of a clause."
+        },
+        {
+          "key": "B",
+          "text": "還（沒）；尚未",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "至今最…",
+          "feedback": "This meaning goes with a superlative, like “the best ... yet”."
+        }
+      ],
+      "answer": "B",
+      "explanation": "In negative sentences and questions, yet at the end means “until now” → haven't ... yet = 還沒.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the verb: “haven't finished”.",
+          "action": "highlight-words",
+          "words": [
+            "haven't finished"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Negative sentence + yet at the end → ?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C needs a superlative (best, biggest). Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: 還沒 (not yet).",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q23",
+      "skill": "grammar",
+      "sub_skill": "yet-uses",
+      "type": "single-choice",
+      "stem": "In which sentence does “yet” mean “but / however”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Have you eaten lunch yet?",
+          "feedback": "Here yet is in a question and means 已經 (already)."
+        },
+        {
+          "key": "B",
+          "text": "The room was small, yet it felt warm and cozy.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "This is the hottest day yet this summer.",
+          "feedback": "Here yet goes with a superlative: 至今最…"
+        },
+        {
+          "key": "D",
+          "text": "She hasn't called me yet.",
+          "feedback": "Here yet means 還沒 (not yet)."
+        }
+      ],
+      "answer": "B",
+      "explanation": "“small” and “warm and cozy” show a contrast. yet joins the two clauses like but → 然而；卻.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look for a sentence with two ideas that seem opposite.",
+          "action": "highlight-words",
+          "words": [
+            "small",
+            "cozy"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Contrast yet = but; it joins two clauses.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A is a question about “already”. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: B (small, yet cozy).",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u11-q24",
+      "skill": "grammar",
+      "sub_skill": "have-no-choice-but",
+      "type": "single-choice",
+      "stem": "Which sentence means “I had to stay home; there was nothing else I could do”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I couldn't help staying home.",
+          "feedback": "can't help V-ing = 忍不住…. That is a different meaning."
+        },
+        {
+          "key": "B",
+          "text": "I had no choice but staying home.",
+          "feedback": "The pattern needs “to V”: but to stay."
+        },
+        {
+          "key": "C",
+          "text": "I had a choice to stay home.",
+          "feedback": "This means you could choose — the opposite meaning."
+        },
+        {
+          "key": "D",
+          "text": "I had no choice but to stay home.",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "have no choice but to V = 只能… (had to). can't help V-ing = 忍不住 (can't stop yourself), which has a different meaning.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the key meaning: “had to … nothing else I could do”.",
+          "action": "highlight-words",
+          "words": [
+            "nothing else I could do"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "have no choice but + to V = had to.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C has the opposite meaning. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: D. Remember: can't help + V-ing = 忍不住.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g10-4u-u11-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "“No Kids” Places: Fair Rule or Unfair Limit?"
+        },
+        {
+          "key": "B",
+          "text": "The Best Toys for Children"
+        },
+        {
+          "key": "C",
+          "text": "How Museums Are Built"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The title should show the debate: is a no-kids rule fair or not?"
+    },
+    {
+      "question_id": "g10-4u-u11-q04v",
+      "skill": "reading",
+      "sub_skill": "author-purpose",
+      "type": "single-choice",
+      "stem": "In the last paragraph, “the best way forward” means ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the fastest road to a restaurant"
+        },
+        {
+          "key": "B",
+          "text": "the best plan for solving the problem"
+        },
+        {
+          "key": "C",
+          "text": "the front door of a café"
+        }
+      ],
+      "answer": "B",
+      "explanation": "way forward = a plan for what to do next（可行的做法）."
+    },
+    {
+      "question_id": "g10-4u-u11-q12v",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "Children should not be ___ entry to public libraries.",
+      "options": [
+        {
+          "key": "A",
+          "text": "denied"
+        },
+        {
+          "key": "B",
+          "text": "frequently"
+        },
+        {
+          "key": "C",
+          "text": "complained"
+        }
+      ],
+      "answer": "A",
+      "explanation": "be denied entry = not be allowed to go in."
+    },
+    {
+      "question_id": "g10-4u-u11-q21v",
+      "skill": "grammar",
+      "sub_skill": "have-no-choice-but",
+      "type": "single-choice",
+      "stem": "It was raining hard, so Mom had little choice but ___ me to school.",
+      "options": [
+        {
+          "key": "A",
+          "text": "drive"
+        },
+        {
+          "key": "B",
+          "text": "to drive"
+        },
+        {
+          "key": "C",
+          "text": "driving"
+        }
+      ],
+      "answer": "B",
+      "explanation": "have little choice but + to V → to drive."
+    }
+  ]
+}

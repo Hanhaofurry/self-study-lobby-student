@@ -39,6 +39,15 @@ export const API_URL = "https://script.google.com/macros/s/…/exec";
 
 在 GitHub 網頁上編輯這個檔案並 Commit，幾分鐘後網站就會要求登入。
 
+## 雜誌原文（只給登入的學生看）
+
+雜誌原文**不放在公開的 repo**，而是放在試算表的 `Originals` 工作表，網站只在學生登入後讀取。
+
+1. 在試算表選 **檔案 → 匯入 → 上傳**，選 `雜誌原文_匯入用.xlsx`。
+2. 匯入位置選「**插入新的工作表**」（不要選取代試算表，否則名單會被覆蓋）。
+3. 確認新工作表名稱是 `Originals`（若變成其他名稱，請改回 `Originals`）。
+4. 之後換新一期雜誌，只要在 `Originals` 新增或修改列即可：`passage_id` 對應單元的文章代碼，`paragraphs_json` 是段落陣列。修改後最多 10 分鐘生效。
+
 ## 日常管理
 
 | 想做的事 | 怎麼做 |
@@ -49,12 +58,12 @@ export const API_URL = "https://script.google.com/macros/s/…/exec";
 | 新增／轉入學生 | 在 `Students` 新增一列：`student_id`、`name`、`class_code`、`seat`，`active` 填 TRUE，密碼欄留空 |
 | 學生轉出／停用 | 把 `active` 改成 FALSE（紀錄保留） |
 | 換學期、換名單 | 把新名單貼到 `Students`（舊學生可刪除或設 FALSE）；新班級加到 `Classes` |
-| 只開放部分單元 | `Classes` 的 `released_units` 填單元代碼，用逗號分隔，例如 `g10-u01,g10-u02`；留空＝全部開放 |
+| 只開放部分單元 | `Classes` 的 `released_units` 填單元代碼，用逗號分隔，例如 `g10-4u-u06,g10-4u-u07`；留空＝全部開放 |
 | 改計分或提示 | `scoring_mode`：`practice`（練習）／`no-penalty`（提示不扣分）／`quiz`（小考）；`hint_max`：0–4 |
 | 預設文章版本 | `default_level`：`support`（支援版）或 `standard`（標準版）；`allow_level_switch` 決定學生可否自己切換 |
 | 讓所有人重新登入 | **自學大廳 → 讓所有學生重新登入** |
 
-`Classes` 的 `course_id`：十年級 `g10-core-a`、十一年級 `g11-core-a`、十二年級 `g12-core-a`。
+`Classes` 的 `course_id`：高一 4U `g10-core-a`、職科高二 Live `g11-core-a`、綜高高二 ALL+ `g11-allplus`。
 
 > 修改 `Code.gs` 之後，要到 **部署 → 管理部署作業 → 編輯 → 版本選「新版本」→ 部署**，網址不變。只改試算表內容則不需要重新部署。
 

@@ -1,9 +1,18 @@
 {
   "course_id": "g11-core-a",
-  "title": "十一年級必修英文",
-  "grade": [11],
-  "track": "general",
-  "default_level": "standard",
-  "version": "2026.11",
-  "units": ["units/u01-fast-fashion.json"]
+  "title": "職科高二 Live 8月號（第二次段考：Unit 8–13）",
+  "grade": [
+    11
+  ],
+  "track": "vocational",
+  "default_level": "support",
+  "version": "2026.08",
+  "units": [
+    "units/u08-bath.json",
+    "units/u09-charlie-puth.json",
+    "units/u10-notices.json",
+    "units/u11-otters.json",
+    "units/u12-airport.json",
+    "units/u13-padel.json"
+  ]
 }

@@ -1,0 +1,361 @@
+{
+  "unit": {
+    "unit_id": "g11-allplus-u11",
+    "order": 11,
+    "title": "Pickleball: The Sport Everyone Is Suddenly Playing",
+    "title_zh": "匹克球——全民瘋玩的運動新浪潮",
+    "topic": "sports",
+    "grade": [11],
+    "objectives": [
+      "I can explain why pickleball has become popular so quickly.",
+      "I can use \"in a row\" to talk about things that happen one after another.",
+      "I can use wh- noun clauses (what / why / how + S + V) correctly."
+    ],
+    "estimated_minutes": 35,
+    "tags": ["#allplus-2026-08"],
+    "source": "ALL+ 互動英語 2026年8月號 p.46"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-allplus-u11-p1",
+      "title": "A Backyard Game Goes Global",
+      "topic": "sports",
+      "abstraction": "concrete",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 980,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Pickleball began as a way to fight summer boredom. In 1965, three fathers wanted to give their kids something fun to do. Using table tennis paddles, a plastic ball, and an old badminton court with the net set lower, they invented a few rules and gave the game a funny name. None of them could have predicted that their backyard game would one day be played by millions.",
+            "The game is played on a court that looks like a small tennis court. Players hit a light plastic ball full of holes with paddles that look like large table tennis bats. Because the court is so small, players rarely need to run far, and the rules are easy to pick up. Unlike tennis, which can take years to enjoy, pickleball lets most beginners keep a rally going and score points within their first hour. Even so, it is still a good workout.",
+            "The sport's growth has been incredible. For four years in a row, no sport in the US grew faster. By 2024, about 19.8 million Americans were playing, which is 311 percent more than in 2021. The COVID-19 pandemic made its growth accelerate, because people looked for safe ways to exercise outdoors, and many of them kept playing afterward. New courts appeared so fast that cities could barely keep up with the demand. Today, pickleball is played on six continents. India, for example, had almost no courts, yet in less than ten years it hosted a World Championship.",
+            "Still, numbers are not the main reason people love the game. Players enjoy the friendly jokes on the court, and a stranger can quickly become a doubles partner. At the 2025 USA Pickleball National Championships, the players ranged in age from 11 to 87, and they all followed the same rules."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 830,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Pickleball started in 1965. Three fathers wanted a new game for their children. They used table tennis paddles, a plastic ball, and an old badminton court. Nobody predicted that their backyard game would become so popular.",
+            "The court looks like a small tennis court. Players use paddles and a light plastic ball full of holes. The court is small, so players do not run much. The rules are easy to pick up. Tennis can take years to learn, but most beginners can keep a rally going in their first hour of pickleball.",
+            "The sport has grown very fast. For four years in a row, it grew faster than any other sport in the US. By 2024, about 19.8 million Americans played it. That is 311 percent more than in 2021. The COVID-19 pandemic made its growth accelerate. People wanted safe ways to exercise outdoors. Cities built new courts, but they could barely keep up with the demand. Now people play pickleball on six continents. India had almost no courts. Less than ten years later, it hosted a World Championship.",
+            "But people do not love the game because of numbers. They love the friendly jokes on the court. A stranger can quickly become a doubles partner. At the 2025 USA Pickleball National Championships, the players were from 11 to 87 years old. They all followed the same rules."
+          ]
+        }
+      ],
+      "glossary": [
+        { "word": "predict", "pos": "v.", "zh": "預測、預料", "example": "Nobody can predict the weather perfectly." },
+        { "word": "workout", "pos": "n.", "zh": "鍛鍊、運動", "example": "A 20-minute walk is an easy workout." },
+        { "word": "rally", "pos": "n.", "zh": "（球類）連續對打", "example": "The rally lasted for more than twenty hits." },
+        { "word": "incredible", "pos": "adj.", "zh": "驚人的、難以置信的", "example": "The view from the mountain was incredible." },
+        { "word": "accelerate", "pos": "v.", "zh": "加速", "example": "The bus accelerated after it left the station." },
+        { "word": "competitor", "pos": "n.", "zh": "參賽者；競爭者", "example": "Each competitor got a free T-shirt." }
+      ]
+    }
+  ],
+  "sets": [
+    { "set_id": "g11-allplus-u11-r1", "skill": "reading", "title": "Reading 1 · The Rise of Pickleball", "passage_id": "g11-allplus-u11-p1", "question_ids": ["g11-allplus-u11-q01", "g11-allplus-u11-q02", "g11-allplus-u11-q03", "g11-allplus-u11-q04"], "estimated_minutes": 12 },
+    { "set_id": "g11-allplus-u11-v1", "skill": "vocabulary", "title": "Vocabulary 1 · Words from the Court", "question_ids": ["g11-allplus-u11-q11", "g11-allplus-u11-q12", "g11-allplus-u11-q13", "g11-allplus-u11-q14", "g11-allplus-u11-q15"], "estimated_minutes": 8 },
+    { "set_id": "g11-allplus-u11-g1", "skill": "grammar", "title": "Grammar 1 · in a row & wh- Noun Clauses", "question_ids": ["g11-allplus-u11-q21", "g11-allplus-u11-q22", "g11-allplus-u11-q23", "g11-allplus-u11-q24"], "estimated_minutes": 8 }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-allplus-u11-q01",
+      "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        { "key": "A", "text": "How a simple backyard game became a popular sport around the world", "feedback": "" },
+        { "key": "B", "text": "Why tennis is harder to learn than badminton", "feedback": "Tennis is only used for comparison. What sport is the whole passage about?" },
+        { "key": "C", "text": "How the COVID-19 pandemic changed all sports", "feedback": "COVID-19 appears in only one sentence, and only about pickleball." },
+        { "key": "D", "text": "The life stories of three famous fathers", "feedback": "The fathers appear only in paragraph 1. We don't even learn their names." }
+      ],
+      "answer": "A",
+      "explanation": "The passage tells how pickleball started (paragraph 1), why it is easy (2), how fast it grew (3), and why people love it (4). A covers all of this. 主旨：後院遊戲 → 全球熱門運動。",
+      "hints": [
+        { "level": 1, "text": "Read the first sentence of each paragraph. Which sport is in every paragraph?", "action": "highlight-paragraph", "paragraph": 0 },
+        { "level": 2, "text": "Key words: \"backyard game\" and \"six continents\".", "action": "highlight-words", "words": ["backyard game", "six continents"] },
+        { "level": 3, "text": "Option D is too small: the fathers are only in paragraph 1.", "action": "eliminate-option", "eliminate": ["D"] },
+        { "level": 4, "text": "From a backyard in 1965 to six continents today. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u11-q01v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 2, "paragraph_ref": 0, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q02",
+      "skill": "reading", "sub_skill": "detail", "type": "single-choice",
+      "stem": "According to paragraph 2, why is pickleball easy for beginners?",
+      "stem_support": "In paragraph 2, why can new players enjoy pickleball fast?",
+      "options": [
+        { "key": "A", "text": "The ball is very heavy, so it moves slowly.", "feedback": "The ball is LIGHT, not heavy. Read the description of the ball again." },
+        { "key": "B", "text": "The court is small and the rules are easy to learn.", "feedback": "" },
+        { "key": "C", "text": "Players do not need to hit the ball.", "feedback": "Players do hit the ball with paddles. Look for \"small\" and \"rules\"." },
+        { "key": "D", "text": "Beginners always play against children.", "feedback": "This is not in the passage. Find the reasons in paragraph 2." }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 2: the court is small, so players rarely run far, and the rules are easy to pick up (B). pick up = 學會.",
+      "hints": [
+        { "level": 1, "text": "Go to paragraph 2. Find the sentence that begins with \"Because the court is so small\" / \"The court is small\".", "action": "highlight-paragraph", "paragraph": 1 },
+        { "level": 2, "text": "Key words: \"small\" and \"easy to pick up\".", "action": "highlight-words", "words": ["easy to pick up", "first hour"] },
+        { "level": 3, "text": "Option A is wrong: the ball is light, not heavy.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Small court + easy rules = easy for beginners. Answer: B.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "paragraph_ref": 1, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q03",
+      "skill": "reading", "sub_skill": "inference", "type": "single-choice",
+      "stem": "Why does the writer mention that players at the 2025 national championships were from 11 to 87 years old?",
+      "stem_support": "Why does the writer say the players were 11 to 87 years old?",
+      "options": [
+        { "key": "A", "text": "To show that only old people are good at pickleball", "feedback": "An 11-year-old played too. The point is the wide range of ages." },
+        { "key": "B", "text": "To show that young players and old players have different rules", "feedback": "The passage says they all followed the SAME rules." },
+        { "key": "C", "text": "To show that people of almost any age can play the sport together", "feedback": "" },
+        { "key": "D", "text": "To show that the championship was too easy", "feedback": "Nothing says the event was easy. Think about what 11 and 87 have in common here." }
+      ],
+      "answer": "C",
+      "explanation": "Players from 11 to 87 took part under the same rules. This shows that pickleball welcomes people of almost any age (C). 推論：年齡差距很大卻能同場比賽 → 老少咸宜。",
+      "hints": [
+        { "level": 1, "text": "Read the last sentence of paragraph 4.", "action": "highlight-paragraph", "paragraph": 3 },
+        { "level": 2, "text": "Key words: \"11\", \"87\", and \"the same rules\".", "action": "highlight-words", "words": ["from 11 to 87", "the same rules"] },
+        { "level": 3, "text": "Option B is the opposite of \"the same rules\".", "action": "eliminate-option", "eliminate": ["B"] },
+        { "level": 4, "text": "A huge age range + same rules = everyone can play. Answer: C.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "analyze", "dok": 2, "paragraph_ref": 3, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q04",
+      "skill": "reading", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "In paragraph 3, cities \"could barely keep up with the demand.\" What does this tell us?",
+      "stem_support": "\"Cities could barely keep up with the demand.\" What does this mean?",
+      "options": [
+        { "key": "A", "text": "People wanted new courts faster than cities could build them.", "feedback": "" },
+        { "key": "B", "text": "Cities built too many courts and nobody used them.", "feedback": "This is the opposite. \"Barely keep up\" means it was hard to go fast enough." },
+        { "key": "C", "text": "City planners did not like pickleball.", "feedback": "The phrase is about speed, not feelings. Think about running behind someone who is faster." },
+        { "key": "D", "text": "People stopped playing after the pandemic.", "feedback": "The passage says many players never quit. Read paragraph 3 again." }
+      ],
+      "answer": "A",
+      "explanation": "keep up with = go as fast as; barely = almost not. So cities almost could not build courts fast enough for all the players (A). 片語 keep up with 跟上；barely 幾乎不能.",
+      "hints": [
+        { "level": 1, "text": "Find the phrase in paragraph 3.", "action": "highlight-paragraph", "paragraph": 2 },
+        { "level": 2, "text": "keep up with = 跟上; barely = 勉強、幾乎不.", "action": "highlight-words", "words": ["barely keep up with the demand"] },
+        { "level": 3, "text": "Options C and D do not match the passage at all.", "action": "eliminate-option", "eliminate": ["C", "D"] },
+        { "level": 4, "text": "Demand grew so fast that cities could hardly build courts quickly enough. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u11-q04v",
+      "difficulty": "challenge", "bloom": "analyze", "dok": 3, "paragraph_ref": 2, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q11",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "The weather app ___ rain, so I brought an umbrella. It really did rain in the afternoon!",
+      "options": [
+        { "key": "A", "text": "predicted", "feedback": "" },
+        { "key": "B", "text": "sustained", "feedback": "Sustain means \"keep something going\". An app tells you what will happen." },
+        { "key": "C", "text": "accelerated", "feedback": "Accelerate means \"go faster\". Does an app make rain go faster?" }
+      ],
+      "answer": "A",
+      "explanation": "predict = say what will happen in the future（預測）. The app said it would rain before it happened.",
+      "hints": [
+        { "level": 1, "text": "The app told the speaker something BEFORE the rain came.", "action": "highlight-words", "words": ["It really did rain"] },
+        { "level": 2, "text": "You need a verb meaning 預測.", "action": "explain" },
+        { "level": 3, "text": "Option C means \"go faster\".", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: predicted. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u11-q11v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q12",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "After 30 minutes of jumping rope, I was sweating a lot. It was a great ___.",
+      "options": [
+        { "key": "A", "text": "statistic", "feedback": "A statistic is a number from research. Jumping rope is exercise." },
+        { "key": "B", "text": "backyard", "feedback": "A backyard is a place behind a house. What do you call 30 minutes of exercise?" },
+        { "key": "C", "text": "workout", "feedback": "" }
+      ],
+      "answer": "C",
+      "explanation": "workout = a period of physical exercise（鍛鍊）. Jumping rope and sweating = a workout.",
+      "hints": [
+        { "level": 1, "text": "What was the speaker doing for 30 minutes?", "action": "highlight-words", "words": ["jumping rope", "sweating"] },
+        { "level": 2, "text": "You need a noun meaning 運動、鍛鍊.", "action": "explain" },
+        { "level": 3, "text": "Option A (statistic) is a number.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: workout. work + out → workout.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q13",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Online shopping grew slowly at first, but its growth ___ when people had to stay home.",
+      "options": [
+        { "key": "A", "text": "predicted", "feedback": "Growth cannot predict anything. The sentence compares \"slowly at first\" with what came later." },
+        { "key": "B", "text": "accelerated", "feedback": "" },
+        { "key": "C", "text": "demanded", "feedback": "Demand means \"need / ask for strongly\". Look at \"slowly at first, but ...\"." }
+      ],
+      "answer": "B",
+      "explanation": "accelerate = become faster（加速）. \"slowly at first, but ...\" shows the speed changed to faster.",
+      "hints": [
+        { "level": 1, "text": "\"slowly at first, but\" — so what happened later?", "action": "highlight-words", "words": ["slowly at first"] },
+        { "level": 2, "text": "You need a verb meaning 加速.", "action": "explain" },
+        { "level": 3, "text": "Option A does not fit: growth cannot predict.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: accelerated. 文中：the pandemic made the sport's growth accelerate.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q14",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "fill-blank",
+      "stem": "More than 300 c__________ from twelve countries took part in the race.",
+      "answer": ["competitors"],
+      "explanation": "competitor = a person who takes part in a competition（參賽者）. \"More than 300\" needs the plural: competitors.",
+      "hints": [
+        { "level": 1, "text": "Who \"takes part in a race\"?", "action": "highlight-words", "words": ["took part in the race"] },
+        { "level": 2, "text": "The word comes from compete（競爭）and means 參賽者.", "action": "explain" },
+        { "level": 3, "text": "\"More than 300\" → you need the plural (-s).", "action": "explain" },
+        { "level": 4, "text": "Answer: competitors.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q15",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "The two players hit the ball back and forth 40 times. It was the longest ___ of the match.",
+      "options": [
+        { "key": "A", "text": "percent", "feedback": "Percent is a number out of 100. What do you call hitting the ball back and forth?" },
+        { "key": "B", "text": "pace", "feedback": "Pace means speed. The sentence describes a series of hits." },
+        { "key": "C", "text": "rally", "feedback": "" }
+      ],
+      "answer": "C",
+      "explanation": "rally = a long series of hits between players before one wins the point（連續對打）.",
+      "hints": [
+        { "level": 1, "text": "\"back and forth 40 times\" — what is this called in ball games?", "action": "highlight-words", "words": ["back and forth 40 times"] },
+        { "level": 2, "text": "You need a noun meaning 連續對打.", "action": "explain" },
+        { "level": 3, "text": "Option A (percent) is a number.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: rally. keep a rally going = 持續對打.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q21",
+      "skill": "grammar", "sub_skill": "in-a-row", "type": "fill-blank",
+      "stem": "Our team won on Friday, Saturday, and Sunday. We won three games in a ___.",
+      "answer": ["row"],
+      "explanation": "number + in a row = one after another without a break（連續地）. three games in a row = 連贏三場.",
+      "hints": [
+        { "level": 1, "text": "Friday, Saturday, Sunday — the wins came one after another.", "action": "highlight-words", "words": ["Friday, Saturday, and Sunday"] },
+        { "level": 2, "text": "Pattern: three times in a ___ = 連續三次.", "action": "explain" },
+        { "level": 3, "text": "The word also means 一排、一列 (a line of seats).", "action": "explain" },
+        { "level": 4, "text": "Answer: row → three games in a row.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q22",
+      "skill": "grammar", "sub_skill": "in-a-row", "type": "single-choice",
+      "stem": "\"Kevin has been late to school four days in a row.\" This means Kevin was late ___.",
+      "options": [
+        { "key": "A", "text": "on four days one after another", "feedback": "" },
+        { "key": "B", "text": "four times in one day", "feedback": "\"Four days\" means four different days, not four times in one day." },
+        { "key": "C", "text": "only once in four days", "feedback": "\"In a row\" means it happened again and again, not once." }
+      ],
+      "answer": "A",
+      "explanation": "in a row = consecutively（接連地）. four days in a row = 連續四天.",
+      "hints": [
+        { "level": 1, "text": "Look at \"four days in a row\".", "action": "highlight-words", "words": ["four days in a row"] },
+        { "level": 2, "text": "in a row = 一個接著一個、連續.", "action": "explain" },
+        { "level": 3, "text": "Option C is the opposite of \"again and again\".", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: A — Monday, Tuesday, Wednesday, Thursday... late every day!", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q23",
+      "skill": "grammar", "sub_skill": "noun-clause", "type": "single-choice",
+      "stem": "Can you tell me ___?",
+      "options": [
+        { "key": "A", "text": "why is pickleball so popular", "feedback": "Inside a noun clause, do not use question order. Put the subject before the verb." },
+        { "key": "B", "text": "why pickleball is so popular", "feedback": "" },
+        { "key": "C", "text": "why pickleball so popular is", "feedback": "The verb \"is\" should come right after the subject \"pickleball\", not at the end." }
+      ],
+      "answer": "B",
+      "explanation": "wh- 名詞子句用直述句語序：wh- + S + V. Why is pickleball so popular?（問句）→ Can you tell me why pickleball is so popular?（名詞子句當受詞）",
+      "hints": [
+        { "level": 1, "text": "The blank is part of a bigger question. It is a noun clause, not a direct question.", "action": "highlight-words", "words": ["Can you tell me"] },
+        { "level": 2, "text": "Rule: wh- word + subject + verb (直述句語序).", "action": "explain" },
+        { "level": 3, "text": "Option C puts the verb at the very end, which is not English word order.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: why pickleball is so popular. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u11-q23v",
+      "difficulty": "standard", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u11-q24",
+      "skill": "grammar", "sub_skill": "noun-clause", "type": "single-choice",
+      "stem": "What surprised me most ___ how quickly my grandma learned the game.",
+      "options": [
+        { "key": "A", "text": "were", "feedback": "The subject is the whole clause \"What surprised me most\". A wh- clause used as a subject is singular." },
+        { "key": "B", "text": "was", "feedback": "" },
+        { "key": "C", "text": "being", "feedback": "\"Being\" is not a main verb. Every sentence needs a full verb like is or was." }
+      ],
+      "answer": "B",
+      "explanation": "wh- 名詞子句當主詞時視為單數 → 用單數動詞。The verb \"surprised\" is past tense, so we use was. (What surprised me most) + was + (how quickly my grandma learned the game).",
+      "hints": [
+        { "level": 1, "text": "Find the subject. It is the whole clause before the blank.", "action": "highlight-words", "words": ["What surprised me most"] },
+        { "level": 2, "text": "Rule: a wh- clause as subject = singular. The story is in the past.", "action": "explain" },
+        { "level": 3, "text": "Option C cannot be the main verb of a sentence.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: was (singular + past).", "action": "explain" }
+      ],
+      "difficulty": "challenge", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-allplus-u11-q01v", "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        { "key": "A", "text": "How to Build a Badminton Court" },
+        { "key": "B", "text": "Pickleball: From a Backyard to Six Continents" },
+        { "key": "C", "text": "Why Tennis Is the Best Sport" }
+      ],
+      "answer": "B", "explanation": "The passage follows pickleball from a backyard game in 1965 to a sport played around the world."
+    },
+    {
+      "question_id": "g11-allplus-u11-q04v", "skill": "reading", "sub_skill": "cause-effect", "type": "single-choice",
+      "stem": "Why did pickleball grow faster during the COVID-19 pandemic?",
+      "options": [
+        { "key": "A", "text": "People wanted safe ways to exercise outdoors." },
+        { "key": "B", "text": "All other sports were banned forever." },
+        { "key": "C", "text": "The rules became much harder." }
+      ],
+      "answer": "A", "explanation": "Paragraph 3: during the pandemic, people looked for safe outdoor exercise."
+    },
+    {
+      "question_id": "g11-allplus-u11-q11v", "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Experts ___ that more people will play pickleball next year.",
+      "options": [
+        { "key": "A", "text": "predict" },
+        { "key": "B", "text": "rally" },
+        { "key": "C", "text": "percent" }
+      ],
+      "answer": "A", "explanation": "\"will ... next year\" is about the future → predict（預測）."
+    },
+    {
+      "question_id": "g11-allplus-u11-q23v", "skill": "grammar", "sub_skill": "noun-clause", "type": "single-choice",
+      "stem": "I don't know ___.",
+      "options": [
+        { "key": "A", "text": "where the court is" },
+        { "key": "B", "text": "where is the court" },
+        { "key": "C", "text": "where does the court" }
+      ],
+      "answer": "A", "explanation": "Noun clause word order: where + S (the court) + V (is)."
+    }
+  ]
+}

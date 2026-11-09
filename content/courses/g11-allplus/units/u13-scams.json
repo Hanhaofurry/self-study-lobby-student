@@ -1,0 +1,356 @@
+{
+  "unit": {
+    "unit_id": "g11-allplus-u13",
+    "order": 13,
+    "title": "Don't Get Played: Scams Teenagers Need to Know About",
+    "title_zh": "識破騙局：青少年的防詐第一課",
+    "topic": "law-and-safety",
+    "grade": [11],
+    "objectives": [
+      "I can describe common scams and explain how to protect myself.",
+      "I can use \"too good to be true\" to talk about offers that seem suspicious.",
+      "I can use \"at first glance / at first sight\" to describe first impressions."
+    ],
+    "estimated_minutes": 35,
+    "tags": ["#allplus-2026-08"],
+    "source": "ALL+ 互動英語 2026年8月號 p.54"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-allplus-u13-p1",
+      "title": "Think Before You Click",
+      "topic": "law-and-safety",
+      "abstraction": "social",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1010,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Almost every teenager has seen a message saying they have won a prize or must click a link immediately to solve a problem with an account. These phishing messages are easy to spot, but other scams are much harder to notice. Fake online stores and carefully planned tricks on social media can look so convincing that even careful people are fooled.",
+            "Sports betting scams are one example. A stranger asks a teenager to place bets for him, using the teen's own bank account or one borrowed from a friend. If the bet wins, the teen gets a commission. If it loses, the teen supposedly loses nothing. This deal seems to have no risk, but a smart person should ask: if it is so safe, why does the stranger need help at all? The truth is that criminals use these schemes to move dirty money, and the teen becomes a \"money mule\" without realizing it.",
+            "Scammers also play with our feelings. They use curiosity, greed, and a sense of hurry to make people decide too quickly. Teens, who usually have less experience with money, are easy targets. One simple rule helps: when an offer sounds too good to be true, do not believe it.",
+            "To stay safe, teens should check every online offer carefully, even when nothing looks suspicious at first glance. Official sources, for example government websites, financial agencies, and trusted news outlets, are more reliable than screenshots or chat messages, which can easily be edited to mislead people. Teens should also remember that in Taiwan, helping to move money for a scam can be a crime even if they did not fully understand what was happening. It can lead to a police investigation and a criminal record that never goes away. Staying alert protects both their money and their future."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 860,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Many teenagers get messages like \"You won a prize!\" or \"Click this link now!\" But some scams are harder to see. Fake online stores and tricks on social media can look very convincing.",
+            "Sports betting scams are one example. A stranger asks a teenager to place bets for him. The teen uses his own bank account or a friend's account. If the bet wins, the teen gets a commission. If it loses, the teen loses nothing. It sounds safe. But if it is so safe, why does the stranger need help? The truth is that criminals use these schemes to move dirty money. The teen becomes a \"money mule.\"",
+            "Scammers also play with our feelings. They use curiosity, greed, and hurry. Then people decide too quickly. Teens have less experience with money, so they are easy targets. Remember this rule: when an offer sounds too good to be true, do not believe it.",
+            "To stay safe, check every online offer carefully, even if nothing looks suspicious at first glance. Use official sources, like government websites, financial agencies, and trusted news. Do not trust screenshots or chat messages, because people can edit them to mislead you. Also, in Taiwan, helping to move money for a scam can be a crime, even if you did not understand it. You may face a police investigation and get a criminal record. Stay alert!"
+          ]
+        }
+      ],
+      "glossary": [
+        { "word": "scam", "pos": "n.", "zh": "詐騙", "example": "The \"free phone\" message was a scam." },
+        { "word": "convincing", "pos": "adj.", "zh": "令人信服的", "example": "Her excuse was not very convincing." },
+        { "word": "commission", "pos": "n.", "zh": "佣金", "example": "The salesman gets a commission for every car he sells." },
+        { "word": "greed", "pos": "n.", "zh": "貪婪", "example": "Greed made him want more and more money." },
+        { "word": "suspicious", "pos": "adj.", "zh": "可疑的；懷疑的", "example": "A suspicious man was standing outside the bank." },
+        { "word": "mislead", "pos": "v.", "zh": "誤導", "example": "Some ads mislead people about the real price." }
+      ]
+    }
+  ],
+  "sets": [
+    { "set_id": "g11-allplus-u13-r1", "skill": "reading", "title": "Reading 1 · Scams Teens Should Know", "passage_id": "g11-allplus-u13-p1", "question_ids": ["g11-allplus-u13-q01", "g11-allplus-u13-q02", "g11-allplus-u13-q03", "g11-allplus-u13-q04"], "estimated_minutes": 12 },
+    { "set_id": "g11-allplus-u13-v1", "skill": "vocabulary", "title": "Vocabulary 1 · Words About Scams", "question_ids": ["g11-allplus-u13-q11", "g11-allplus-u13-q12", "g11-allplus-u13-q13", "g11-allplus-u13-q14", "g11-allplus-u13-q15"], "estimated_minutes": 8 },
+    { "set_id": "g11-allplus-u13-g1", "skill": "grammar", "title": "Patterns 1 · too good to be true & at first glance", "question_ids": ["g11-allplus-u13-q21", "g11-allplus-u13-q22", "g11-allplus-u13-q23", "g11-allplus-u13-q24"], "estimated_minutes": 8 }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-allplus-u13-q01",
+      "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        { "key": "A", "text": "How to win money by betting on sports", "feedback": "Sports betting is an example of a SCAM here, not a way to win money." },
+        { "key": "B", "text": "Common scams that target teens and how to stay safe", "feedback": "" },
+        { "key": "C", "text": "Why teenagers should not use social media", "feedback": "The writer does not tell teens to stop using social media. What does the writer want teens to watch out for?" },
+        { "key": "D", "text": "How the police catch criminals in Taiwan", "feedback": "The police appear only at the end. The main idea must cover the whole passage." }
+      ],
+      "answer": "B",
+      "explanation": "Paragraphs 1–3 describe scams and how scammers trick people; paragraph 4 explains how to stay safe. So B covers the whole passage. 主旨：常見詐騙＋自保方法。",
+      "hints": [
+        { "level": 1, "text": "Read the first sentence of each paragraph. What word keeps appearing?", "action": "highlight-paragraph", "paragraph": 0 },
+        { "level": 2, "text": "Key words: \"scams\" and \"To stay safe\".", "action": "highlight-words", "words": ["scams", "To stay safe"] },
+        { "level": 3, "text": "Option A misunderstands the example: betting here is a trick.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Scams + how to protect yourself = B. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u13-q01v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 2, "paragraph_ref": 0, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q02",
+      "skill": "reading", "sub_skill": "detail", "type": "single-choice",
+      "stem": "In a sports betting scam, what is the teenager asked to do?",
+      "stem_support": "In the sports betting scam, what does the stranger want the teen to do?",
+      "options": [
+        { "key": "A", "text": "Play a sports game with the stranger", "feedback": "Nobody plays a game. Look for the words \"place bets\"." },
+        { "key": "B", "text": "Buy tickets to a baseball game", "feedback": "These are betting tickets, not game tickets. Whose account is used?" },
+        { "key": "C", "text": "Place bets for the stranger using the teen's own or a borrowed account", "feedback": "" },
+        { "key": "D", "text": "Report the stranger to the police", "feedback": "The stranger would never ask this! Read paragraph 2 again." }
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 2: a stranger asks a teen to place bets for him, using the teen's own bank account or a borrowed one (C).",
+      "hints": [
+        { "level": 1, "text": "Go to paragraph 2.", "action": "highlight-paragraph", "paragraph": 1 },
+        { "level": 2, "text": "Key words: \"place bets for him\" and \"account\".", "action": "highlight-words", "words": ["place bets for him", "own bank account"] },
+        { "level": 3, "text": "Option D is something a scammer would never ask for.", "action": "eliminate-option", "eliminate": ["D"] },
+        { "level": 4, "text": "The teen bets for the stranger with his or her own account. Answer: C.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "paragraph_ref": 1, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q03",
+      "skill": "reading", "sub_skill": "inference", "type": "single-choice",
+      "stem": "Why does the writer ask, \"If it is so safe, why does the stranger need help?\"",
+      "stem_support": "Why does the writer ask this question about the stranger?",
+      "options": [
+        { "key": "A", "text": "To show that the stranger is a kind person", "feedback": "The question makes the stranger look suspicious, not kind." },
+        { "key": "B", "text": "To make readers see that the \"no risk\" deal is hiding something", "feedback": "" },
+        { "key": "C", "text": "To explain the rules of sports betting", "feedback": "The question is not about rules. What does the next sentence say is the truth?" },
+        { "key": "D", "text": "To encourage teens to help strangers more often", "feedback": "The passage warns teens; it does not encourage them to help strangers with money." }
+      ],
+      "answer": "B",
+      "explanation": "If a deal is really safe and profitable, the stranger could do it himself. The question makes readers doubt the deal, and the next sentence reveals the truth: it is used to move dirty money (B). 反問句的目的是讓讀者起疑。",
+      "hints": [
+        { "level": 1, "text": "Read the question and the sentence right after it in paragraph 2.", "action": "highlight-paragraph", "paragraph": 1 },
+        { "level": 2, "text": "Key words: \"why does the stranger need help\" and \"The truth is\".", "action": "highlight-words", "words": ["why does the stranger need help", "The truth is"] },
+        { "level": 3, "text": "Options A and D are opposite to the writer's warning.", "action": "eliminate-option", "eliminate": ["A", "D"] },
+        { "level": 4, "text": "A safe deal would not need a stranger's help — so something is hidden. Answer: B.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "analyze", "dok": 3, "paragraph_ref": 1, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q04",
+      "skill": "reading", "sub_skill": "cause-effect", "type": "single-choice",
+      "stem": "According to paragraph 4, why are screenshots and chat messages NOT good sources for checking an offer?",
+      "stem_support": "Why should you not trust screenshots and chat messages?",
+      "options": [
+        { "key": "A", "text": "They can easily be edited to mislead people.", "feedback": "" },
+        { "key": "B", "text": "They are too long to read.", "feedback": "Length is not mentioned. Look for the word \"edited\"." },
+        { "key": "C", "text": "They come from government websites.", "feedback": "Government websites are the GOOD sources. Screenshots are the opposite." },
+        { "key": "D", "text": "They are always written in English.", "feedback": "Language is not the problem. Read the sentence about screenshots again." }
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 4 says screenshots and chat messages can easily be edited to mislead people, so they are not reliable (A). 截圖和聊天訊息容易被修改造假。",
+      "hints": [
+        { "level": 1, "text": "Go to paragraph 4. Find \"screenshots\".", "action": "highlight-paragraph", "paragraph": 3 },
+        { "level": 2, "text": "Key words: \"edited\" and \"mislead\".", "action": "highlight-words", "words": ["screenshots", "edit", "mislead"] },
+        { "level": 3, "text": "Option C is wrong: government websites are the reliable sources.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Anyone can change a screenshot. Answer: A. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u13-q04v",
+      "difficulty": "standard", "bloom": "understand", "dok": 2, "paragraph_ref": 3, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q11",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "The email asked for my password and had many spelling mistakes. It looked very ___, so I deleted it.",
+      "options": [
+        { "key": "A", "text": "suspicious", "feedback": "" },
+        { "key": "B", "text": "financial", "feedback": "Financial means \"about money\". The email made the speaker feel it was not safe." },
+        { "key": "C", "text": "trustworthy", "feedback": "If it were trustworthy, why would the speaker delete it?" }
+      ],
+      "answer": "A",
+      "explanation": "suspicious = making you feel something is wrong（可疑的）. Asking for a password + spelling mistakes = warning signs.",
+      "hints": [
+        { "level": 1, "text": "The speaker deleted the email. Was it safe or not?", "action": "highlight-words", "words": ["so I deleted it"] },
+        { "level": 2, "text": "You need an adjective meaning 可疑的.", "action": "explain" },
+        { "level": 3, "text": "Option C is the opposite meaning.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: suspicious. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u13-q11v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q12",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Mia sells phones at a shop. For every phone she sells, she gets a 5% ___.",
+      "options": [
+        { "key": "A", "text": "greed", "feedback": "Greed is a feeling of wanting too much. Mia gets money for each sale." },
+        { "key": "B", "text": "commission", "feedback": "" },
+        { "key": "C", "text": "profile", "feedback": "A profile is information about a person, often online. What does Mia earn?" }
+      ],
+      "answer": "B",
+      "explanation": "commission = money you earn for each sale or job（佣金）.",
+      "hints": [
+        { "level": 1, "text": "Mia gets 5% for every phone she sells. What is this money called?", "action": "highlight-words", "words": ["For every phone she sells"] },
+        { "level": 2, "text": "You need a noun meaning 佣金.", "action": "explain" },
+        { "level": 3, "text": "Option A (greed) is a feeling, not money.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: commission. 文中：the teen gets a commission if the bet wins.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q13",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "The fake shopping website had nice photos and real-looking reviews. It was so ___ that many people believed it.",
+      "options": [
+        { "key": "A", "text": "suspicious", "feedback": "If the website looked suspicious, would many people believe it? Look at the end of the sentence." },
+        { "key": "B", "text": "alert", "feedback": "Alert describes a person who is watching carefully. A website cannot be alert." },
+        { "key": "C", "text": "convincing", "feedback": "" }
+      ],
+      "answer": "C",
+      "explanation": "convincing = making people believe something is true（令人信服的）. \"so convincing that many people believed it\" fits best.",
+      "hints": [
+        { "level": 1, "text": "Read the end: \"many people believed it\".", "action": "highlight-words", "words": ["many people believed it"] },
+        { "level": 2, "text": "You need an adjective meaning 令人信服的.", "action": "explain" },
+        { "level": 3, "text": "Option B describes people who watch carefully, not websites.", "action": "eliminate-option", "eliminate": ["B"] },
+        { "level": 4, "text": "Answer: convincing. convince (說服) → convincing.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "analyze", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q14",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "fill-blank",
+      "stem": "The ad said \"Free!\" in big letters but hid the real price in tiny words. It tried to m______ customers.",
+      "answer": ["mislead"],
+      "explanation": "mislead = make someone believe something that is not true（誤導）. mis- (wrongly) + lead.",
+      "hints": [
+        { "level": 1, "text": "The ad hid the real price. Was it honest?", "action": "highlight-words", "words": ["hid the real price"] },
+        { "level": 2, "text": "The word starts with m and means 誤導.", "action": "explain" },
+        { "level": 3, "text": "mis- (wrong) + lead (帶領) = m i s l _ _ _.", "action": "explain" },
+        { "level": 4, "text": "Answer: mislead.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q15",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "fill-blank",
+      "stem": "Scammers change their tricks every year, so we must always stay a____ and check information carefully.",
+      "answer": ["alert"],
+      "explanation": "stay alert = keep watching carefully for danger（保持警覺）.",
+      "hints": [
+        { "level": 1, "text": "Scammers keep changing. What must we do?", "action": "highlight-words", "words": ["stay a____"] },
+        { "level": 2, "text": "The word starts with a and means 警覺的.", "action": "explain" },
+        { "level": 3, "text": "It has 5 letters: a l _ _ t.", "action": "explain" },
+        { "level": 4, "text": "Answer: alert. stay alert = 保持警覺.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q21",
+      "skill": "grammar", "sub_skill": "too-good-to-be-true", "type": "fill-blank",
+      "stem": "A brand-new phone for only NT$500? That sounds too good ___ true.",
+      "answer": ["to be"],
+      "explanation": "too good to be true = so good that it is probably not real（好得令人難以置信）. Pattern: too + adj. + to + V.",
+      "hints": [
+        { "level": 1, "text": "NT$500 for a new phone — is that realistic?", "action": "highlight-words", "words": ["too good ___ true"] },
+        { "level": 2, "text": "Pattern: too + adjective + to + verb.", "action": "explain" },
+        { "level": 3, "text": "You need two words: \"to\" + a verb (原形).", "action": "explain" },
+        { "level": 4, "text": "Answer: to be → too good to be true.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q22",
+      "skill": "grammar", "sub_skill": "too-good-to-be-true", "type": "single-choice",
+      "stem": "Which offer is most likely \"too good to be true\"?",
+      "options": [
+        { "key": "A", "text": "A bookstore gives a 10% discount to students with ID.", "feedback": "A small student discount is normal and common. Look for an offer that is unbelievably good." },
+        { "key": "B", "text": "A stranger online promises NT$10,000 a day for just clicking on ads.", "feedback": "" },
+        { "key": "C", "text": "A convenience store sells two drinks for the price of one this week.", "feedback": "\"Buy one, get one free\" is a normal store promotion." }
+      ],
+      "answer": "B",
+      "explanation": "Earning NT$10,000 a day for almost no work, from a stranger, is unrealistic — a classic sign of a scam. 太好康的事要小心，很可能是詐騙。",
+      "hints": [
+        { "level": 1, "text": "Which offer gives a LOT for almost nothing?", "action": "explain" },
+        { "level": 2, "text": "Warning signs: a stranger, big money, very easy work.", "action": "highlight-words", "words": ["too good to be true"] },
+        { "level": 3, "text": "Option A is a normal student discount.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: B. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u13-q22v",
+      "difficulty": "standard", "bloom": "evaluate", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q23",
+      "skill": "grammar", "sub_skill": "at-first-glance", "type": "single-choice",
+      "stem": "___, the website looked real, but then I noticed the bank's name was spelled wrong.",
+      "options": [
+        { "key": "A", "text": "At first glance", "feedback": "" },
+        { "key": "B", "text": "In a row", "feedback": "\"In a row\" means one after another. The sentence is about a first impression." },
+        { "key": "C", "text": "At last", "feedback": "\"At last\" means finally, after a long time. But the speaker noticed the problem LATER, not first." }
+      ],
+      "answer": "A",
+      "explanation": "at first glance / at first sight = 乍看之下 (when you first look quickly). The sentence shows a first impression (looked real) and then a later discovery (spelled wrong).",
+      "hints": [
+        { "level": 1, "text": "The sentence has two parts: what the speaker thought first, and what he noticed \"then\".", "action": "highlight-words", "words": ["looked real", "but then I noticed"] },
+        { "level": 2, "text": "You need a phrase meaning 乍看之下.", "action": "explain" },
+        { "level": 3, "text": "Option B is about things happening one after another.", "action": "eliminate-option", "eliminate": ["B"] },
+        { "level": 4, "text": "Answer: At first glance.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u13-q24",
+      "skill": "grammar", "sub_skill": "at-first-glance", "type": "single-choice",
+      "stem": "Which sentence uses \"at first glance\" correctly?",
+      "options": [
+        { "key": "A", "text": "At first glance, the message seemed to come from my bank.", "feedback": "" },
+        { "key": "B", "text": "I studied the contract at first glance for three hours.", "feedback": "\"Glance\" means a quick look. Three hours of study is not a quick first look." },
+        { "key": "C", "text": "He at first glance the email and deleted it.", "feedback": "\"At first glance\" is not a verb. This sentence needs a verb like \"glanced at\"." }
+      ],
+      "answer": "A",
+      "explanation": "at first glance is an adverb phrase（副詞片語）, usually at the start of a sentence, followed by a comma: At first glance, S + V. It describes a quick first impression that may change later.",
+      "hints": [
+        { "level": 1, "text": "\"Glance\" = a quick look. Which sentence talks about a quick first impression?", "action": "highlight-words", "words": ["at first glance"] },
+        { "level": 2, "text": "Pattern: At first glance, + S + V (seemed / looked ...).", "action": "explain" },
+        { "level": 3, "text": "Option C has no main verb.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: A.", "action": "explain" }
+      ],
+      "difficulty": "challenge", "bloom": "analyze", "dok": 2, "points": 10, "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-allplus-u13-q01v", "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        { "key": "A", "text": "How to Bet on Sports Online" },
+        { "key": "B", "text": "Spot the Scam: A Safety Guide for Teens" },
+        { "key": "C", "text": "The History of the Internet" }
+      ],
+      "answer": "B", "explanation": "The passage explains common scams and how teens can protect themselves."
+    },
+    {
+      "question_id": "g11-allplus-u13-q04v", "skill": "reading", "sub_skill": "inference", "type": "single-choice",
+      "stem": "According to paragraph 4, what can happen to a teen who helps move money for a scam in Taiwan, even without understanding it?",
+      "options": [
+        { "key": "A", "text": "Nothing, because he did not know." },
+        { "key": "B", "text": "He may face a police investigation and get a criminal record." },
+        { "key": "C", "text": "He will get a reward from the bank." }
+      ],
+      "answer": "B", "explanation": "Paragraph 4: it can be a crime even if the teen did not fully understand, leading to an investigation and a criminal record."
+    },
+    {
+      "question_id": "g11-allplus-u13-q11v", "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Kevin was ___ of the stranger who kept asking for his bank account number.",
+      "options": [
+        { "key": "A", "text": "suspicious" },
+        { "key": "B", "text": "convincing" },
+        { "key": "C", "text": "financial" }
+      ],
+      "answer": "A", "explanation": "be suspicious of sb = 懷疑某人. Asking for a bank account number is a warning sign."
+    },
+    {
+      "question_id": "g11-allplus-u13-q22v", "skill": "grammar", "sub_skill": "too-good-to-be-true", "type": "single-choice",
+      "stem": "\"Win a free trip to Japan! Just send us your ID number.\" You should think ___.",
+      "options": [
+        { "key": "A", "text": "it's too good to be true" },
+        { "key": "B", "text": "it's too true to be good" },
+        { "key": "C", "text": "it's good enough to be true" }
+      ],
+      "answer": "A", "explanation": "A free trip for just your ID number is unrealistic → too good to be true（好得令人難以置信）."
+    }
+  ]
+}

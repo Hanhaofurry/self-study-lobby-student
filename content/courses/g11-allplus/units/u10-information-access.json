@@ -1,0 +1,164 @@
+{
+  "unit": {
+    "unit_id": "g11-allplus-u10",
+    "order": 10,
+    "title": "A New Era of Information Access",
+    "title_zh": "資訊獲取的新時代",
+    "topic": "technology",
+    "grade": [11],
+    "objectives": [
+      "I can compare different ways of finding information, such as search engines and AI assistants.",
+      "I can write a paragraph about how I prefer to look for information and give two reasons.",
+      "I can use words like access, browse, outdated, and despite correctly."
+    ],
+    "estimated_minutes": 30,
+    "tags": ["#allplus-2026-08"],
+    "source": "ALL+ 互動英語 2026年8月號 p.42"
+  },
+  "passages": [],
+  "sets": [
+    { "set_id": "g11-allplus-u10-w1", "skill": "writing", "title": "Writing 1 · How I Look for Information", "question_ids": ["g11-allplus-u10-q31"], "estimated_minutes": 18 },
+    { "set_id": "g11-allplus-u10-v1", "skill": "vocabulary", "title": "Vocabulary 1 · Information Access Words", "question_ids": ["g11-allplus-u10-q11", "g11-allplus-u10-q12", "g11-allplus-u10-q13", "g11-allplus-u10-q14", "g11-allplus-u10-q15"], "estimated_minutes": 8 }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-allplus-u10-q31",
+      "skill": "writing", "sub_skill": "opinion-paragraph", "type": "essay",
+      "stem": "How do you prefer to look for information when you have a question or a school report? (For example: a search engine, an AI chatbot, the library, videos, or asking people.) Write a paragraph. Say which way you prefer, give two reasons, and add one thing people should keep in mind when they use it.",
+      "word_target": { "support": [50, 70], "standard": [90, 120] },
+      "rubric_id": "rb-opinion-4x4",
+      "scaffolds": {
+        "frames": [
+          "When I need information, I prefer to ___.",
+          "First, ___ because ___.",
+          "For example, ___.",
+          "Second, ___.",
+          "However, ___ (one weak point).",
+          "Keep in mind that ___.",
+          "Therefore, ___."
+        ],
+        "word_bank": ["search engine", "AI assistant / chatbot", "browse", "multiple sources", "reliable", "access", "time-consuming", "inaccurate", "outdated", "critical thinking", "follow-up questions", "Despite ___,", "In contrast,", "keep in mind"],
+        "model_text": "When I need information, I prefer to use a search engine instead of an AI chatbot. First, a search engine lets me browse multiple websites, so I can compare different sources and decide which one is reliable. For example, when I wrote a report on typhoons, I checked a government weather website and two news sites. Second, AI chatbots sometimes give inaccurate or outdated answers, and they do not always show where the information came from. However, searching can be time-consuming, so I sometimes ask a chatbot to explain a difficult idea first. Keep in mind that no tool is perfect. Therefore, I always check important facts with official sources.",
+        "checklist": [
+          "I said clearly which way I prefer.",
+          "I gave two reasons.",
+          "I gave at least one example from my own life.",
+          "I wrote one weak point or one thing to keep in mind.",
+          "I used at least three words from the word bank.",
+          "I checked my spelling and verb tenses."
+        ]
+      },
+      "explanation": "A good answer states a clear preference, gives two reasons with an example, mentions one weak point or warning (keep in mind ...), and ends with a conclusion. 寫作重點：立場清楚、兩個理由、舉例、提醒注意事項、結論。",
+      "hints": [
+        { "level": 1, "text": "First choose ONE way you like best: search engine, AI chatbot, library, videos, or asking people. Write it in one sentence.", "action": "explain" },
+        { "level": 2, "text": "Use the sentence frames and the word bank. Linkers: First, Second, However, Therefore.", "action": "show-frames" },
+        { "level": 3, "text": "Sample start: \"When I need information, I prefer to watch videos. First, they are easy to understand because ...\"", "action": "explain" },
+        { "level": 4, "text": "Read the model paragraph, then write your own with the same structure but your own choice and examples.", "action": "show-model" }
+      ],
+      "difficulty": "standard", "bloom": "create", "dok": 3, "points": 16, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u10-q11",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "I like to ___ online bookstores on weekends. I look at many books, but I don't always buy one.",
+      "options": [
+        { "key": "A", "text": "browse", "feedback": "" },
+        { "key": "B", "text": "refine", "feedback": "Refine means \"make better\". The sentence is about looking around without a plan." },
+        { "key": "C", "text": "mislead", "feedback": "Mislead means \"make someone believe something wrong\". Read the second sentence." }
+      ],
+      "answer": "A",
+      "explanation": "browse = look through things casually（瀏覽、隨意翻看）. \"look at many books, but don't always buy\" is the clue.",
+      "hints": [
+        { "level": 1, "text": "Read the second sentence. What does the speaker do in the bookstore?", "action": "highlight-words", "words": ["look at many books"] },
+        { "level": 2, "text": "You need a verb that means 隨意瀏覽.", "action": "explain" },
+        { "level": 3, "text": "Option C (mislead) is about lying or tricking.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: browse. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u10-q11v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u10-q12",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "___ the slow Internet, Amy finished her online report on time.",
+      "options": [
+        { "key": "A", "text": "Although", "feedback": "\"Although\" needs a full clause (S + V), like \"Although the Internet was slow\". Here we only have a noun phrase." },
+        { "key": "B", "text": "Despite", "feedback": "" },
+        { "key": "C", "text": "Because of", "feedback": "The grammar is OK, but the meaning is wrong: slow Internet did not HELP her finish." }
+      ],
+      "answer": "B",
+      "explanation": "despite + N./V-ing = 儘管. \"the slow Internet\" is a noun phrase, so we use Despite. Although + S + V: Although the Internet was slow, ...",
+      "hints": [
+        { "level": 1, "text": "Is the slow Internet a help or a problem? Did she still finish?", "action": "highlight-words", "words": ["the slow Internet", "on time"] },
+        { "level": 2, "text": "You need a word that shows contrast（雖然／儘管）.", "action": "explain" },
+        { "level": 3, "text": "Option C has the wrong meaning. Now check: is there a verb after the blank?", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: Despite (+ noun). Although needs S + V.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u10-q13",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "This travel guide was printed in 2005, so some of its information is ___.",
+      "options": [
+        { "key": "A", "text": "multiple", "feedback": "Multiple means \"many\". The clue is the old date, 2005." },
+        { "key": "B", "text": "conversational", "feedback": "Conversational means \"like talking\". Think about information that is very old." },
+        { "key": "C", "text": "outdated", "feedback": "" }
+      ],
+      "answer": "C",
+      "explanation": "outdated = old and no longer correct or useful（過時的）. A 2005 guide may have old information.",
+      "hints": [
+        { "level": 1, "text": "Look at the year. Is the information new or old?", "action": "highlight-words", "words": ["printed in 2005"] },
+        { "level": 2, "text": "You need an adjective that means 過時的.", "action": "explain" },
+        { "level": 3, "text": "Option A (multiple) is about number, not age.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: outdated. out + dated = 過了時間.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u10-q14",
+      "skill": "vocabulary", "sub_skill": "word-parts", "type": "fill-blank",
+      "stem": "The chatbot said Taipei 101 was built in 1980. That is wrong, so the answer was ___ (accurate → the opposite).",
+      "answer": ["inaccurate"],
+      "explanation": "in- (not) + accurate = inaccurate（不準確的）. Taipei 101 was finished in 2004, so the chatbot's answer was not correct.",
+      "hints": [
+        { "level": 1, "text": "The stem says \"That is wrong\". You need a word meaning \"not accurate\".", "action": "highlight-words", "words": ["That is wrong"] },
+        { "level": 2, "text": "Add a prefix that means \"not\" to accurate.", "action": "explain" },
+        { "level": 3, "text": "Not un- here. Think of: in + correct = incorrect.", "action": "explain" },
+        { "level": 4, "text": "Answer: inaccurate.", "action": "explain" }
+      ],
+      "difficulty": "challenge", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u10-q15",
+      "skill": "vocabulary", "sub_skill": "collocation", "type": "single-choice",
+      "stem": "Checking several sources before you believe a news story is a good example of ___ thinking.",
+      "options": [
+        { "key": "A", "text": "critical", "feedback": "" },
+        { "key": "B", "text": "time-consuming", "feedback": "Checking may take time, but \"___ thinking\" is a fixed phrase about judging information carefully." },
+        { "key": "C", "text": "outdated", "feedback": "Outdated means old. Is checking sources old-fashioned thinking?" }
+      ],
+      "answer": "A",
+      "explanation": "critical thinking = 批判性思考: thinking carefully and asking whether information is true before you accept it.",
+      "hints": [
+        { "level": 1, "text": "The person checks sources before believing something. What kind of thinking is that?", "action": "highlight-words", "words": ["Checking several sources"] },
+        { "level": 2, "text": "This is a common collocation: ___ thinking = 批判性思考.", "action": "explain" },
+        { "level": 3, "text": "Option C does not fit: checking sources is not old-fashioned.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: critical thinking.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-allplus-u10-q11v", "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Students can ___ the school's e-books with their student ID number.",
+      "options": [
+        { "key": "A", "text": "access" },
+        { "key": "B", "text": "refine" },
+        { "key": "C", "text": "flaw" }
+      ],
+      "answer": "A", "explanation": "access = be able to get or use（取得、使用）. You use your ID to get into the e-books."
+    }
+  ]
+}

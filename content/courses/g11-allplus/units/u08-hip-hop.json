@@ -1,0 +1,362 @@
+{
+  "unit": {
+    "unit_id": "g11-allplus-u08",
+    "order": 8,
+    "title": "The Party That Never Stopped: How Hip-Hop Became a Global Phenomenon",
+    "title_zh": "永不落幕的派對：嘻哈如何風靡全球",
+    "topic": "music-history",
+    "grade": [11],
+    "objectives": [
+      "I can explain how hip-hop started and how it spread around the world.",
+      "I can use \"in favor of\" to talk about choices and support.",
+      "I can understand common hip-hop slang such as chill, dope, fresh, and beef."
+    ],
+    "estimated_minutes": 35,
+    "tags": ["#allplus-2026-08"],
+    "source": "ALL+ 互動英語 2026年8月號 p.34"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-allplus-u08-p1",
+      "title": "From One Party to the Whole World",
+      "topic": "music-history",
+      "abstraction": "social",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1000,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "In the summer of 1973, a crowd of young people squeezed into a recreation room in the Bronx, a poor and dangerous part of New York City. A DJ called Kool Herc was mixing beats, and the dancers went wild. Nobody at the party knew it at the time, but they were witnessing the beginning of a culture that would later travel around the globe: hip-hop.",
+            "Hip-hop grew out of hard times. In the 1950s and 1960s, many working-class white families moved out of the city and into the suburbs. The African American and Latino teenagers who stayed behind faced poverty, crime, and very few chances for a better future. Hip-hop gave them a way to express themselves. It has four main components: DJing, rapping, graffiti, and breakdancing. None of these needs much money or formal training, so young people who were rich in talent but poor in cash could join in. In the Bronx, creativity was worth more than money.",
+            "In the 1980s, artists such as Run-D.M.C. and LL Cool J carried hip-hop to a much larger audience, while Salt-N-Pepa and the Beastie Boys made the group of creators more diverse. By the 1990s, the music had crossed oceans. Artists in the UK, France, Japan, South Africa, and Brazil were adding their own languages and traditions to the genre and creating new sounds.",
+            "Hip-hop has transformed much more than music. It made baggy jeans, big T-shirts, and sneakers popular with a whole generation, and it gave everyday words like \"chill,\" \"dope,\" and \"beef\" new meanings. For some people, it also became a way to speak out when nobody else would listen. Today, breakdancers have competed at the Olympics, and graffiti art is printed on T-shirts worldwide. More than fifty years after one party, hip-hop's legacy is still growing."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 850,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "It is the summer of 1973. Many young people are at a party in a recreation room in the Bronx, a poor part of New York City. A DJ called Kool Herc is mixing beats. Everyone is dancing. They do not know it, but they are seeing the start of hip-hop.",
+            "Life was hard in the Bronx. In the 1950s and 1960s, many white families moved to the suburbs. African American and Latino teenagers stayed behind. They were poor, and there was a lot of crime. Hip-hop helped them express themselves. It has four main components: DJing, rapping, graffiti, and breakdancing. You do not need much money or formal training to do them. So in the Bronx, creativity was worth more than money.",
+            "In the 1980s, Run-D.M.C. and LL Cool J made hip-hop famous. Salt-N-Pepa and the Beastie Boys brought in different kinds of artists. By the 1990s, hip-hop was in many countries, like the UK, France, Japan, South Africa, and Brazil. Artists there mixed their own languages into the music.",
+            "Hip-hop changed more than music. It made baggy jeans, big T-shirts, and sneakers popular. It also gave words like \"chill,\" \"dope,\" and \"beef\" new meanings. Some people used it to speak out about problems. Today, breakdancers compete at the Olympics. More than fifty years after one party, hip-hop's legacy is still growing."
+          ]
+        }
+      ],
+      "glossary": [
+        { "word": "phenomenon", "pos": "n.", "zh": "現象；風靡一時的事物", "example": "Bubble tea has become a global phenomenon." },
+        { "word": "witness", "pos": "v.", "zh": "目睹；見證", "example": "We witnessed a beautiful sunset from the top of the hill." },
+        { "word": "component", "pos": "n.", "zh": "組成部分、要素", "example": "Sleep is an important component of good health." },
+        { "word": "genre", "pos": "n.", "zh": "（藝術作品的）類型、風格", "example": "My favorite movie genre is comedy." },
+        { "word": "transform", "pos": "v.", "zh": "徹底改變", "example": "The new library transformed our quiet little town." },
+        { "word": "legacy", "pos": "n.", "zh": "（留給後人的）影響、遺產", "example": "The teacher's kindness is her greatest legacy." }
+      ]
+    }
+  ],
+  "sets": [
+    { "set_id": "g11-allplus-u08-r1", "skill": "reading", "title": "Reading 1 · The Story of Hip-Hop", "passage_id": "g11-allplus-u08-p1", "question_ids": ["g11-allplus-u08-q01", "g11-allplus-u08-q02", "g11-allplus-u08-q03", "g11-allplus-u08-q04"], "estimated_minutes": 12 },
+    { "set_id": "g11-allplus-u08-v1", "skill": "vocabulary", "title": "Vocabulary 1 · Words from the Unit", "question_ids": ["g11-allplus-u08-q11", "g11-allplus-u08-q12", "g11-allplus-u08-q13", "g11-allplus-u08-q14", "g11-allplus-u08-q15"], "estimated_minutes": 8 },
+    { "set_id": "g11-allplus-u08-g1", "skill": "grammar", "title": "Patterns 1 · in favor of & Hip-Hop Slang", "question_ids": ["g11-allplus-u08-q21", "g11-allplus-u08-q22", "g11-allplus-u08-q23", "g11-allplus-u08-q24"], "estimated_minutes": 8 }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-allplus-u08-q01",
+      "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        { "key": "A", "text": "How to become a famous DJ in New York", "feedback": "The passage does not teach you how to be a DJ. Look at what happens from 1973 to today." },
+        { "key": "B", "text": "How hip-hop started in hard times and spread around the world", "feedback": "" },
+        { "key": "C", "text": "Why breakdancing is an Olympic sport", "feedback": "The Olympics appear in only one sentence. The main idea must cover all four paragraphs." },
+        { "key": "D", "text": "Why white families moved to the suburbs", "feedback": "This is only a background detail in paragraph 2. What is the WHOLE passage about?" }
+      ],
+      "answer": "B",
+      "explanation": "Paragraphs 1–2 tell how hip-hop began in the Bronx, paragraph 3 shows it spreading to other countries, and paragraph 4 shows its influence today. So B covers the whole passage. 主旨要能涵蓋全文：起源 → 傳播 → 影響。",
+      "hints": [
+        { "level": 1, "text": "Read the first sentence of each paragraph. What is the passage following from beginning to end?", "action": "highlight-paragraph", "paragraph": 0 },
+        { "level": 2, "text": "Key words: \"1973\", \"1980s\", \"1990s\", and \"legacy\" show a story that moves through time.", "action": "highlight-words", "words": ["1973", "In the 1980s", "1990s", "legacy is still growing"] },
+        { "level": 3, "text": "Option A is never mentioned. Which option includes both the start AND the spread of hip-hop?", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "The passage goes from one party in the Bronx to the whole world. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u08-q01v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 2, "paragraph_ref": 0, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q02",
+      "skill": "reading", "sub_skill": "detail", "type": "single-choice",
+      "stem": "According to paragraph 2, why could young people in the Bronx easily take part in hip-hop?",
+      "stem_support": "In paragraph 2, why was hip-hop easy for Bronx teens to do?",
+      "options": [
+        { "key": "A", "text": "Their schools gave them free music lessons.", "feedback": "The passage says hip-hop does NOT need formal training. Look for \"money\" and \"training\"." },
+        { "key": "B", "text": "Rich families bought them expensive equipment.", "feedback": "The teens were poor, not rich. Read paragraph 2 again." },
+        { "key": "C", "text": "Its art forms needed little money and no formal training.", "feedback": "" },
+        { "key": "D", "text": "The city built many recreation rooms for them.", "feedback": "The recreation room is only where the 1973 party happened. Find the sentence about money." }
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 2 says none of the four components needs much money or formal training, so poor but talented teens could join in (C). 「不需要錢、不需要正式訓練」＝門檻低。",
+      "hints": [
+        { "level": 1, "text": "Go to paragraph 2. Find the sentence right after the four components.", "action": "highlight-paragraph", "paragraph": 1 },
+        { "level": 2, "text": "Key words: \"formal training\" and \"money\".", "action": "highlight-words", "words": ["formal training", "creativity was worth more than money"] },
+        { "level": 3, "text": "Options A and B are the opposite of the passage: no lessons, no rich families.", "action": "eliminate-option", "eliminate": ["A", "B"] },
+        { "level": 4, "text": "The art forms were cheap and easy to start, so anyone with talent could join. Answer: C.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "paragraph_ref": 1, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q03",
+      "skill": "reading", "sub_skill": "inference", "type": "single-choice",
+      "stem": "Based on paragraph 3, what can we infer about hip-hop by the 1990s?",
+      "stem_support": "By the 1990s, what was true about hip-hop?",
+      "options": [
+        { "key": "A", "text": "It was no longer only an American music style.", "feedback": "" },
+        { "key": "B", "text": "It was only performed in English.", "feedback": "Artists added \"their own languages\". So was it only in English?" },
+        { "key": "C", "text": "It had stopped being popular in the US.", "feedback": "The passage never says Americans stopped liking it. It says hip-hop grew." },
+        { "key": "D", "text": "It was played only at parties in the Bronx.", "feedback": "That was true in the 1970s, not the 1990s. Look at the list of countries." }
+      ],
+      "answer": "A",
+      "explanation": "Artists in the UK, France, Japan, South Africa, and Brazil were making hip-hop with their own languages, so hip-hop had become international (A). 推論：很多國家都在做嘻哈 → 已不只是美國的音樂。",
+      "hints": [
+        { "level": 1, "text": "Read the last two sentences of paragraph 3.", "action": "highlight-paragraph", "paragraph": 2 },
+        { "level": 2, "text": "Key words: the list of countries and \"their own languages\".", "action": "highlight-words", "words": ["1990s", "UK, France, Japan, South Africa, and Brazil", "own languages"] },
+        { "level": 3, "text": "Option D describes the 1970s, not the 1990s.", "action": "eliminate-option", "eliminate": ["D"] },
+        { "level": 4, "text": "Many countries + many languages = hip-hop became global. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u08-q03v",
+      "difficulty": "standard", "bloom": "analyze", "dok": 2, "paragraph_ref": 2, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q04",
+      "skill": "reading", "sub_skill": "author-purpose", "type": "single-choice",
+      "stem": "Why does the writer mention the words \"chill,\" \"dope,\" and \"beef\" in paragraph 4?",
+      "stem_support": "Why does the writer give the words chill, dope, and beef?",
+      "options": [
+        { "key": "A", "text": "To teach readers how to cook beef", "feedback": "Here \"beef\" is slang, not food. Why would a writer list three slang words?" },
+        { "key": "B", "text": "To show that hip-hop changed the way people talk", "feedback": "" },
+        { "key": "C", "text": "To prove that hip-hop songs use bad language", "feedback": "The writer does not judge the words as good or bad. Look at the phrase \"new meanings\"." },
+        { "key": "D", "text": "To explain why baggy jeans became popular", "feedback": "Baggy jeans are about clothes. The three words are an example of something else." }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 4 lists ways hip-hop changed life outside music: clothes, language, and speaking out. The three words are examples that hip-hop gave everyday words new meanings, so it changed language (B). 舉例的目的是支持「嘻哈改變了語言」這個論點。",
+      "hints": [
+        { "level": 1, "text": "Read paragraph 4. It lists several things hip-hop changed.", "action": "highlight-paragraph", "paragraph": 3 },
+        { "level": 2, "text": "Key words: \"new meanings\".", "action": "highlight-words", "words": ["new meanings", "more than music"] },
+        { "level": 3, "text": "Options A and D do not match: beef is slang here, and jeans are a different example.", "action": "eliminate-option", "eliminate": ["A", "D"] },
+        { "level": 4, "text": "Writers give examples to support a point. The point: hip-hop changed language. Answer: B.", "action": "explain" }
+      ],
+      "difficulty": "challenge", "bloom": "analyze", "dok": 3, "paragraph_ref": 3, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q11",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Hundreds of fans ___ the moment their team scored the winning goal. Everyone saw it with their own eyes.",
+      "options": [
+        { "key": "A", "text": "witnessed", "feedback": "" },
+        { "key": "B", "text": "forgot", "feedback": "If they forgot it, they would not remember seeing it. Read the second sentence." },
+        { "key": "C", "text": "invented", "feedback": "Invent means \"make something new\". Did the fans make the goal?" }
+      ],
+      "answer": "A",
+      "explanation": "witness = see something happen（目睹、見證）. \"saw it with their own eyes\" is the clue.",
+      "hints": [
+        { "level": 1, "text": "Read the second sentence. It explains the blank.", "action": "highlight-words", "words": ["saw it with their own eyes"] },
+        { "level": 2, "text": "You need a verb that means \"see something happen\"（目睹）.", "action": "explain" },
+        { "level": 3, "text": "Option C does not fit: fans did not make the goal.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: witnessed. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u08-q11v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q12",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Rock, jazz, and hip-hop are all different music ___s.",
+      "options": [
+        { "key": "A", "text": "barrier", "feedback": "A barrier is something that stops you. Rock and jazz are kinds of music." },
+        { "key": "B", "text": "genre", "feedback": "" },
+        { "key": "C", "text": "legacy", "feedback": "A legacy is what someone leaves to the future. We need a word for \"type\"." }
+      ],
+      "answer": "B",
+      "explanation": "genre = type or style of art（類型、風格）, e.g. music genres, movie genres.",
+      "hints": [
+        { "level": 1, "text": "Rock, jazz, and hip-hop are examples. Examples of what?", "action": "highlight-words", "words": ["Rock, jazz, and hip-hop"] },
+        { "level": 2, "text": "You need a word that means \"kind / type\"（類型）.", "action": "explain" },
+        { "level": 3, "text": "Option A (barrier) means something that blocks you.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: genre. 例：What genre of music do you like?", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q13",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "A good team has three important ___s: trust, hard work, and clear goals.",
+      "options": [
+        { "key": "A", "text": "phenomenon", "feedback": "A phenomenon is something that happens or becomes very popular. Here we list the parts of a team." },
+        { "key": "B", "text": "generation", "feedback": "A generation is a group of people born around the same time. Look at the list after the colon (:)." },
+        { "key": "C", "text": "component", "feedback": "" }
+      ],
+      "answer": "C",
+      "explanation": "component = one part of a whole（組成部分、要素）. Trust, hard work, and clear goals are the parts of a good team. 文中：hip-hop has four components.",
+      "hints": [
+        { "level": 1, "text": "After the colon (:) there is a list of three things. What are they?", "action": "highlight-words", "words": ["trust, hard work, and clear goals"] },
+        { "level": 2, "text": "You need a word that means \"part\"（組成部分）.", "action": "explain" },
+        { "level": 3, "text": "Option B (generation) is about people's age groups.", "action": "eliminate-option", "eliminate": ["B"] },
+        { "level": 4, "text": "Answer: component. Hip-hop has four components: DJing, rapping, graffiti, and breakdancing.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q14",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "fill-blank",
+      "stem": "The old singer's songs are still loved by young people today. They are his greatest l______.",
+      "answer": ["legacy"],
+      "explanation": "legacy = something a person leaves behind that still matters later（留給後人的影響、遺產）.",
+      "hints": [
+        { "level": 1, "text": "The songs are \"still loved today\". They stay after the singer.", "action": "highlight-words", "words": ["still loved by young people today"] },
+        { "level": 2, "text": "The word starts with l and means 留給後人的影響.", "action": "explain" },
+        { "level": 3, "text": "It has 6 letters: l _ g _ c _.", "action": "explain" },
+        { "level": 4, "text": "Answer: legacy. 文中：hip-hop's legacy is still growing.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q15",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "fill-blank",
+      "stem": "Smartphones have completely ___ (transform) the way we take photos.",
+      "answer": ["transformed"],
+      "explanation": "have + p.p.（現在完成式）→ have transformed. transform = change completely（徹底改變）.",
+      "hints": [
+        { "level": 1, "text": "Look at the word before the blank: \"have\".", "action": "highlight-words", "words": ["have completely"] },
+        { "level": 2, "text": "have + past participle (p.p.) → present perfect.", "action": "explain" },
+        { "level": 3, "text": "The p.p. of transform is transform + -ed.", "action": "explain" },
+        { "level": 4, "text": "Answer: transformed.", "action": "explain" }
+      ],
+      "difficulty": "challenge", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q21",
+      "skill": "grammar", "sub_skill": "in-favor-of", "type": "single-choice",
+      "stem": "Our class decided against the zoo trip ___ a visit to the science museum.",
+      "options": [
+        { "key": "A", "text": "in favor of", "feedback": "" },
+        { "key": "B", "text": "in charge of", "feedback": "\"In charge of\" means \"responsible for\". The class chose one trip instead of another." },
+        { "key": "C", "text": "because", "feedback": "\"Because\" needs a full clause (S + V) after it, and the meaning does not fit either." },
+        { "key": "D", "text": "far from", "feedback": "\"Far from\" is about distance. Look at \"decided against\"." }
+      ],
+      "answer": "A",
+      "explanation": "decide against A in favor of B = 不選 A，而選擇 B. in favor of 後面接名詞或 V-ing.",
+      "hints": [
+        { "level": 1, "text": "The class said no to one trip. Did they choose another?", "action": "highlight-words", "words": ["decided against"] },
+        { "level": 2, "text": "Pattern: decide against A ___ B = choose B instead of A.", "action": "explain" },
+        { "level": 3, "text": "Option D is about distance, not choice.", "action": "eliminate-option", "eliminate": ["D"] },
+        { "level": 4, "text": "Answer: in favor of. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u08-q21v",
+      "difficulty": "standard", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q22",
+      "skill": "grammar", "sub_skill": "in-favor-of", "type": "single-choice",
+      "stem": "\"Most students are in favor of a longer lunch break.\" This means most students ___ a longer lunch break.",
+      "options": [
+        { "key": "A", "text": "are afraid of", "feedback": "Being in favor of something is a good feeling, not fear." },
+        { "key": "B", "text": "support", "feedback": "" },
+        { "key": "C", "text": "complain about", "feedback": "Complaining is negative. \"Favor\" is positive here." }
+      ],
+      "answer": "B",
+      "explanation": "be in favor of + N./V-ing = support / agree with（支持、贊成）. The opposite is be against.",
+      "hints": [
+        { "level": 1, "text": "Is \"in favor of\" a positive or a negative phrase?", "action": "highlight-words", "words": ["in favor of"] },
+        { "level": 2, "text": "be in favor of ↔ be against.", "action": "explain" },
+        { "level": 3, "text": "Options A and C are both negative feelings.", "action": "eliminate-option", "eliminate": ["A", "C"] },
+        { "level": 4, "text": "Answer: support. 例：I'm in favor of the new plan. = I support it.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q23",
+      "skill": "grammar", "sub_skill": "hip-hop-slang", "type": "single-choice",
+      "stem": "\"Wow, your new sneakers are so dope!\" In hip-hop slang, \"dope\" here means ___.",
+      "options": [
+        { "key": "A", "text": "very cool", "feedback": "" },
+        { "key": "B", "text": "very dirty", "feedback": "The speaker says \"Wow\" — that shows a good feeling, not a bad one." },
+        { "key": "C", "text": "too expensive", "feedback": "Price is not the point. \"Wow\" shows the speaker likes the shoes." }
+      ],
+      "answer": "A",
+      "explanation": "In hip-hop slang, dope = very cool, awesome（超酷、棒極了）. Its old meaning is 毒品／笨蛋, but in this context it is a compliment.",
+      "hints": [
+        { "level": 1, "text": "The sentence starts with \"Wow\". Is the speaker happy or upset?", "action": "highlight-words", "words": ["Wow"] },
+        { "level": 2, "text": "Hip-hop gave some old words new, positive meanings.", "action": "explain" },
+        { "level": 3, "text": "Option B is negative, so it does not match \"Wow\".", "action": "eliminate-option", "eliminate": ["B"] },
+        { "level": 4, "text": "Answer: very cool. 嘻哈語境：dope = 超酷.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u08-q24",
+      "skill": "grammar", "sub_skill": "hip-hop-slang", "type": "single-choice",
+      "stem": "Which sentence uses the hip-hop meaning of \"beef\" (= a fight or problem between people)?",
+      "options": [
+        { "key": "A", "text": "My mom cooked beef noodles for dinner.", "feedback": "This is beef the food (牛肉). Find a sentence about two people who do not get along." },
+        { "key": "B", "text": "Those two rappers have had beef with each other for years.", "feedback": "" },
+        { "key": "C", "text": "The beef in this burger is too salty.", "feedback": "This is still beef the food. Look for a conflict between people." }
+      ],
+      "answer": "B",
+      "explanation": "have beef with sb = have a conflict with someone（和某人有過節）. A and C use the normal meaning 牛肉.",
+      "hints": [
+        { "level": 1, "text": "Which sentence is about people, not food?", "action": "explain" },
+        { "level": 2, "text": "Pattern: have beef with + person.", "action": "highlight-words", "words": ["a fight or problem between people"] },
+        { "level": 3, "text": "Option A is about food (beef noodles).", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: B. Other slang: chill = 放鬆的, fresh = 時髦的, dope = 超酷.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-allplus-u08-q01v", "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        { "key": "A", "text": "Hip-Hop: From a Bronx Party to a World Culture" },
+        { "key": "B", "text": "The Best Sneakers to Buy This Year" },
+        { "key": "C", "text": "New York's Most Dangerous Neighborhoods" }
+      ],
+      "answer": "A", "explanation": "A good title covers the whole story: hip-hop began in the Bronx and became a global culture."
+    },
+    {
+      "question_id": "g11-allplus-u08-q03v", "skill": "reading", "sub_skill": "inference", "type": "single-choice",
+      "stem": "Hip-hop artists in Japan and Brazil most likely ___.",
+      "options": [
+        { "key": "A", "text": "copied American songs word for word" },
+        { "key": "B", "text": "mixed their own language and culture into their music" },
+        { "key": "C", "text": "stopped making music after the 1990s" }
+      ],
+      "answer": "B", "explanation": "Paragraph 3: artists in other countries added their own languages and traditions to the genre."
+    },
+    {
+      "question_id": "g11-allplus-u08-q11v", "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Did anyone ___ the car accident? The police want to talk to people who saw it.",
+      "options": [
+        { "key": "A", "text": "witness" },
+        { "key": "B", "text": "transform" },
+        { "key": "C", "text": "repair" }
+      ],
+      "answer": "A", "explanation": "\"People who saw it\" → witness（目睹）."
+    },
+    {
+      "question_id": "g11-allplus-u08-q21v", "skill": "grammar", "sub_skill": "in-favor-of", "type": "single-choice",
+      "stem": "Kevin gave up playing video games ___ spending more time outdoors.",
+      "options": [
+        { "key": "A", "text": "in favor of" },
+        { "key": "B", "text": "in front of" },
+        { "key": "C", "text": "instead" }
+      ],
+      "answer": "A", "explanation": "give up A in favor of B = 放棄 A 而選擇 B. in favor of + V-ing (spending). \"instead\" alone cannot be followed by a noun; you would need \"instead of\"."
+    }
+  ]
+}

@@ -13,6 +13,7 @@
  *   Activity  one row per finished question set (for the teacher to read)
  *   Sessions  token | student_id | expires
  *   Overview  per-student summary (menu: 自學大廳 → 更新總覽)
+ *   Originals passage_id | title | source | paragraphs_json   (magazine article text, shown only to logged-in students)
  *
  * A blank password_hash means the password is the student's 學號 (student_id).
  * To reset a password, clear that student's password_hash and salt cells (or use the menu).
@@ -30,6 +31,7 @@ const HEADERS = {
   Activity: ['time', 'student_id', 'class_name', 'seat', 'name', 'set_title', 'unit', 'skill', 'score', 'max', 'percent', 'independent', 'questions', 'hints', 'minutes', 'level', 'reflection'],
   Sessions: ['token', 'student_id', 'expires'],
   Overview: ['class_name', 'seat', 'student_id', 'name', 'sets_finished', 'avg_percent', 'total_minutes', 'last_active', 'last_login'],
+  Originals: ['passage_id', 'title', 'source', 'paragraphs_json'],
 };
 
 // ---------------------------------------------------------------- HTTP
@@ -52,6 +54,7 @@ function doPost(e) {
       case 'load': return json_(load_(req));
       case 'save': return json_(save_(req));
       case 'logout': return json_(logout_(req));
+      case 'originals': return json_(originals_(req));
       case 'ping': return json_({ ok: true });
       default: return json_({ ok: false, error: 'unknown_action' });
     }
@@ -307,6 +310,27 @@ function appendActivity_(id, events) {
   });
   const sh = sheet_('Activity');
   sh.getRange(sh.getLastRow() + 1, 1, rows.length, rows[0].length).setValues(rows);
+}
+
+// ---------------------------------------------------------------- Magazine originals (login only)
+
+function originals_(req) {
+  session_(req.token);
+  const cache = CacheService.getScriptCache();
+  const cached = cache.get('originals_v1');
+  if (cached) return { ok: true, originals: JSON.parse(cached) };
+  const rows = table_('Originals').rows;
+  const out = {};
+  rows.forEach(function (r) {
+    const id = str_(r.passage_id);
+    if (!id) return;
+    let paragraphs = [];
+    try { paragraphs = JSON.parse(str_(r.paragraphs_json)); } catch (err) { paragraphs = str_(r.paragraphs_json).split(/\n\s*\n/); }
+    out[id] = { title: str_(r.title), source: str_(r.source), paragraphs: paragraphs };
+  });
+  const text = JSON.stringify(out);
+  if (text.length < 90000) cache.put('originals_v1', text, 600);
+  return { ok: true, originals: out };
 }
 
 // ---------------------------------------------------------------- Teacher menu
