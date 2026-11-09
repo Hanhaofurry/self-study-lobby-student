@@ -159,6 +159,14 @@ export function renderReport(root, ctx) {
           </div>
         </section>
 
+        ${ctx.cloud ? `
+        <section class="block" aria-labelledby="export-title">
+          <h2 id="export-title">雲端紀錄</h2>
+          <div class="card export">
+            <p class="muted small">${icon("check")} 你的練習會自動存到老師的雲端試算表，老師可以直接看到，不用另外繳交。換電腦登入，紀錄也會跟著你。</p>
+            <button type="button" class="button button--secondary" data-export-json>${icon("download")}<span>下載我的紀錄（JSON）</span></button>
+          </div>
+        </section>` : `
         <section class="block" aria-labelledby="export-title">
           <h2 id="export-title">匯出給老師</h2>
           <div class="card export">
@@ -172,7 +180,7 @@ export function renderReport(root, ctx) {
             <textarea class="record-code" readonly rows="3" hidden aria-label="學習紀錄碼"></textarea>
             <button type="button" class="text-link text-link--danger" data-reset>清除這台裝置上的所有紀錄</button>
           </div>
-        </section>
+        </section>`}
       </section>`;
 
     root.querySelectorAll("[data-range]").forEach((r) => r.addEventListener("change", () => {
@@ -182,7 +190,7 @@ export function renderReport(root, ctx) {
     }));
 
     const payload = () => {
-      const alias = root.querySelector("#alias").value.trim();
+      const alias = ctx.auth?.profile?.student_id || root.querySelector("#alias")?.value.trim() || "";
       const all = courseAttempts(course.course_id);
       return {
         v: 1, alias, class_code: cls?.class_code || null, course_id: course.course_id, exported_at: new Date().toISOString(),

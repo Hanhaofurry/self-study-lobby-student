@@ -85,7 +85,7 @@ export function setHasSupport(course, set) {
 
 // Release status of a unit for a class: open / locked (with date) / hidden.
 export function unitRelease(cls, unitId) {
-  if (!cls) return { open: true };
+  if (!cls || !Array.isArray(cls.released_units)) return { open: true }; // no list = every unit open
   const rel = (cls.released_units || []).find((r) => r.unit_id === unitId);
   if (!rel) return { open: false, reason: "老師尚未開放" };
   const today = todayISO();

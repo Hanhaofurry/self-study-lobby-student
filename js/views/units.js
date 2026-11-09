@@ -105,9 +105,9 @@ export function renderUnits(root, ctx) {
       <section class="page">
         <header class="course-head">
           <div>
-            <p class="eyebrow">${cls ? `${esc(cls.class_name)} · ${esc(cls.teacher)}` : "自由練習"} · ${course.grade.join("、")} 年級</p>
+            <p class="eyebrow">${cls ? `${esc(cls.class_name)}${cls.teacher ? ` · ${esc(cls.teacher)}` : ""}` : "自由練習"} · ${course.grade.join("、")} 年級</p>
             <h1>${esc(course.title)}</h1>
-            <a class="text-link" href="#/select">更換班級／課程</a>
+            ${ctx.cloud ? "" : `<a class="text-link" href="#/select">更換班級／課程</a>`}
           </div>
           ${ring(overall)}
         </header>

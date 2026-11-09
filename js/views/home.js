@@ -50,12 +50,12 @@ export function renderHome(root, ctx) {
   root.innerHTML = `
     <section class="page">
       <header class="hero">
-        <p class="eyebrow">${cls ? `${esc(cls.class_name)} · ${esc(cls.teacher)}` : course ? esc(course.title) : "高中英文自學練習"}</p>
-        <h1>${greeting()}, let's practice!</h1>
+        <p class="eyebrow">${cls ? `${esc(cls.class_name)}${cls.teacher ? ` · ${esc(cls.teacher)}` : ""}` : course ? esc(course.title) : "高中英文自學練習"}</p>
+        <h1>${greeting()}${ctx.auth?.profile?.name ? `，${esc(ctx.auth.profile.name)}` : ""}! Let's practice.</h1>
         <p class="lead">每天 10–15 分鐘，選自己的步調。答錯沒關係，提示會一步一步陪你想。</p>
         <div class="hero__actions">
           ${primary}
-          <a class="button button--secondary button--lg" href="#/select">選擇班級／年級</a>
+          ${ctx.cloud ? "" : `<a class="button button--secondary button--lg" href="#/select">選擇班級／年級</a>`}
         </div>
         ${lastRun ? `<p class="muted small">上次：${esc(lastRun.unit_title)} · ${esc(lastRun.title)}</p>` : ""}
       </header>
@@ -112,7 +112,7 @@ export function renderHome(root, ctx) {
         </ol>
       </details>
 
-      <p class="privacy">${icon("lock")} 你的學習紀錄只存在這台裝置的瀏覽器中，不會上傳。需要交給老師時，可在「學習紀錄」頁匯出。${state.sessions.length ? ` 最近一次練習：${formatDate(state.sessions[state.sessions.length - 1].date)}` : ""}</p>
+      <p class="privacy">${icon("lock")} ${ctx.cloud ? "你的學習紀錄會自動存到老師的雲端，換電腦登入也看得到。在公用電腦練習完請記得登出。" : "你的學習紀錄只存在這台裝置的瀏覽器中，不會上傳。需要交給老師時，可在「學習紀錄」頁匯出。"}${state.sessions.length ? ` 最近一次練習：${formatDate(state.sessions[state.sessions.length - 1].date)}` : ""}</p>
     </section>`;
 
   root.querySelectorAll("[data-goal]").forEach((btn) => {

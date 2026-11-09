@@ -523,6 +523,34 @@ kbd { display: inline-block; min-width: 1.6em; padding: 0.05em 0.4em; border: 1p
 .shortcuts div { display: flex; justify-content: space-between; gap: 0.5rem; }
 .shortcuts dd { margin: 0; color: var(--text-2); }
 
+
+/* ---------- Login & account ---------- */
+.auth-page { display: grid; place-items: center; min-height: calc(100vh - var(--header-h) - 4rem); }
+.auth-card { width: min(440px, 100%); padding: 2rem 1.6rem; }
+.auth-card h1 { margin: 1rem 0 0.25rem; font-size: 1.6rem; }
+.brand__mark--lg { display: grid; place-items: center; width: 56px; height: 56px; border-radius: 16px; background: var(--accent); color: var(--on-accent); font-family: Georgia, serif; font-style: italic; font-weight: 700; font-size: 1.6rem; }
+.auth-form { display: grid; gap: 0.45rem; margin: 1.25rem 0 1rem; }
+.auth-form label { font-weight: 650; font-size: 0.92rem; margin-top: 0.35rem; }
+.auth-form .button--block { margin-top: 0.5rem; }
+.pw-field { position: relative; }
+.pw-field .text-input { padding-right: 4.5rem; }
+.pw-toggle { position: absolute; right: 0.4rem; top: 50%; transform: translateY(-50%); }
+.check-line { display: flex; align-items: center; gap: 0.5rem; font-weight: 500 !important; }
+.check-line input { width: 1.05rem; height: 1.05rem; accent-color: var(--accent); }
+.spinner--sm { width: 16px; height: 16px; border-width: 2px; border-color: rgba(255, 255, 255, 0.4); border-top-color: currentColor; }
+.sync { display: inline-flex; align-items: center; gap: 0.3rem; color: var(--text-2); font-size: 0.78rem; font-weight: 600; white-space: nowrap; }
+.sync--saved .icon { color: var(--success); }
+.sync--offline, .sync--unauthorized { color: var(--warning); }
+.sync--syncing .icon, .sync--pending .icon { opacity: 0.4; }
+.account-card { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+.account-card__avatar { display: grid; place-items: center; flex: none; width: 64px; height: 64px; border-radius: 50%; background: var(--accent-soft); color: var(--accent); font-size: 1.3rem; font-weight: 750; }
+.account-card__name { font-size: 1.3rem; }
+@media (max-width: 720px) {
+  .sync span { display: none; }
+  .header-actions [data-logout] { padding: 0.3rem 0.6rem; }
+  body.is-gated .app { padding-bottom: 2rem; }
+}
+
 /* ---------- Toast & loading ---------- */
 .toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom)); z-index: 60; max-width: calc(100% - 32px); padding: 0.7rem 1.1rem; border-radius: 999px; background: var(--text); color: var(--bg); font-size: 0.9rem; font-weight: 600; box-shadow: var(--shadow-lg); opacity: 0; pointer-events: none; transform: translate(-50%, 12px); transition: opacity 220ms var(--ease), transform 220ms var(--ease); }
 .toast.is-visible { opacity: 1; transform: translate(-50%, 0); }
