@@ -6,6 +6,7 @@ import {
   formatDuration, wordCount, speak, stopSpeaking, ttsAvailable, sentences,
 } from "../ui.js";
 import { scoreQuestion, independenceOf, INDEPENDENCE, recommendedLevel } from "../progress.js";
+import { loadOriginals } from "../originals.js";
 
 let controller = null; // aborts document-level listeners and timers from the previous visit
 let ticker = null;
@@ -96,6 +97,11 @@ export async function renderPractice(root, ctx, setId) {
 
   const passage = set.passage_id ? course.index.passages.get(set.passage_id) : null;
   const isListening = set.skill === "listening";
+  // Magazine original (login only, from the teacher's sheet). Default to it: students must practice the real article.
+  const originals = await loadOriginals();
+  const original = originals[set.passage_id] || originals[`${set.unit_id}-p1`] || null;
+  let textView = original ? "magazine" : "adapted";
+  const hasPane = Boolean(passage || original);
   const questions = set.question_ids.map((id) => course.index.questions.get(id));
   if (!questions.length) {
     root.innerHTML = `<section class="page"><div class="card empty"><h1>這個題組還沒有題目</h1><a class="button" href="#/units">回單元列表</a></div></section>`;
@@ -118,7 +124,7 @@ export async function renderPractice(root, ctx, setId) {
   let listenKey = null;
 
   root.innerHTML = `
-    <section class="practice ${passage && !isListening ? "practice--split" : ""} ${isListening ? "practice--listening" : ""}">
+    <section class="practice ${hasPane && !isListening ? "practice--split" : ""} ${isListening ? "practice--listening" : ""}">
       <header class="practice-bar">
         <a class="icon-button" href="#/units" aria-label="返回單元列表">${icon("arrowLeft")}</a>
         <div class="practice-bar__title">
@@ -134,7 +140,7 @@ export async function renderPractice(root, ctx, setId) {
         <button type="button" class="icon-button" data-open-settings aria-label="閱讀設定">${icon("gear")}</button>
       </header>
       <div class="practice-body">
-        ${passage ? `<section class="passage-pane" aria-label="${isListening ? "聽力" : "閱讀文本"}" data-passage></section>` : ""}
+        ${hasPane ? `<section class="passage-pane" aria-label="${isListening ? "聽力" : "閱讀文本"}" data-passage></section>` : ""}
         <section class="question-pane" data-question></section>
       </div>
       <div class="popover" data-popover hidden role="dialog" aria-label="生字卡"></div>
@@ -162,10 +168,25 @@ export async function renderPractice(root, ctx, setId) {
   }
 
   function levelSwitch() {
-    if (!hasSupport || !allowSwitch) return hasSupport ? `<span class="badge badge--neutral">${level === "support" ? "支援版" : "標準版"}</span>` : "";
+    const choices = [];
+    if (original) choices.push(["magazine", "雜誌原文"]);
+    if (isListening && passage) {
+      choices.push(["standard", "改寫版"]);
+    } else if (passage?.variants?.length) {
+      if (hasSupport && allowSwitch) choices.push(["standard", "標準版"], ["support", "支援版"]);
+      else choices.push([hasSupport ? level : "standard", hasSupport && level === "support" ? "支援版" : "改寫版"]);
+    }
+    if (choices.length < 2) return choices.length && !original ? `<span class="badge badge--neutral">${choices[0][1]}</span>` : "";
+    const currentValue = textView === "magazine" ? "magazine" : level;
     return `<div class="segmented segmented--sm" role="radiogroup" aria-label="文章版本">
-      ${[["standard", "標準版"], ["support", "支援版"]].map(([v, t]) => `<label class="segmented__item"><input type="radio" name="level" value="${v}" data-level ${level === v ? "checked" : ""}/><span>${t}</span></label>`).join("")}
+      ${choices.map(([v, t]) => `<label class="segmented__item"><input type="radio" name="level" value="${v}" data-level ${currentValue === v ? "checked" : ""}/><span>${t}</span></label>`).join("")}
     </div>`;
+  }
+
+  // Paragraphs currently on screen (magazine original or adapted version).
+  function shownParagraphs() {
+    if (textView === "magazine" && original) return original.paragraphs || [];
+    return passageVariant()?.paragraphs || [];
   }
 
   function renderPassage(scrollToFocus = false) {
@@ -181,12 +202,16 @@ export async function renderPractice(root, ctx, setId) {
       return;
     }
     const v = passageVariant();
-    const { words, paragraph } = activeHighlights(q);
+    const onMagazine = textView === "magazine" && original;
+    const { words } = activeHighlights(q);
+    // Paragraph numbers in hints refer to the adapted versions, so only focus a paragraph there.
+    const paragraph = onMagazine ? null : activeHighlights(q).paragraph;
+    const paragraphs = shownParagraphs();
     passageEl.innerHTML = `
       <div class="passage-pane__head">
         <div>
-          <h2 class="passage-title">${esc(passage.title)}</h2>
-          <span class="muted xsmall">${v?.lexile ? `約 ${v.lexile}L${v.lexile_source === "estimated" ? "（估計）" : ""} · ` : ""}${(v?.paragraphs || []).join(" ").split(/\s+/).length} words · 點選底線字可看中文</span>
+          <h2 class="passage-title">${esc(onMagazine ? original.title || passage?.title || "" : passage.title)}</h2>
+          <span class="muted xsmall">${onMagazine ? `${esc(original.source || "雜誌原文")} · ` : v?.lexile ? `約 ${v.lexile}L${v.lexile_source === "estimated" ? "（估計）" : ""} · ` : ""}${paragraphs.join(" ").split(/\s+/).length} words · 點選底線字可看中文</span>
         </div>
         <div class="passage-pane__tools">
           ${levelSwitch()}
@@ -194,11 +219,17 @@ export async function renderPractice(root, ctx, setId) {
         </div>
       </div>
       <article class="passage reading-text" lang="en">
-        ${(v?.paragraphs || []).map((p, i) => `<p data-para="${i}" class="${paragraph === i ? "is-focus" : ""}"><span class="para-num" aria-hidden="true">${i + 1}</span>${markText(p, words, passage.glossary || [])}</p>`).join("")}
+        ${paragraphs.map((p, i) => `<p data-para="${i}" class="${paragraph === i ? "is-focus" : ""}"><span class="para-num" aria-hidden="true">${i + 1}</span>${markText(p, words, passage?.glossary || [])}</p>`).join("")}
       </article>`;
     if (scrollToFocus && paragraph != null) {
       passageEl.querySelector(`[data-para="${paragraph}"]`)?.scrollIntoView({ block: "center", behavior: settings().motion === "reduce" ? "auto" : "smooth" });
     }
+  }
+
+  // Listening text: the magazine dialogue when available, otherwise the adapted transcript.
+  function listeningText() {
+    if (textView === "magazine" && original) return (original.paragraphs || []).join("\n");
+    return passage.transcript || "";
   }
 
   function renderListening() {
@@ -207,8 +238,9 @@ export async function renderPractice(root, ctx, setId) {
     const showTranscript = s.hintLevel >= 4 || s.done;
     passageEl.innerHTML = `
       <div class="passage-pane__head">
-        <div><h2 class="passage-title">${icon("headphones")} ${esc(passage.title)}</h2>
+        <div><h2 class="passage-title">${icon("headphones")} ${esc(textView === "magazine" && original ? original.title || passage.title : passage.title)}</h2>
         <span class="muted xsmall">${listen.transcriptMode ? "讀作聽模式：句子會一句一句出現，再消失" : "先聽，再作答。可以重播。"} · 已播放 ${listen.plays} 次</span></div>
+        ${original ? `<div class="passage-pane__tools">${levelSwitch()}</div>` : ""}
       </div>
       <div class="player">
         ${passage.audio_url && !listen.transcriptMode ? `<audio src="${esc(passage.audio_url)}" preload="none" data-audio></audio>` : ""}
@@ -217,7 +249,7 @@ export async function renderPractice(root, ctx, setId) {
         ${ttsAvailable || passage.audio_url ? `<button type="button" class="text-link" data-action="toggle-transcript-mode">${listen.transcriptMode ? "改回聲音播放" : "聽不到？改用讀作聽模式"}</button>` : ""}
       </div>
       <div class="flow-text reading-text" lang="en" data-flow aria-live="polite"></div>
-      ${showTranscript ? `<details class="transcript" open><summary>逐字稿 Transcript</summary><p class="reading-text" lang="en">${esc(passage.transcript)}</p></details>` : ""}`;
+      ${showTranscript ? `<details class="transcript" open><summary>逐字稿 Transcript</summary>${listeningText().split("\n").map((line) => `<p class="reading-text" lang="en">${esc(line)}</p>`).join("")}</details>` : ""}`;
   }
 
   function playListening(rate) {
@@ -232,13 +264,13 @@ export async function renderPractice(root, ctx, setId) {
       return;
     }
     if (!listen.transcriptMode && ttsAvailable) {
-      speak(passage.transcript, { rate, accent: settings().accent });
+      speak(listeningText().split("\n"), { rate, accent: settings().accent });
       renderListeningMeta();
       return;
     }
     // Transcript mode: reveal one sentence at a time, then hide (linear, one-pass like listening).
     const flow = passageEl.querySelector("[data-flow]");
-    const parts = sentences(passage.transcript);
+    const parts = sentences(listeningText().replace(/\n/g, " "));
     let i = 0;
     const token = ++listen.flowToken;
     flow.innerHTML = "";
@@ -331,7 +363,10 @@ export async function renderPractice(root, ctx, setId) {
     const q = current();
     const s = qs(q);
     updateProgress();
-    if (q.type === "essay") return renderEssay(q, s, focus);
+    if (q.type === "essay") {
+      renderPassage();
+      return renderEssay(q, s, focus);
+    }
     const { words } = activeHighlights(q);
     const canHint = !s.done && s.hintLevel < maxHint && (q.hints || []).length > s.hintLevel;
     const hasAnswer = q.type === "fill-blank" ? normalize(s.input) !== "" : !!s.selected;
@@ -684,9 +719,9 @@ export async function renderPractice(root, ctx, setId) {
   }
 
   function readPassage() {
-    const v = passageVariant();
-    if (!v) return;
-    speak(v.paragraphs, {
+    const paragraphs = shownParagraphs();
+    if (!paragraphs.length) return;
+    speak(paragraphs, {
       rate: settings().speechRate,
       accent: settings().accent,
       onChunk: (i) => {
@@ -822,10 +857,16 @@ export async function renderPractice(root, ctx, setId) {
   root.addEventListener("change", (event) => {
     const t = event.target;
     if (t.matches("[data-level]")) {
-      level = t.value;
-      update((st) => { st.levelPref[setId] = level; });
+      if (t.value === "magazine") {
+        textView = "magazine";
+      } else {
+        textView = "adapted";
+        level = t.value;
+        update((st) => { st.levelPref[setId] = level; });
+      }
+      listenKey = null;
       renderQuestion();
-      passageEl?.querySelector(`[data-level][value="${level}"]`)?.focus();
+      passageEl?.querySelector(`[data-level][value="${t.value}"]`)?.focus();
     }
     if (t.matches("[data-check]")) {
       const s = qs(current());

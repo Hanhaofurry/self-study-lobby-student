@@ -1,0 +1,1018 @@
+{
+  "unit": {
+    "unit_id": "g10-4u-u09",
+    "order": 9,
+    "title": "Social Prescribing: A New Path to Care",
+    "title_zh": "身心健康的跨界解藥——「社會處方箋」的療癒力",
+    "topic": "health",
+    "grade": [
+      10
+    ],
+    "objectives": [
+      "I can explain what social prescribing is and why music can help patients.",
+      "I can put an adjective after words like something, anyone, everyone, and nothing."
+    ],
+    "estimated_minutes": 30,
+    "tags": [
+      "#4u-2026-09"
+    ],
+    "source": "English 4U 2026年9月號 p.48"
+  },
+  "passages": [
+    {
+      "passage_id": "g10-4u-u09-p1",
+      "title": "A Doctor's Note for Music",
+      "topic": "health",
+      "abstraction": "social",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 930,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "A prescription is a doctor's written note that tells you which medicine to take. Usually, you leave the clinic with one and go straight to the pharmacy. In Montreal, Canada, however, some patients now receive something different: a prescription that comes with two free tickets to concerts by the city's famous orchestra, the Orchestre symphonique de Montréal (OSM).",
+            "These tickets are part of a one-year program that started in October 2025. It is an example of social prescribing, a movement that links healthcare with culture and is quickly gaining support. The idea is simple. Medicine is not the only tool for staying well. Doctors can also “prescribe” activities, such as engagement with the arts, physical exercise, or time spent in nature, to support a patient's mental health. In other words, a walk in a park or a painting class can become part of a treatment plan.",
+            "Why music? People who support the program point to more and more research on its effects. Listening to music can lower stress and help memory and focus. Going to a live concert can also make patients feel less lonely. Best of all, it gives them something joyful to look forward to.",
+            "The orchestra benefits, too. Some people feel that classical music is formal or distant, so they never step into a concert hall. This program invites new listeners inside. The organizers hope that, as the program goes on, social prescribing will spread across Canada and help many more people."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 790,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "A prescription is a doctor's note. It usually tells you which medicine to take. But in Montreal, Canada, some patients now get something different. Their prescription comes with two free tickets to concerts by the city's orchestra, the OSM.",
+            "This one-year program started in October 2025. It is an example of social prescribing. Social prescribing connects healthcare with culture. Doctors do not only give medicine. They can also “prescribe” the arts, physical exercise, or time in nature. These activities support a patient's mental health.",
+            "Why music? Supporters of the program point to research on its effects. Music can lower stress. It can also help memory and focus. A live concert can make patients feel less lonely. It gives them something joyful to look forward to.",
+            "The orchestra is happy, too. Some people think classical music is formal or distant. They never go to a concert hall. This program invites new listeners. The organizers hope social prescribing will spread across Canada and help more people."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "concert",
+          "pos": "n.",
+          "zh": "音樂會；演唱會",
+          "example": "We bought tickets for a rock concert next Friday."
+        },
+        {
+          "word": "mental",
+          "pos": "adj.",
+          "zh": "心理的；精神的",
+          "example": "Talking with friends is good for your mental health."
+        },
+        {
+          "word": "effect",
+          "pos": "n.",
+          "zh": "影響",
+          "example": "Exercise has a good effect on my mood."
+        },
+        {
+          "word": "stress",
+          "pos": "n.",
+          "zh": "壓力",
+          "example": "Deep breathing can help you deal with stress."
+        },
+        {
+          "word": "joyful",
+          "pos": "adj.",
+          "zh": "快樂的",
+          "example": "The children's joyful laughter filled the park."
+        },
+        {
+          "word": "look forward to",
+          "pos": "phr.",
+          "zh": "期待",
+          "example": "I'm looking forward to the school trip."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g10-4u-u09-r1",
+      "skill": "reading",
+      "title": "Reading 1 · Music on Prescription",
+      "passage_id": "g10-4u-u09-p1",
+      "question_ids": [
+        "g10-4u-u09-q01",
+        "g10-4u-u09-q02",
+        "g10-4u-u09-q03",
+        "g10-4u-u09-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g10-4u-u09-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Health Words",
+      "question_ids": [
+        "g10-4u-u09-q11",
+        "g10-4u-u09-q12",
+        "g10-4u-u09-q13",
+        "g10-4u-u09-q14",
+        "g10-4u-u09-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g10-4u-u09-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · something / anyone / nothing + adj.",
+      "question_ids": [
+        "g10-4u-u09-q21",
+        "g10-4u-u09-q22",
+        "g10-4u-u09-q23",
+        "g10-4u-u09-q24"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g10-4u-u09-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A program in Montreal where doctors give concert tickets to help patients",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "How to become a doctor in Canada",
+          "feedback": "The passage is about patients and music, not about how to become a doctor."
+        },
+        {
+          "key": "C",
+          "text": "Why medicine is bad for your health",
+          "feedback": "The text never says medicine is bad. It says medicine is not the ONLY tool."
+        },
+        {
+          "key": "D",
+          "text": "The history of classical music",
+          "feedback": "There is no history of music here. Look at the first two paragraphs."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The passage describes the Montreal program (concert tickets with a prescription) as an example of social prescribing, and explains why it may help (A).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 1. What do some patients in Montreal get?",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: “two free tickets to concerts” and “social prescribing”.",
+          "action": "highlight-words",
+          "words": [
+            "two free tickets to concerts",
+            "social prescribing"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is not in the passage. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Doctors + concert tickets + health = the whole passage. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u09-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "According to the passage, what can listening to music do?",
+      "stem_support": "What can music do for people?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Make people forget everything",
+          "feedback": "The text says music can HELP memory, not make people forget."
+        },
+        {
+          "key": "B",
+          "text": "Lower stress and help memory and focus",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Replace all kinds of medicine",
+          "feedback": "The passage says medicine is not the only tool; it does not say music replaces it."
+        },
+        {
+          "key": "D",
+          "text": "Make concert tickets cheaper",
+          "feedback": "Ticket prices are not an effect of music. Read paragraph 3."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 3: “Listening to music can lower stress and help memory and focus.” (B)",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 3. Find the word “stress”.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “lower stress” and “memory and focus”.",
+          "action": "highlight-words",
+          "words": [
+            "lower stress",
+            "memory and focus"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D has nothing to do with health. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Music → lower stress + better memory and focus. Answer: B.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Why is the orchestra (OSM) likely happy to be part of this program?",
+      "stem_support": "Why does the orchestra like this program?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It brings in people who might never go to a classical concert.",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "It lets the orchestra sell medicine.",
+          "feedback": "Orchestras play music; they do not sell medicine."
+        },
+        {
+          "key": "C",
+          "text": "It makes classical music more formal.",
+          "feedback": "The program does the opposite — it makes concerts feel open to new people."
+        },
+        {
+          "key": "D",
+          "text": "It stops patients from listening to other music.",
+          "feedback": "Nothing in the passage says this."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 4: some people think classical music is formal or distant and never go to concerts; the program invites new listeners. So the orchestra gains new audiences (A). 推論：交響樂團可以藉此吸引新聽眾。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 4 about the orchestra.",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: “formal or distant” and “invites new listeners”.",
+          "action": "highlight-words",
+          "words": [
+            "formal or distant",
+            "new listeners"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option B does not make sense for an orchestra. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "New listeners = more people in the concert hall → A. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u09-q03v",
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 3,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q04",
+      "skill": "reading",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "In paragraph 4, some people feel that classical music is “formal or distant.” Here, “distant” most likely means ___.",
+      "stem_support": "In paragraph 4, “distant” means ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "very far away in kilometers",
+          "feedback": "Music has no kilometers! Here it describes a feeling."
+        },
+        {
+          "key": "B",
+          "text": "loud and exciting",
+          "feedback": "This does not match “formal”. Both words describe something hard to enjoy."
+        },
+        {
+          "key": "C",
+          "text": "not friendly or hard to feel close to",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "cheap and easy to buy",
+          "feedback": "Price is not the point. Why do these people never go to concerts?"
+        }
+      ],
+      "answer": "C",
+      "explanation": "“Formal or distant” explains why some people never go to concerts. Here distant = not warm, hard to feel close to（有距離感的）, not “far away”.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the sentence in paragraph 4 with “distant”.",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Clue: these people never go to a concert hall.",
+          "action": "highlight-words",
+          "words": [
+            "formal or distant",
+            "concert hall"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option A is the usual meaning, but music is not far away in kilometers.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "distant here = 有距離感、不親近 → C.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Talking with a friend you trust can be good for your ___ health when you feel sad.",
+      "options": [
+        {
+          "key": "A",
+          "text": "joyful",
+          "feedback": "Joyful means “very happy”. We don't say “joyful health”."
+        },
+        {
+          "key": "B",
+          "text": "mental",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "formal",
+          "feedback": "Formal means “serious and polite”. It does not go with health."
+        }
+      ],
+      "answer": "B",
+      "explanation": "mental health = 心理健康. The sentence talks about feeling sad, which is about the mind.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the clue about feelings.",
+          "action": "highlight-words",
+          "words": [
+            "feel sad"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Which word is about the mind（心理的）?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C does not describe health. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: mental. mental health ↔ physical health.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q12",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "Coffee has a strong ___ on me; I can't sleep if I drink it at night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "effect",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "concert",
+          "feedback": "A concert is a music event. It cannot be “on me” like this."
+        },
+        {
+          "key": "C",
+          "text": "engagement",
+          "feedback": "Engagement means taking part in something. Does coffee take part in you?"
+        }
+      ],
+      "answer": "A",
+      "explanation": "have an effect on sb/sth = 對…有影響. Coffee changes how I sleep.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the words after the blank.",
+          "action": "highlight-words",
+          "words": [
+            "on me"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: have a(n) ___ on sb = 對某人有影響.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option B is an event, not an influence.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: effect.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q13",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "fill-blank",
+      "stem": "We are looking forward to ___ (visit) our cousins in Tainan this weekend.",
+      "answer": [
+        "visiting"
+      ],
+      "explanation": "look forward to + N / V-ing = 期待. Here “to” is a preposition, so the verb becomes V-ing: visiting.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the phrase before the blank.",
+          "action": "highlight-words",
+          "words": [
+            "looking forward to"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "In “look forward to”, “to” is a preposition, not part of “to V”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Preposition + V-ing. visit → ?",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: visiting. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u09-q13v",
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The wedding was a ___ day; everyone laughed, sang, and danced together.",
+      "options": [
+        {
+          "key": "A",
+          "text": "mental",
+          "feedback": "Mental is about the mind. It does not describe a day like this."
+        },
+        {
+          "key": "B",
+          "text": "distant",
+          "feedback": "Distant means far away or not friendly. The clue says everyone laughed."
+        },
+        {
+          "key": "C",
+          "text": "joyful",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "joyful = very happy（快樂的）. Laughing, singing, and dancing show a happy day.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the clue after the semicolon (;).",
+          "action": "highlight-words",
+          "words": [
+            "laughed, sang, and danced"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "joy = happiness; -ful = full of.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A does not describe a day. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: joyful.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q15",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "The report ___ heavy traffic as the main reason the buses were late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "came with",
+          "feedback": "Come with = be included with. A report does not “come with” traffic as a reason."
+        },
+        {
+          "key": "B",
+          "text": "pointed to",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "looked forward to",
+          "feedback": "Look forward to = be excited about something in the future. Is late traffic exciting?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "point to sth (as ...) = 提及；指出（原因、證據）. The report names traffic as the reason.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the words “as the main reason”.",
+          "action": "highlight-words",
+          "words": [
+            "as the main reason"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Which phrase means “mention something as a reason or evidence”?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is about excitement. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: pointed to. In the reading: supporters point to research on music.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q21",
+      "skill": "grammar",
+      "sub_skill": "indefinite-pronoun-adj",
+      "type": "single-choice",
+      "stem": "I'm hungry. Let's eat ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "delicious something",
+          "feedback": "The adjective must come AFTER “something”."
+        },
+        {
+          "key": "B",
+          "text": "something delicious",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "delicious anything",
+          "feedback": "The adjective goes after the pronoun, and “anything” does not fit here."
+        }
+      ],
+      "answer": "B",
+      "explanation": "something / anything / nothing / someone + adj. → something delicious. 形容詞放在不定代名詞之後。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the options: where is the adjective?",
+          "action": "highlight-words",
+          "words": [
+            "something"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Rule: something + adjective (not adjective + something).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C uses the wrong word order. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: something delicious. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u09-q21v",
+      "difficulty": "foundation",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q22",
+      "skill": "grammar",
+      "sub_skill": "indefinite-pronoun-adj",
+      "type": "fill-blank",
+      "stem": "Your phone looks strange. Is there ___ with it? (use: anything, wrong)",
+      "answer": [
+        "anything wrong"
+      ],
+      "explanation": "anything + adj. → anything wrong. Questions often use anything.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Use the two given words.",
+          "action": "highlight-words",
+          "words": [
+            "anything",
+            "wrong"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Which comes first: the pronoun or the adjective?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "pronoun (anything) + adjective (wrong).",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: anything wrong.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q23",
+      "skill": "grammar",
+      "sub_skill": "indefinite-pronoun-adj",
+      "type": "single-choice",
+      "stem": "Which sentence is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I met famous someone at the airport.",
+          "feedback": "The adjective must follow “someone”: someone famous."
+        },
+        {
+          "key": "B",
+          "text": "She wants interesting something to read.",
+          "feedback": "Correct order: something interesting to read."
+        },
+        {
+          "key": "C",
+          "text": "Everyone tired can rest in this room.",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "Special nobody came to the party.",
+          "feedback": "Correct order: nobody special."
+        }
+      ],
+      "answer": "C",
+      "explanation": "everyone + adj. → everyone tired（所有累的人）. The adjective comes after the -one / -body / -thing word.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the -one / -body / -thing word in each sentence.",
+          "action": "highlight-words",
+          "words": [
+            "someone",
+            "something",
+            "Everyone",
+            "nobody"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Is the adjective before or after it?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A puts “famous” before “someone”. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: C.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u09-q24",
+      "skill": "grammar",
+      "sub_skill": "indefinite-pronoun-adj",
+      "type": "fill-blank",
+      "stem": "Don't worry. There is ___ about this ride; it's very safe. (use: dangerous)",
+      "answer": [
+        "nothing dangerous",
+        "not anything dangerous"
+      ],
+      "explanation": "“It's very safe” → there is no danger. Use nothing + adj.: nothing dangerous（沒有危險的）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the second part: is the ride safe or not?",
+          "action": "highlight-words",
+          "words": [
+            "very safe"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a “no-” word + the adjective “dangerous”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "nothing / nobody / no one + adj.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: nothing dangerous.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g10-4u-u09-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to Play the Violin"
+        },
+        {
+          "key": "B",
+          "text": "When the Doctor Prescribes a Concert"
+        },
+        {
+          "key": "C",
+          "text": "Canada's Biggest Hospitals"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The passage is about doctors “prescribing” concerts for patients' health."
+    },
+    {
+      "question_id": "g10-4u-u09-q03v",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Which of these is an example of social prescribing?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A doctor gives a patient pills for a headache."
+        },
+        {
+          "key": "B",
+          "text": "A doctor suggests that a lonely patient join a weekend choir."
+        },
+        {
+          "key": "C",
+          "text": "A doctor tells a patient to stay in bed for a week."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Social prescribing = activities like the arts, exercise, or time in nature, not only medicine."
+    },
+    {
+      "question_id": "g10-4u-u09-q13v",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "fill-blank",
+      "stem": "I'm looking forward to ___ (see) the concert next month.",
+      "answer": [
+        "seeing"
+      ],
+      "explanation": "look forward to + V-ing → seeing."
+    },
+    {
+      "question_id": "g10-4u-u09-q21v",
+      "skill": "grammar",
+      "sub_skill": "indefinite-pronoun-adj",
+      "type": "single-choice",
+      "stem": "Did you see ___ at the night market?",
+      "options": [
+        {
+          "key": "A",
+          "text": "interesting anything"
+        },
+        {
+          "key": "B",
+          "text": "anything interesting"
+        },
+        {
+          "key": "C",
+          "text": "interesting something"
+        }
+      ],
+      "answer": "B",
+      "explanation": "anything + adj. → anything interesting (questions often use anything)."
+    }
+  ]
+}

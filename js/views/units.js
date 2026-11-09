@@ -84,7 +84,7 @@ export function renderUnits(root, ctx) {
         <button class="unit-card__head" type="button" ${rel.open ? `aria-expanded="${isOpen}" aria-controls="sets-${esc(unit.unit_id)}" data-toggle="${esc(unit.unit_id)}"` : 'aria-disabled="true"'}>
           <span class="unit-card__num">Unit ${unit.order}</span>
           <span class="unit-card__title">${esc(unit.title)}<small>${esc(unit.title_zh || "")}</small></span>
-          <span class="unit-card__meta muted small">${unit.sets.length} 組 · 約 ${minutes} 分鐘${rel.dueDate ? ` · 截止 ${formatDate(rel.dueDate)}` : ""}</span>
+          <span class="unit-card__meta muted small">${unit.source ? `${esc(unit.source)} · ` : ""}${unit.sets.length} 組 · 約 ${minutes} 分鐘${rel.dueDate ? ` · 截止 ${formatDate(rel.dueDate)}` : ""}</span>
           <span class="progress" aria-label="完成 ${Math.round(progress * 100)}%"><span style="width:${Math.round(progress * 100)}%"></span></span>
           <span class="unit-card__status">
             ${rel.open ? `<span class="badge badge--${STATUS[overallStatus].cls}">${STATUS[overallStatus].zh}</span>` : `<span class="badge badge--neutral">${icon("lock")} ${esc(rel.reason)}</span>`}

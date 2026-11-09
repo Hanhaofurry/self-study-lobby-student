@@ -1,0 +1,985 @@
+{
+  "unit": {
+    "unit_id": "g11-live-u08",
+    "order": 8,
+    "title": "Bath: Britain at Its Best",
+    "title_zh": "巴斯：英國之最",
+    "topic": "travel",
+    "grade": [
+      11
+    ],
+    "objectives": [
+      "I can describe the main sights of a travel destination.",
+      "I can use \"at one's best\" and \"no wonder\" correctly.",
+      "I can find details and make inferences in a travel article."
+    ],
+    "estimated_minutes": 35,
+    "tags": [
+      "#live-2026-08"
+    ],
+    "source": "Live 互動英語 2026年8月號 p.34"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-live-u08-p1",
+      "title": "Bath: A City Full of History",
+      "topic": "travel",
+      "abstraction": "concrete",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1000,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Bath, a city in southwest England, is known around the world for its ancient baths and historic buildings. Because of these famous landmarks, the whole city is protected as a UNESCO World Heritage Site. The main sights are close together, so visitors can easily walk from one to the next. That makes Bath a great choice for travelers who have only a day or two.",
+            "The story of Bath begins with the Romans, who built it as a place to relax in natural hot springs. Their bath complex is still the most famous site in the city. Hot water rises from deep underground and fills a large pool in the middle. Visitors cannot swim there today, but they can discover how important the baths were in the daily life of Roman Britain. Right next to the baths stands Bath Abbey, a large church with tall windows and a stone ceiling shaped like open fans. Carvings of angels on ladders decorate its outside walls, and a tour to the top of the tower gives visitors wide views of the city.",
+            "Bath is also home to grand streets such as the Royal Crescent, a long row of 30 houses, and the Circus, where the houses form a perfect circle. These Georgian buildings are made from a local yellow stone, which gives the city a warm, golden color. Book lovers will find reasons to visit, too. Jane Austen lived in Bath in the early 1800s and often wrote about it in her novels, and Mary Shelley, the author of Frankenstein, also spent time there. Visitors can learn about both writers in the city.",
+            "With so much history in such a small area, Bath is easy to explore on foot. It is no wonder that the city has been a favorite destination for visitors to England for so long. Whether you love history, buildings, or books, Bath really shows Britain at its best."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 840,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Bath is a city in southwest England. It is famous for its ancient baths and historic buildings. Because of these famous landmarks, the city is a UNESCO World Heritage Site. The main sights are close together, so you can walk to them. Bath is a great choice for a short trip.",
+            "The Romans built Bath as a place to relax in natural hot springs. The Roman Baths are still the most famous site in the city. Hot water comes from deep underground and fills a large pool. You cannot swim there today, but you can learn about daily life in Roman Britain. Bath Abbey, a large church, stands next to the baths. It has tall windows and a stone ceiling shaped like open fans. On its outside walls, there are carvings of angels on ladders.",
+            "Bath is also home to grand streets like the Royal Crescent and the Circus. The buildings are made from a local yellow stone, so the city looks warm and golden. Jane Austen lived in Bath, and Mary Shelley, the author of Frankenstein, also spent time there.",
+            "Bath is easy to explore on foot. It is no wonder that it has been a favorite destination for visitors to England for so long. Bath really shows Britain at its best."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "historic",
+          "pos": "adj.",
+          "zh": "具有歷史意義的；歷史悠久的",
+          "example": "Our class visited a historic temple in Tainan."
+        },
+        {
+          "word": "landmark",
+          "pos": "n.",
+          "zh": "地標",
+          "example": "The tall bridge is the best-known landmark in our town."
+        },
+        {
+          "word": "relax",
+          "pos": "v.",
+          "zh": "放鬆、休息",
+          "example": "After the exam, I relaxed by listening to music."
+        },
+        {
+          "word": "carving",
+          "pos": "n.",
+          "zh": "雕刻品、雕刻圖案",
+          "example": "There is a carving of a dragon on the old door."
+        },
+        {
+          "word": "explore",
+          "pos": "v.",
+          "zh": "探索、探訪",
+          "example": "We explored the night market for two hours."
+        },
+        {
+          "word": "destination",
+          "pos": "n.",
+          "zh": "目的地；值得一遊的地方",
+          "example": "Hualien is a popular destination for students in summer."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g11-live-u08-r1",
+      "skill": "reading",
+      "title": "Reading 1 · Bath: A City Full of History",
+      "passage_id": "g11-live-u08-p1",
+      "question_ids": [
+        "g11-live-u08-q01",
+        "g11-live-u08-q02",
+        "g11-live-u08-q03",
+        "g11-live-u08-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g11-live-u08-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Travel Words",
+      "question_ids": [
+        "g11-live-u08-q11",
+        "g11-live-u08-q12",
+        "g11-live-u08-q13",
+        "g11-live-u08-q14",
+        "g11-live-u08-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g11-live-u08-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · at one's best & no wonder",
+      "question_ids": [
+        "g11-live-u08-q21",
+        "g11-live-u08-q22",
+        "g11-live-u08-q23"
+      ],
+      "estimated_minutes": 7
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-live-u08-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Why the Romans left Britain",
+          "feedback": "The Romans are only in paragraph 2, and the text never says they left. Look at the whole passage."
+        },
+        {
+          "key": "B",
+          "text": "What makes Bath a special place to visit",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "How to swim in natural hot springs",
+          "feedback": "The passage says you cannot swim in the Roman Baths today. Think bigger: what is every paragraph about?"
+        },
+        {
+          "key": "D",
+          "text": "The life story of Jane Austen",
+          "feedback": "Jane Austen is only one small part of paragraph 3. The main idea must cover all four paragraphs."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Every paragraph shows a different reason to visit Bath: Roman baths, the abbey, grand streets, famous writers. So the passage is about what makes Bath special (B). 主旨要涵蓋全文：每段都在介紹巴斯值得一遊的地方。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the first sentence of each paragraph. What place do they all talk about?",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Look at the last sentence: Bath shows Britain \"at its best\".",
+          "action": "highlight-words",
+          "words": [
+            "Britain at its best",
+            "favorite destination"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option A is not in the passage. The Romans built Bath; the text never says why they left.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "The whole text tells us why Bath is a great place to visit. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u08-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-travel"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "According to paragraph 1, why is Bath protected as a UNESCO World Heritage Site?",
+      "stem_support": "Why is Bath a UNESCO World Heritage Site?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because it is the capital city of England",
+          "feedback": "The passage never says Bath is a capital. Look for the words \"Because of\" in paragraph 1."
+        },
+        {
+          "key": "B",
+          "text": "Because Jane Austen was born there",
+          "feedback": "Jane Austen lived in Bath, but paragraph 1 gives a different reason. Read the sentence with \"UNESCO\"."
+        },
+        {
+          "key": "C",
+          "text": "Because of its famous ancient baths and historic buildings",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "Because it has the largest swimming pool in Europe",
+          "feedback": "Size and swimming are not the reason. Find what \"these famous landmarks\" means."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 1 says the city is protected \"because of these famous landmarks\" — its ancient baths and historic buildings (C). 細節題：找出 because of 後面的原因。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 1. Find the words \"UNESCO World Heritage Site\".",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"Because of these famous landmarks\". What are \"these\" landmarks?",
+          "action": "highlight-words",
+          "words": [
+            "Because of these famous landmarks",
+            "ancient baths and historic buildings"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Options A and D are not in paragraph 1 at all.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A",
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "\"These famous landmarks\" = the ancient baths and historic buildings in the sentence before. Answer: C.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-travel"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "What can we infer about the Roman Baths today?",
+      "stem_support": "What are the Roman Baths like now?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They are mainly a place to learn about history, not to swim.",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "Tourists swim in the large pool every day.",
+          "feedback": "Read again: visitors \"cannot swim there today\". This option says the opposite."
+        },
+        {
+          "key": "C",
+          "text": "The hot water now comes from a machine.",
+          "feedback": "The passage says the water comes from deep underground. Nothing is said about a machine."
+        },
+        {
+          "key": "D",
+          "text": "They were built at the same time as the Georgian houses.",
+          "feedback": "The Romans built the baths, long before the Georgian buildings. Check paragraph 2 again."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The text says visitors cannot swim there, but they can learn how important the baths were in Roman Britain. So today the baths are mainly a place to learn history (A). 推論題：不能游泳＋可以了解歷史 → 現在主要是參觀、學習歷史的地方。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at paragraph 2. What can visitors do there, and what can't they do?",
+          "action": "highlight-paragraph",
+          "paragraph": 1
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"cannot swim there today\" and \"daily life in Roman Britain\".",
+          "action": "highlight-words",
+          "words": [
+            "cannot swim there today",
+            "Roman Britain"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option B is the opposite of the text: visitors cannot swim.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "No swimming + learning about the past = a place for history. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u08-q03v",
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-travel"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q04",
+      "skill": "reading",
+      "sub_skill": "cause-effect",
+      "type": "single-choice",
+      "stem": "Why does the city of Bath look warm and golden?",
+      "stem_support": "Why does Bath look golden?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because the sun shines there all year",
+          "feedback": "The weather is never mentioned. Look for what the buildings are made from."
+        },
+        {
+          "key": "B",
+          "text": "Because people paint their houses gold every year",
+          "feedback": "There is no paint in the text. What material are the houses made from?"
+        },
+        {
+          "key": "C",
+          "text": "Because the hot springs turn the stones yellow",
+          "feedback": "The hot springs are in paragraph 2, and they do not change the stone color. Read paragraph 3."
+        },
+        {
+          "key": "D",
+          "text": "Because its buildings are made from a local yellow stone",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paragraph 3: the buildings are made from a local yellow stone, which gives the city a warm, golden color (D). 因果題：找 which gives / so 這類表示結果的字。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 3. Find the sentence about the color of the city.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"made from a local yellow stone\".",
+          "action": "highlight-words",
+          "words": [
+            "made from a local yellow stone",
+            "warm",
+            "golden"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Options A and B are not in the passage.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Yellow stone → warm, golden city. The cause is the stone, so the answer is D.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-travel"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The old castle is a ___ building; kings lived there about 600 years ago.",
+      "options": [
+        {
+          "key": "A",
+          "text": "historic",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "modern",
+          "feedback": "Modern means \"new, from today\". Is a building from 600 years ago new?"
+        },
+        {
+          "key": "C",
+          "text": "curious",
+          "feedback": "Curious means \"wanting to know things\". It describes people, not buildings."
+        }
+      ],
+      "answer": "A",
+      "explanation": "historic = important in history, very old and famous（具有歷史意義的）. Kings lived there long ago, so it is a historic building.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the part after \";\". When did kings live there?",
+          "action": "highlight-words",
+          "words": [
+            "600 years ago"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word that means \"old and important in history\"（歷史悠久的）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option B means \"new\", so it does not fit \"600 years ago\".",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: historic. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u08-q11v",
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q12",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "My little cat is very ___. She wants to look inside every box and bag in the house.",
+      "options": [
+        {
+          "key": "A",
+          "text": "relaxed",
+          "feedback": "Relaxed means calm and resting. A relaxed cat would sleep, not check every box."
+        },
+        {
+          "key": "B",
+          "text": "curious",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "historic",
+          "feedback": "Historic is for old, important places, like castles. It doesn't describe a cat."
+        }
+      ],
+      "answer": "B",
+      "explanation": "curious = wanting to know or see new things（好奇的）. A cat that looks inside every box is curious.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What does the cat do? Read the second sentence.",
+          "action": "highlight-words",
+          "words": [
+            "look inside every box"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Find a word that means \"wanting to know or see things\".",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C describes places or things, not a cat's personality.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: curious. Example: Curious visitors like to explore new places.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q13",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "Taipei 101 is a famous l________ in Taiwan; almost everyone knows what it looks like.",
+      "answer": [
+        "landmark",
+        "landmarks"
+      ],
+      "explanation": "landmark = a famous building or place that is easy to see and recognize（地標）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The word starts with \"l\". What do we call a building that everyone knows?",
+          "action": "highlight-words",
+          "words": [
+            "famous",
+            "everyone knows what it looks like"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "It is made of two words: land + ___ (a sign).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Example: The Eiffel Tower is the most famous l_ _ _ _ _ _ _ in Paris.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: landmark（地標）.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q14",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "We had a free afternoon, so we decided to ___ the old town on foot.",
+      "options": [
+        {
+          "key": "A",
+          "text": "relax",
+          "feedback": "We relax IN a place, not \"relax the town\". Which verb can be followed directly by a place?"
+        },
+        {
+          "key": "B",
+          "text": "trace",
+          "feedback": "Trace usually goes with a path or footsteps, e.g. trace someone's footsteps. Try another verb."
+        },
+        {
+          "key": "C",
+          "text": "explore",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "explore = travel around a place to learn about it（探索、探訪）. explore + a place: explore the old town / explore the island.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at what comes after the blank: \"the old town on foot\".",
+          "action": "highlight-words",
+          "words": [
+            "the old town on foot"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a verb that can take a place as its object: ___ the old town.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Relax\" does not take a place as an object; we say \"relax in the old town\".",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: explore. explore a city on foot = walk around a city to see it.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q15",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "fill-blank",
+      "stem": "Mia wanted to t____ her grandfather's footsteps, so she visited every town he had lived in.",
+      "answer": [
+        "trace"
+      ],
+      "explanation": "trace sb's footsteps = follow the path someone took in the past（循著某人的足跡）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The word starts with \"t\" and goes with \"footsteps\".",
+          "action": "highlight-words",
+          "words": [
+            "footsteps"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "It means \"follow the path of someone in the past\".",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "It has 5 letters: t _ _ _ e.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: trace. trace sb's footsteps 循著某人的足跡.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q21",
+      "skill": "grammar",
+      "sub_skill": "at-ones-best",
+      "type": "single-choice",
+      "stem": "I am always ___ in the morning, so I do my hardest homework before breakfast.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at my best",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "at best",
+          "feedback": "\"At best\" means \"even in the best case, only...\"（充其量）. It doesn't mean \"in my best condition\"."
+        },
+        {
+          "key": "C",
+          "text": "at her best",
+          "feedback": "The subject is \"I\", so we need \"my\", not \"her\"."
+        }
+      ],
+      "answer": "A",
+      "explanation": "at one's best = in the best condition（處於最佳狀態）; one's changes with the subject: I → at my best. at best 是「充其量、最多」，意思不同。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Who is the subject of the sentence?",
+          "action": "highlight-words",
+          "words": [
+            "I am always"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "at one's best: one's must match the subject. I → my, she → her, it → its.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C uses \"her\", but the subject is \"I\".",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: at my best = 我（早上）狀態最好.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q22",
+      "skill": "grammar",
+      "sub_skill": "no-wonder",
+      "type": "single-choice",
+      "stem": "Leo practiced English for 30 minutes every day for a whole year. ___ he passed the test so easily.",
+      "options": [
+        {
+          "key": "A",
+          "text": "At best",
+          "feedback": "At best means 充其量. Leo did well, so this doesn't fit."
+        },
+        {
+          "key": "B",
+          "text": "No wonder",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Thanks to",
+          "feedback": "Thanks to + noun (e.g. thanks to his hard work). Here a full sentence follows, so it doesn't work."
+        }
+      ],
+      "answer": "B",
+      "explanation": "No wonder + S. + V. = 難怪…… (It is no wonder that ... 的省略). The first sentence gives the reason, so the result is not surprising.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The first sentence gives a reason. Is the result in the second sentence surprising?",
+          "action": "highlight-words",
+          "words": [
+            "every day for a whole year"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a phrase that means 難怪 and can be followed by a full sentence (S. + V.).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Thanks to\" must be followed by a noun, not by \"he passed\".",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: No wonder. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u08-q22v",
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u08-q23",
+      "skill": "grammar",
+      "sub_skill": "at-ones-best",
+      "type": "single-choice",
+      "stem": "The bus is very slow today. ___, we will get to school at 8:10, so we will be late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "No wonder",
+          "feedback": "No wonder explains a result that is not surprising. Here we need \"even in the best case\"."
+        },
+        {
+          "key": "B",
+          "text": "At our best",
+          "feedback": "At our best means \"in our best condition\". We are talking about time, not how well we feel."
+        },
+        {
+          "key": "C",
+          "text": "At best",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "at best = 充其量、最理想也只是…… It shows the best result is still not good (we will still be late). at one's best 指「處於最佳狀態」，不能這樣用。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the end: \"so we will be late\". Is this good news or bad news?",
+          "action": "highlight-words",
+          "words": [
+            "we will be late"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a phrase meaning \"even in the best case\"（充其量）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"No wonder\" needs a full sentence and means 難怪; it does not fit with a comma here.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: At best = 最快也要 8:10 才到.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-live-u08-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Swimming Tips for Hot Springs"
+        },
+        {
+          "key": "B",
+          "text": "Bath: History, Beauty, and Books in One City"
+        },
+        {
+          "key": "C",
+          "text": "The Life of Mary Shelley"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The passage introduces many reasons to visit Bath, so B covers the whole text."
+    },
+    {
+      "question_id": "g11-live-u08-q03v",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Why is Bath good for travelers who have only a day or two?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Its main sights are close together, so they are easy to reach on foot."
+        },
+        {
+          "key": "B",
+          "text": "It has no interesting places, so you finish quickly."
+        },
+        {
+          "key": "C",
+          "text": "All the sights are open only one day a week."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 1: the main sights are close together, so you can walk to them quickly."
+    },
+    {
+      "question_id": "g11-live-u08-q11v",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "This ___ temple is over 300 years old, and many important events happened there.",
+      "options": [
+        {
+          "key": "A",
+          "text": "curious"
+        },
+        {
+          "key": "B",
+          "text": "relaxed"
+        },
+        {
+          "key": "C",
+          "text": "historic"
+        }
+      ],
+      "answer": "C",
+      "explanation": "historic = old and important in history."
+    },
+    {
+      "question_id": "g11-live-u08-q22v",
+      "skill": "grammar",
+      "sub_skill": "no-wonder",
+      "type": "single-choice",
+      "stem": "Kevin bought his concert ticket two months early. ___ he got a seat in the front row.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It's no wonder that"
+        },
+        {
+          "key": "B",
+          "text": "It's at best that"
+        },
+        {
+          "key": "C",
+          "text": "Thanks to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The early purchase explains the good seat → It's no wonder (that) ..."
+    }
+  ]
+}

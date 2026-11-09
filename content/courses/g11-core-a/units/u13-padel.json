@@ -1,0 +1,1127 @@
+{
+  "unit": {
+    "unit_id": "g11-live-u13",
+    "order": 13,
+    "title": "Understanding Padel: A Fast-Growing Global Sport",
+    "title_zh": "認識配鬪球：快速崛起的全球運動",
+    "topic": "sports",
+    "grade": [
+      11
+    ],
+    "objectives": [
+      "I can explain how padel is different from tennis using details from a text.",
+      "I can say and write fractions in English (one-third, two-fifths).",
+      "I can use \"be scheduled to / be set to / be ready to\" + V."
+    ],
+    "estimated_minutes": 35,
+    "tags": [
+      "#live-2026-08"
+    ],
+    "source": "Live 互動英語 2026年8月號 p.54"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-live-u13-p1",
+      "title": "Padel: A Fast-Growing Sport",
+      "topic": "sports",
+      "abstraction": "concrete",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 990,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "At first, padel may look a lot like tennis, but it is played on a smaller court surrounded by glass walls. The ball can bounce off these walls and still stay in play, which keeps the game fast and exciting. Today, this fun sport is spreading quickly around the world.",
+            "Padel was invented in Mexico in 1969 by a man named Enrique Corcuera. He wanted to play tennis at home, but he did not have enough space. So he built a smaller court with walls around it, and a brand-new sport was born. The game later spread to Spain and Argentina, where it became very popular.",
+            "Padel and tennis seem similar, but there are clear differences. A padel court is only about one-third the size of a tennis court. Padel rackets are solid with small holes, while tennis rackets have strings. Tennis players usually serve over their heads, but padel players must serve below the waist. However, the two sports keep score in the same way.",
+            "Why is padel growing so fast? First, it is easy to pick up, and many beginners enjoy a match after just one lesson. Matches are also shorter than tennis matches, so they fit into busy schedules, and the game is a great workout. Millions of people now play on more than 77,000 courts worldwide, and Spain alone has more padel courts than tennis courts. Padel was scheduled to be played as a medal sport at the 2026 Asian Games for the first time, and fans hope to see it at the 2032 Olympics. Closer to home, Taiwan opened its first padel club in 2025. With simple rules and great fitness benefits, padel is set to become one of the world's most popular sports."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 830,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Padel looks a lot like tennis. But the court is smaller and has glass walls. The ball can bounce off the walls and stay in play. This fun sport is spreading quickly around the world.",
+            "Padel was invented in Mexico in 1969 by Enrique Corcuera. He wanted to play tennis at home, but he did not have enough space. So he built a smaller court with walls. Later, the game became very popular in Spain and Argentina.",
+            "Padel and tennis are different in some ways. A padel court is about one-third the size of a tennis court. Padel rackets are solid with small holes, while tennis rackets have strings. In padel, players must serve below the waist. But the two sports keep score in the same way.",
+            "Why is padel growing so fast? It is easy to pick up. Many beginners enjoy a match after just one lesson. Matches are shorter than tennis matches, so they fit into busy schedules. It is also a great workout. There are more than 77,000 courts worldwide. Padel was scheduled to be played as a medal sport at the 2026 Asian Games for the first time. Taiwan opened its first padel club in 2025. Padel is set to become one of the world's most popular sports."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "invent",
+          "pos": "v.",
+          "zh": "發明",
+          "example": "Who invented the first bicycle?"
+        },
+        {
+          "word": "solid",
+          "pos": "adj.",
+          "zh": "實心的；堅固的",
+          "example": "This ball is solid, so it is quite heavy."
+        },
+        {
+          "word": "waist",
+          "pos": "n.",
+          "zh": "腰部",
+          "example": "The water in the pool came up to my waist."
+        },
+        {
+          "word": "schedule",
+          "pos": "n.",
+          "zh": "行程表；日程安排",
+          "example": "My schedule is very busy before the exam."
+        },
+        {
+          "word": "benefit",
+          "pos": "n.",
+          "zh": "好處；益處",
+          "example": "One benefit of riding a bike is saving money."
+        },
+        {
+          "word": "medal",
+          "pos": "n.",
+          "zh": "獎牌",
+          "example": "Our team won three medals at the sports meet."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g11-live-u13-r1",
+      "skill": "reading",
+      "title": "Reading 1 · Padel: A Fast-Growing Sport",
+      "passage_id": "g11-live-u13-p1",
+      "question_ids": [
+        "g11-live-u13-q01",
+        "g11-live-u13-q02",
+        "g11-live-u13-q03",
+        "g11-live-u13-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g11-live-u13-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Sports Words",
+      "question_ids": [
+        "g11-live-u13-q11",
+        "g11-live-u13-q12",
+        "g11-live-u13-q13",
+        "g11-live-u13-q14",
+        "g11-live-u13-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g11-live-u13-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · Fractions & be scheduled to / be set to",
+      "question_ids": [
+        "g11-live-u13-q21",
+        "g11-live-u13-q22",
+        "g11-live-u13-q23",
+        "g11-live-u13-q24",
+        "g11-live-u13-q25",
+        "g11-live-u13-q26"
+      ],
+      "estimated_minutes": 10
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-live-u13-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to become a tennis star",
+          "feedback": "Tennis is only used for comparison. Which sport is the passage really about?"
+        },
+        {
+          "key": "B",
+          "text": "The life of Enrique Corcuera",
+          "feedback": "He is only in paragraph 2. The main idea must cover all four paragraphs."
+        },
+        {
+          "key": "C",
+          "text": "The history of the Asian Games",
+          "feedback": "The Asian Games are mentioned in one sentence. Think about the whole text."
+        },
+        {
+          "key": "D",
+          "text": "What padel is, how it began, and why it is becoming popular",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "The passage explains what padel is (P1), how it began (P2), how it differs from tennis (P3), and why it is growing (P4). D covers all of these. 主旨題：選能涵蓋四段的選項。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the first sentence of each paragraph. What sport are they all about?",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"was invented\", \"differences\"/\"different\", \"growing so fast\".",
+          "action": "highlight-words",
+          "words": [
+            "was invented in Mexico",
+            "Why is padel growing so fast?"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option A is only about tennis; the passage is about padel.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "What padel is + how it started + why it is popular = D. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u13-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-sports"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "Why did Enrique Corcuera build a smaller court?",
+      "stem_support": "Why did he make a small court?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He wanted to make tennis more difficult.",
+          "feedback": "The text doesn't say he wanted a harder game. Read the sentence with \"but\" in paragraph 2."
+        },
+        {
+          "key": "B",
+          "text": "He did not have enough space at home for tennis.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "The government of Spain asked him to.",
+          "feedback": "Spain is where the game spread later. Why did he build it in the first place?"
+        },
+        {
+          "key": "D",
+          "text": "He wanted to sell glass walls.",
+          "feedback": "Selling things is not mentioned. Look for \"enough space\"."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 2: he wanted to play tennis at home, but he did not have enough space (B).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 2. Find the name Enrique Corcuera.",
+          "action": "highlight-paragraph",
+          "paragraph": 1
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"wanted to play tennis at home\" and \"did not have enough space\".",
+          "action": "highlight-words",
+          "words": [
+            "wanted to play tennis at home",
+            "did not have enough space"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Options C and D are not in the passage.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C",
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "No space at home → a smaller court. Answer: B.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-sports"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Based on paragraph 4, who would most likely enjoy trying padel?",
+      "stem_support": "Who would like padel?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A busy student who has never played a racket sport",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "Someone who wants a sport with no exercise at all",
+          "feedback": "The passage says padel is a great workout. This person wouldn't like that."
+        },
+        {
+          "key": "C",
+          "text": "Someone who only wants to play on a very large court",
+          "feedback": "A padel court is small — about one-third of a tennis court."
+        },
+        {
+          "key": "D",
+          "text": "Someone who wants every match to last five hours",
+          "feedback": "Padel matches are shorter than tennis matches. Read paragraph 4 again."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Padel is easy to pick up, beginners can enjoy a match after one lesson, and matches are short enough for busy schedules. So a busy beginner (A) would enjoy it. 推論題：把文中的特色（易學、時間短）和人物需求配對。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at paragraph 4. What makes padel easy for new players?",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"easy to pick up\", \"after just one lesson\", \"busy schedules\".",
+          "action": "highlight-words",
+          "words": [
+            "easy to pick up",
+            "after just one lesson",
+            "busy schedules"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is the opposite: padel matches are short.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Easy + short = good for a busy beginner. Answer: A.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 3,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-sports"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q04",
+      "skill": "reading",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "In paragraph 4, padel is \"easy to pick up.\" What does \"pick up\" mean here?",
+      "stem_support": "\"Easy to pick up\" means easy to ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "lift from the floor",
+          "feedback": "That is one meaning of pick up, but here we are talking about a sport. What do beginners do in one lesson?"
+        },
+        {
+          "key": "B",
+          "text": "buy in a store",
+          "feedback": "Shopping is not mentioned. Look at the next sentence about beginners."
+        },
+        {
+          "key": "C",
+          "text": "learn",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "clean after a game",
+          "feedback": "Cleaning is not in the text. What can beginners do after one lesson?"
+        }
+      ],
+      "answer": "C",
+      "explanation": "pick up a skill/language = learn it（學會）. The next sentence proves it: beginners can enjoy a match after just one lesson. 字義題：用上下文判斷片語在這裡的意思。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the sentence right after \"easy to pick up\".",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"beginners\" and \"after just one lesson\".",
+          "action": "highlight-words",
+          "words": [
+            "easy to pick up",
+            "after just one lesson"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option A is the normal meaning (拿起), but the sentence is about a sport, not an object.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "pick up here = learn quickly. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u13-q04v",
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-sports"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The runner won a gold ___ at the school sports day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "medal",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "waist",
+          "feedback": "Your waist is the middle part of your body. What can a runner win?"
+        },
+        {
+          "key": "C",
+          "text": "schedule",
+          "feedback": "A schedule is a plan of times. You can't win a gold schedule."
+        }
+      ],
+      "answer": "A",
+      "explanation": "medal = a round piece of metal given to winners（獎牌）. gold / silver / bronze medal.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What do winners get at a sports day?",
+          "action": "highlight-words",
+          "words": [
+            "won a gold"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a noun: something gold that a winner wears.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Waist\" is a part of the body. You can't win it!",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: medal. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u13-q11v",
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q12",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The Wright brothers ___ the first successful airplane in 1903.",
+      "options": [
+        {
+          "key": "A",
+          "text": "bounced",
+          "feedback": "Bounce means a ball hits something and comes back. Which verb means making something new?"
+        },
+        {
+          "key": "B",
+          "text": "scored",
+          "feedback": "Score means to get points in a game. Did they get points for an airplane?"
+        },
+        {
+          "key": "C",
+          "text": "invented",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "invent = create something completely new（發明）. Padel was invented in Mexico in 1969.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The airplane was \"the first\". What do we call making something for the first time?",
+          "action": "highlight-words",
+          "words": [
+            "the first successful airplane"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a verb meaning 發明.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Bounced\" is what a ball does. It doesn't fit.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: invented.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q13",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "Regular exercise has many health b_______, such as better sleep and a stronger heart.",
+      "answer": [
+        "benefits"
+      ],
+      "explanation": "benefit = a good thing you get from something（好處）. \"many\" needs the plural: benefits.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The examples are \"better sleep\" and \"a stronger heart\". Are they good or bad?",
+          "action": "highlight-words",
+          "words": [
+            "better sleep and a stronger heart"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning 好處. \"Many\" → plural -s.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "b e n e f i _ _",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: benefits. Padel has great fitness benefits.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q14",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "This new video game is ___ a lot of attention; everyone at school is talking about it.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inventing",
+          "feedback": "We invent machines or games, not attention. Which verb means \"getting\"?"
+        },
+        {
+          "key": "B",
+          "text": "gaining",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "bouncing",
+          "feedback": "Bounce is for balls. Which verb goes with \"attention\"?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "gain attention = get more and more interest from people（引起注意）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the second part: everyone is talking about it.",
+          "action": "highlight-words",
+          "words": [
+            "a lot of attention"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Which verb goes with \"attention\" and means \"get\"?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Inventing attention\" is not English.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: gaining. gain attention / gain popularity.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q15",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "My s_ _ _ _ _ _ _ (8 letters) is full this week: I have a test on Monday and basketball practice on Tuesday and Thursday.",
+      "answer": [
+        "schedule"
+      ],
+      "explanation": "schedule = a plan of what you will do and when（行程表、日程安排）. Pay attention to the spelling: s-c-h-e-d-u-l-e.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The sentence lists what you do on different days. What do we call that plan?",
+          "action": "highlight-words",
+          "words": [
+            "is full this week"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "It starts with \"sch-\", like school.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "s c h e _ _ _ e",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: schedule. Short padel matches fit into busy schedules.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q21",
+      "skill": "grammar",
+      "sub_skill": "fractions",
+      "type": "single-choice",
+      "stem": "How do you say 1/3 in English?",
+      "options": [
+        {
+          "key": "A",
+          "text": "one-third",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "one-three",
+          "feedback": "The bottom number must be an ordinal number (third, fourth...), not three."
+        },
+        {
+          "key": "C",
+          "text": "first-three",
+          "feedback": "The top number uses a normal number (one), and the bottom uses an ordinal (third)."
+        }
+      ],
+      "answer": "A",
+      "explanation": "分數：分子用基數 (one, two...)，分母用序數 (third, fourth...). 1/3 = one-third (also: a third).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The top number (分子) is 1; the bottom number (分母) is 3.",
+          "action": "highlight-words",
+          "words": [
+            "1/3"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Top = cardinal number (one). Bottom = ordinal number (third).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option B uses \"three\" for the bottom; it should be an ordinal number.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: one-third.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q22",
+      "skill": "grammar",
+      "sub_skill": "fractions",
+      "type": "fill-blank",
+      "stem": "Write 2/5 in English words: ___",
+      "answer": [
+        "two-fifths",
+        "two fifths"
+      ],
+      "explanation": "分子 two（基數）＋分母 fifth（序數）；分子大於 1 時，分母加 s → two-fifths.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Top number: 2. Bottom number: 5.",
+          "action": "highlight-words",
+          "words": [
+            "2/5"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Top = two. Bottom = the ordinal of five (fifth).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "When the top number is more than 1, add -s to the bottom: fifth → ______.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: two-fifths. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u13-q22v",
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q23",
+      "skill": "grammar",
+      "sub_skill": "be-scheduled-to",
+      "type": "single-choice",
+      "stem": "The concert is ___ to start at 7 p.m., so please don't be late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "schedule",
+          "feedback": "After \"is\" we need the past participle in this pattern: be ___ed to V."
+        },
+        {
+          "key": "B",
+          "text": "scheduled",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "scheduling",
+          "feedback": "\"Is scheduling to start\" is not correct. The pattern is be scheduled to V."
+        }
+      ],
+      "answer": "B",
+      "explanation": "be scheduled to V. = 預定要…… (scheduled is a past participle here). Similar: be set to V. 即將要…… / be ready to V. 準備好要…….",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at \"is ___ to start\". The pattern is be + ___ + to V.",
+          "action": "highlight-words",
+          "words": [
+            "is ___ to start"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: be scheduled to V. = 預定要……",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "After \"is\", the base form \"schedule\" doesn't work.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: scheduled. The concert is scheduled to start at 7 p.m.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q24",
+      "skill": "grammar",
+      "sub_skill": "fractions",
+      "type": "single-choice",
+      "stem": "Two-thirds of the students in my class ___ padel.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has tried",
+          "feedback": "\"Has\" is for singular nouns. Look at the noun after \"of\": students."
+        },
+        {
+          "key": "B",
+          "text": "trying",
+          "feedback": "A sentence needs a full verb. \"Trying\" alone is not enough."
+        },
+        {
+          "key": "C",
+          "text": "have tried",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "分數 + of + N.：動詞跟著 of 後面的名詞。students 是複數 → have tried. (Compare: Two-thirds of the cake was eaten. cake 不可數 → 單數動詞.)",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the noun after \"of\": is it singular or plural?",
+          "action": "highlight-words",
+          "words": [
+            "of the students"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Rule: fraction + of + noun → the verb agrees with that noun.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option B is not a full verb; a sentence needs has/have + p.p.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: have tried (students = plural).",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q25",
+      "skill": "grammar",
+      "sub_skill": "be-ready-to",
+      "type": "fill-blank",
+      "stem": "Our bags are packed and the taxi is outside. We are ready ___ leave for the airport.",
+      "answer": [
+        "to"
+      ],
+      "explanation": "be ready to V. = 準備好要…… (ready + to + base verb).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the words around the blank: \"ready ___ leave\".",
+          "action": "highlight-words",
+          "words": [
+            "ready ___ leave"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: be ready + ___ + V.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "It is the same small word as in \"be set to\" and \"be scheduled to\".",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: to. We are ready to leave.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u13-q26",
+      "skill": "grammar",
+      "sub_skill": "be-set-to",
+      "type": "single-choice",
+      "stem": "The new sports center is ___ to open next month; the workers are almost finished.",
+      "options": [
+        {
+          "key": "A",
+          "text": "set",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "setting",
+          "feedback": "The pattern is be + past participle + to V. Is \"setting\" a past participle?"
+        },
+        {
+          "key": "C",
+          "text": "setted",
+          "feedback": "Set is irregular: set-set-set. There is no \"setted\"."
+        }
+      ],
+      "answer": "A",
+      "explanation": "be set to V. = 預定要……；即將要……. set 的三態同形 (set-set-set)，這裡是過去分詞，所以不加 -ed 也不用 -ing。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at \"is ___ to open\". Which pattern is this?",
+          "action": "highlight-words",
+          "words": [
+            "is ___ to open"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: be set to V. = 即將要…… The p.p. of set is set.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Setting\" makes it -ing, but the pattern needs the past participle.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: set. The center is set to open next month.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-live-u13-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tennis Rules for Beginners"
+        },
+        {
+          "key": "B",
+          "text": "Padel: A New Sport That Is Spreading Fast"
+        },
+        {
+          "key": "C",
+          "text": "Travel Tips for Mexico"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The passage introduces padel and explains why it is growing fast."
+    },
+    {
+      "question_id": "g11-live-u13-q04v",
+      "skill": "reading",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "\"My little sister picked up some Japanese while she lived in Tokyo.\" Here \"picked up\" means ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "learned"
+        },
+        {
+          "key": "B",
+          "text": "lifted"
+        },
+        {
+          "key": "C",
+          "text": "forgot"
+        }
+      ],
+      "answer": "A",
+      "explanation": "pick up a language = learn it without much effort."
+    },
+    {
+      "question_id": "g11-live-u13-q11v",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "She came in second and got a silver ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "benefit"
+        },
+        {
+          "key": "B",
+          "text": "match"
+        },
+        {
+          "key": "C",
+          "text": "medal"
+        }
+      ],
+      "answer": "C",
+      "explanation": "medal = a prize for winners."
+    },
+    {
+      "question_id": "g11-live-u13-q22v",
+      "skill": "grammar",
+      "sub_skill": "fractions",
+      "type": "fill-blank",
+      "stem": "Write 3/4 in English words: ___",
+      "answer": [
+        "three-fourths",
+        "three fourths",
+        "three-quarters",
+        "three quarters"
+      ],
+      "explanation": "three + fourths (3 > 1, so add -s). three-quarters is also correct."
+    }
+  ]
+}

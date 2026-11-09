@@ -1,0 +1,1088 @@
+{
+  "unit": {
+    "unit_id": "g11-live-u11",
+    "order": 11,
+    "title": "Sea Otters and River Otters: Same Family, Different Lives",
+    "title_zh": "海獺與水獺：同科，生活大不同",
+    "topic": "animals",
+    "grade": [
+      11
+    ],
+    "objectives": [
+      "I can compare two animals using details from a text.",
+      "I can tell the two meanings of \"while\" (contrast vs. time).",
+      "I can use \"look\" as a linking verb: look + adj. / look like + N."
+    ],
+    "estimated_minutes": 35,
+    "tags": [
+      "#live-2026-08"
+    ],
+    "source": "Live 互動英語 2026年8月號 p.46"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-live-u11-p1",
+      "title": "Two Kinds of Otters",
+      "topic": "animals",
+      "abstraction": "concrete",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 980,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Videos of otters eating, playing, or sleeping are hugely popular online, and it is easy to see why. But not all otters are the same. Sea otters and river otters are both part of the weasel family, yet they live in different places, look different, and behave in different ways.",
+            "Sea otters make their home in the North Pacific Ocean, along the coasts from Russia to California. They spend almost their whole lives in the sea and rarely come onto land. River otters, on the other hand, live in freshwater rivers, lakes, and wetlands around the world, and they often move between water and land. Sea otters are also considerably bigger and heavier. Their tails are short and flat, while river otters have long, pointed tails. In addition, sea otters have the thickest fur of any animal, which keeps them warm in the cold ocean.",
+            "Their diets are different, too. Sea otters love crabs and clams, and they are one of the few animals that use tools: they use rocks to break open shells. River otters prefer fish, frogs, and crayfish, which they catch by diving underwater. They can hold their breath for up to eight minutes.",
+            "Even their playtime and bedtime look different. River otters slide down muddy hills on their bellies just for fun, and scientists think this helps them practice skills and save energy while they travel. Sea otters sleep floating on their backs. Sometimes they hold each other's paws so that they don't move apart, and they hold onto kelp to stay in one place. Although the two kinds of otters lead very different lives, both are smart, playful animals that are well suited to their homes. You can even see river otters in Kinmen, where more than 60 of them live."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 820,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Many people love videos of otters eating, playing, or sleeping. But there is more than one kind of otter. Sea otters and river otters are both part of the weasel family. But they live in different places, look different, and act differently.",
+            "Sea otters live in the North Pacific Ocean, from Russia to California. They rarely come onto land. River otters, on the other hand, live in freshwater rivers, lakes, and wetlands around the world. They often move between water and land. Sea otters are bigger and heavier. Their tails are short and flat, while river otters have long, pointed tails. Sea otters have the thickest fur of any animal. It keeps them warm in the cold ocean.",
+            "They eat different foods. Sea otters love crabs and clams. They use rocks to break open shells. River otters prefer fish, frogs, and crayfish. They dive underwater to catch them. They can hold their breath for up to eight minutes.",
+            "They also play and sleep differently. River otters slide down muddy hills on their bellies just for fun. Sea otters sleep floating on their backs. Sometimes they hold each other's paws so that they don't move apart. Both kinds of otters are smart and playful, and both are well suited to their homes. More than 60 river otters live in Kinmen."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "rarely",
+          "pos": "adv.",
+          "zh": "很少地、難得地",
+          "example": "My dad rarely eats breakfast at home."
+        },
+        {
+          "word": "considerably",
+          "pos": "adv.",
+          "zh": "相當地、大大地",
+          "example": "The new road is considerably wider than the old one."
+        },
+        {
+          "word": "fur",
+          "pos": "n.",
+          "zh": "（動物的）毛",
+          "example": "My dog's fur gets very long in winter."
+        },
+        {
+          "word": "shell",
+          "pos": "n.",
+          "zh": "（貝類的）殼",
+          "example": "We picked up white shells on the beach in Penghu."
+        },
+        {
+          "word": "float",
+          "pos": "v.",
+          "zh": "漂浮",
+          "example": "The leaves floated slowly down the river."
+        },
+        {
+          "word": "playful",
+          "pos": "adj.",
+          "zh": "愛玩耍的、活潑的",
+          "example": "The playful kitten chased the ball all morning."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g11-live-u11-r1",
+      "skill": "reading",
+      "title": "Reading 1 · Two Kinds of Otters",
+      "passage_id": "g11-live-u11-p1",
+      "question_ids": [
+        "g11-live-u11-q01",
+        "g11-live-u11-q02",
+        "g11-live-u11-q03",
+        "g11-live-u11-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g11-live-u11-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Animal Words",
+      "question_ids": [
+        "g11-live-u11-q11",
+        "g11-live-u11-q12",
+        "g11-live-u11-q13",
+        "g11-live-u11-q14",
+        "g11-live-u11-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g11-live-u11-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · while & look",
+      "question_ids": [
+        "g11-live-u11-q21",
+        "g11-live-u11-q22",
+        "g11-live-u11-q23",
+        "g11-live-u11-q24",
+        "g11-live-u11-q25"
+      ],
+      "estimated_minutes": 9
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-live-u11-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Why otter videos are popular online",
+          "feedback": "Videos are only in the first sentence. What do the other paragraphs compare?"
+        },
+        {
+          "key": "B",
+          "text": "The differences between sea otters and river otters",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "How people protect otters in Kinmen",
+          "feedback": "Kinmen is in the last sentence only. The main idea must cover the whole text."
+        },
+        {
+          "key": "D",
+          "text": "How to teach otters to use tools",
+          "feedback": "The passage says sea otters use rocks, but nobody teaches them. Look at the whole passage."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Each paragraph compares the two otters: where they live, how they look, what they eat, and how they play and sleep (B). 主旨題：整篇都在「比較」兩種水獺。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the first paragraph. Which two animals does it introduce?",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"on the other hand\" and \"while river otters\" show that two animals are being compared.",
+          "action": "highlight-words",
+          "words": [
+            "weasel family",
+            "on the other hand",
+            "while river otters"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is not in the passage — nobody teaches otters anything.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Sea otters vs. river otters in every paragraph = differences between them. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u11-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-animals"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "Which sentence about sea otters is TRUE?",
+      "stem_support": "What is true about sea otters?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They have long, pointed tails.",
+          "feedback": "Long, pointed tails belong to river otters. Sea otters' tails are short and flat."
+        },
+        {
+          "key": "B",
+          "text": "They are smaller than river otters.",
+          "feedback": "The text says sea otters are bigger and heavier. Read paragraph 2 again."
+        },
+        {
+          "key": "C",
+          "text": "They rarely come onto land.",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "They live in freshwater lakes and rivers.",
+          "feedback": "That is where river otters live. Sea otters live in the North Pacific Ocean."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 2 says sea otters \"rarely come onto land\" (C). They are bigger, have short flat tails, and live in the ocean, so A, B, and D are false.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 2. Read only the sentences about SEA otters.",
+          "action": "highlight-paragraph",
+          "paragraph": 1
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"rarely come onto land\" and \"short and flat\".",
+          "action": "highlight-words",
+          "words": [
+            "rarely come onto land",
+            "short and flat"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Options A and D describe river otters, not sea otters.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A",
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "rarely = almost never. Sea otters almost never come onto land. Answer: C.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-animals"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Why do sea otters most likely need to use rocks?",
+      "stem_support": "Why do sea otters use rocks?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Their favorite foods have hard shells.",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "They cannot swim underwater.",
+          "feedback": "The passage never says this. Think about what is inside a clam shell."
+        },
+        {
+          "key": "C",
+          "text": "Rocks keep their fur warm.",
+          "feedback": "Their thick fur keeps them warm by itself. The rocks are used with food."
+        },
+        {
+          "key": "D",
+          "text": "They like to build homes with rocks.",
+          "feedback": "Homes are not mentioned. Read the sentence with \"tools\" again."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Sea otters love crabs and clams, and they use rocks to break open shells. So the rocks help them get food that is inside hard shells (A). 推論題：吃有硬殼的食物 → 需要工具敲開。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at paragraph 3. What do sea otters love to eat?",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"crabs and clams\" and \"break open shells\".",
+          "action": "highlight-words",
+          "words": [
+            "crabs and clams",
+            "break open shells"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C is about fur, not food. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Crabs and clams have hard shells → rocks break them open. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u11-q03v",
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-animals"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q04",
+      "skill": "reading",
+      "sub_skill": "cause-effect",
+      "type": "single-choice",
+      "stem": "Why do sea otters sometimes hold each other's paws?",
+      "stem_support": "Why do sea otters hold paws?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To catch fish together",
+          "feedback": "Holding paws is about sleeping, not eating. Read the words after \"so that\"."
+        },
+        {
+          "key": "B",
+          "text": "To slide down muddy hills",
+          "feedback": "River otters slide down hills. The question is about sea otters."
+        },
+        {
+          "key": "C",
+          "text": "To keep their fur dry",
+          "feedback": "Dry fur is not mentioned. Look for \"so that\" in paragraph 4."
+        },
+        {
+          "key": "D",
+          "text": "So they don't move apart while they sleep",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "\"They hold each other's paws so that they don't move apart\" (D). so that 表示目的：為了不要漂開。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 4. Find the word \"paws\".",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"so that they don't move apart\". so that = in order to.",
+          "action": "highlight-words",
+          "words": [
+            "hold each other's paws",
+            "so that they don't move apart"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option B is what river otters do, not sea otters.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "They hold paws while they sleep so they stay together. Answer: D.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-animals"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "It ___ snows in Tainan, so most people there have never seen snow.",
+      "options": [
+        {
+          "key": "A",
+          "text": "frequently",
+          "feedback": "Frequently means \"often\". If it snowed often, people would see snow."
+        },
+        {
+          "key": "B",
+          "text": "rarely",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "considerably",
+          "feedback": "Considerably means \"a lot, very much\" and is used before adjectives like bigger. It doesn't tell how often."
+        }
+      ],
+      "answer": "B",
+      "explanation": "rarely = almost never（很少、難得）. frequently = often（經常）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the second half: most people \"have never seen snow\".",
+          "action": "highlight-words",
+          "words": [
+            "have never seen snow"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning \"almost never\".",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Frequently\" means often — the opposite of what we need.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: rarely. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u11-q11v",
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q12",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "A piece of wood can ___ on water, but a stone will go straight to the bottom.",
+      "options": [
+        {
+          "key": "A",
+          "text": "float",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "shell",
+          "feedback": "Shell is a noun (殼). After \"can\" we need a verb."
+        },
+        {
+          "key": "C",
+          "text": "dive",
+          "feedback": "Dive means to go down under the water. The wood stays on top."
+        }
+      ],
+      "answer": "A",
+      "explanation": "float = stay on top of water（漂浮）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What does the stone do? It goes to the bottom. What does the wood do?",
+          "action": "highlight-words",
+          "words": [
+            "go straight to the bottom"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a verb meaning \"stay on top of water\".",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Shell\" is a noun, so it cannot follow \"can\".",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: float. Sea otters float on their backs when they sleep.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q13",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "Take a deep b_____ and hold it before you jump into the pool.",
+      "answer": [
+        "breath"
+      ],
+      "explanation": "breath (n.) 呼吸、一口氣 [brɛθ]; breathe (v.) 呼吸 [brið]. After \"a deep\" we need a noun → breath. hold your breath = 閉氣.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at \"a deep ___\". After an adjective, do we need a noun or a verb?",
+          "action": "highlight-words",
+          "words": [
+            "Take a deep"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The noun is breath; the verb is breathe (with -e).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "It has 6 letters: b r e a _ _",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: breath. River otters can hold their breath for up to eight minutes.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "My new phone is ___ thinner than my old one; you can see the difference right away.",
+      "options": [
+        {
+          "key": "A",
+          "text": "rarely",
+          "feedback": "Rarely tells how often (很少). We need a word that tells how much thinner."
+        },
+        {
+          "key": "B",
+          "text": "playful",
+          "feedback": "Playful is an adjective for animals or people who like to play. It can't go before \"thinner\"."
+        },
+        {
+          "key": "C",
+          "text": "considerably",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "considerably = a lot, very much（相當地）. It often comes before comparatives: considerably bigger / thinner / longer.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the word after the blank: \"thinner\". It is a comparative.",
+          "action": "highlight-words",
+          "words": [
+            "thinner than"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need an adverb meaning \"a lot\" that can go before a comparative.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Rarely\" is about how often, not how much.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: considerably thinner = 薄很多.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q15",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "The forest is home to many living things, from tiny insects to big bears. All these c________ need clean water.",
+      "answer": [
+        "creatures"
+      ],
+      "explanation": "creature = a living animal（生物、動物）. \"All these\" needs a plural noun → creatures.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The word starts with \"c\" and means \"living things\".",
+          "action": "highlight-words",
+          "words": [
+            "All these"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "\"All these\" + plural noun. Don't forget the -s!",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "c r e a t u r e _",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: creatures. Otters are smart, playful creatures.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q21",
+      "skill": "grammar",
+      "sub_skill": "while-conjunction",
+      "type": "single-choice",
+      "stem": "\"My brother loves cats, while I prefer dogs.\" What does \"while\" mean here?",
+      "options": [
+        {
+          "key": "A",
+          "text": "but on the other hand (whereas)",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "during the time that",
+          "feedback": "The sentence is not about two actions at the same time. It compares two likes."
+        },
+        {
+          "key": "C",
+          "text": "because",
+          "feedback": "While does not give a reason here. Look at the two different pets."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Here while shows a contrast（而、然而 = whereas）: my brother likes cats ↔ I like dogs.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Compare the two parts: \"loves cats\" and \"prefer dogs\". Are they the same or different?",
+          "action": "highlight-words",
+          "words": [
+            "loves cats",
+            "prefer dogs"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "while can mean (a) 而 = contrast, or (b) 當……的時候 = during.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Nothing here is about time, so B is out.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: A. while = whereas（而）.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q22",
+      "skill": "grammar",
+      "sub_skill": "while-conjunction",
+      "type": "single-choice",
+      "stem": "\"I cut my finger while I was cooking dinner.\" What does \"while\" mean here?",
+      "options": [
+        {
+          "key": "A",
+          "text": "whereas (to show a contrast)",
+          "feedback": "Contrast needs two opposite ideas. Here two things happen at the same time."
+        },
+        {
+          "key": "B",
+          "text": "during the time that",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "so that",
+          "feedback": "So that shows a purpose. Did I cook in order to cut my finger?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Here while = during the time that / when（在……期間）: I cut my finger at the time I was cooking. 常和進行式 was/were V-ing 連用。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at \"was cooking\". It describes an action in progress.",
+          "action": "highlight-words",
+          "words": [
+            "was cooking"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Did the two actions happen at the same time?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "There is no contrast between cutting a finger and cooking, so A is out.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: B. while = during the time that.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q23",
+      "skill": "grammar",
+      "sub_skill": "linking-verb",
+      "type": "single-choice",
+      "stem": "These cookies look ___. Can I have one?",
+      "options": [
+        {
+          "key": "A",
+          "text": "deliciously",
+          "feedback": "Words ending in -ly are usually adverbs. After the linking verb look, we use an adjective."
+        },
+        {
+          "key": "B",
+          "text": "delicious",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "like delicious",
+          "feedback": "Look like must be followed by a noun, e.g. look like a cake. Delicious is an adjective."
+        }
+      ],
+      "answer": "B",
+      "explanation": "look is a linking verb here（連綴動詞「看起來」）: look + adjective. delicious is the adjective. 不可用副詞 deliciously；look like 後面要接名詞.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "\"look\" here means 看起來. What kind of word comes after it?",
+          "action": "highlight-words",
+          "words": [
+            "look"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Rule: look + adj. / look like + noun.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Deliciously\" is an adverb (-ly), so it can't follow a linking verb.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: delicious. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u11-q23v",
+      "difficulty": "foundation",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q24",
+      "skill": "grammar",
+      "sub_skill": "while-conjunction",
+      "type": "single-choice",
+      "stem": "In which sentence does \"while\" show a CONTRAST (= whereas)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "While I was waiting for the bus, it started to rain.",
+          "feedback": "Here two things happen at the same time. Look for two things being compared."
+        },
+        {
+          "key": "B",
+          "text": "Sea otters live in the ocean, while river otters live in fresh water.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Please don't talk while the teacher is speaking.",
+          "feedback": "This means \"during the time that the teacher is speaking\". Which sentence compares two animals?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In B, sea otters (ocean) and river otters (fresh water) are compared → contrast. In A and C, while = during the time that.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "For each sentence, ask: are two different things compared, or do two things happen at the same time?",
+          "action": "explain"
+        },
+        {
+          "level": 2,
+          "text": "Sentences with was/is + V-ing after while are usually about time.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "A uses \"was waiting\" — it's about time.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: B. Ocean ↔ fresh water is a contrast.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u11-q25",
+      "skill": "grammar",
+      "sub_skill": "linking-verb",
+      "type": "fill-blank",
+      "stem": "That cloud looks ___ a big white rabbit.",
+      "answer": [
+        "like"
+      ],
+      "explanation": "look like + noun = 看起來像…… (a big white rabbit is a noun phrase).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What comes after the blank: an adjective or a noun?",
+          "action": "highlight-words",
+          "words": [
+            "a big white rabbit"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "look + adj. / look ___ + noun.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Example: My dog looks ___ a small bear.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: like.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-live-u11-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Funny Animal Videos Online"
+        },
+        {
+          "key": "B",
+          "text": "How Otters Catch Fish"
+        },
+        {
+          "key": "C",
+          "text": "Sea Otters vs. River Otters: Same Family, Different Habits"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The passage compares the two otters in every paragraph."
+    },
+    {
+      "question_id": "g11-live-u11-q03v",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "River otters can hold their breath for up to eight minutes. This most likely helps them ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "catch food underwater"
+        },
+        {
+          "key": "B",
+          "text": "sleep on their backs"
+        },
+        {
+          "key": "C",
+          "text": "stay warm in cold water"
+        }
+      ],
+      "answer": "A",
+      "explanation": "They catch fish by diving underwater, so holding their breath helps them hunt."
+    },
+    {
+      "question_id": "g11-live-u11-q11v",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "My grandpa ___ uses his phone; he likes to write letters instead.",
+      "options": [
+        {
+          "key": "A",
+          "text": "frequently"
+        },
+        {
+          "key": "B",
+          "text": "rarely"
+        },
+        {
+          "key": "C",
+          "text": "considerably"
+        }
+      ],
+      "answer": "B",
+      "explanation": "rarely = almost never."
+    },
+    {
+      "question_id": "g11-live-u11-q23v",
+      "skill": "grammar",
+      "sub_skill": "linking-verb",
+      "type": "single-choice",
+      "stem": "You look ___ today. Did you sleep well?",
+      "options": [
+        {
+          "key": "A",
+          "text": "happy"
+        },
+        {
+          "key": "B",
+          "text": "happily"
+        },
+        {
+          "key": "C",
+          "text": "like happy"
+        }
+      ],
+      "answer": "A",
+      "explanation": "look + adjective → happy."
+    }
+  ]
+}

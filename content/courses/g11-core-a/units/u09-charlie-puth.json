@@ -1,0 +1,1019 @@
+{
+  "unit": {
+    "unit_id": "g11-live-u09",
+    "order": 9,
+    "title": "How Charlie Puth Connects the World Through Music",
+    "title_zh": "CP 查理：用音樂拉近全世界的距離",
+    "topic": "music",
+    "grade": [
+      11
+    ],
+    "objectives": [
+      "I can follow the order of events in a person's life story.",
+      "I can use the past perfect (had + p.p.) to show which past action happened first.",
+      "I can use \"stay true to\" to talk about values."
+    ],
+    "estimated_minutes": 35,
+    "tags": [
+      "#live-2026-08"
+    ],
+    "source": "Live 互動英語 2026年8月號 p.38"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-live-u09-p1",
+      "title": "Charlie Puth: Music That Connects",
+      "topic": "music",
+      "abstraction": "social",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1010,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Charlie Puth is famous for hit songs such as \"Attention\" and \"See You Again.\" His love of music started when he was a small child. His mother, a music teacher, introduced him to classical training, and later he also fell in love with pop and R&B. These different kinds of music helped shape his musical style.",
+            "As his career grew, his songs climbed the charts. In addition to making his own music, he worked behind the scenes as a producer for stars like Justin Bieber and Ava Max. This work gave him even more influence in the music industry.",
+            "Puth has also built strong connections with Asian artists. It began with Jung Kook of BTS. Jung Kook had been a fan of Puth for years before the two of them met, and in 2016 he even posted a cover of \"We Don't Talk Anymore.\" When they finally met at a music show in Korea, they performed together on stage. Their 2022 song \"Left and Right\" became a hit and won Collaboration of the Year at the People's Choice Awards. Then, in 2026, Puth teamed up with Japanese star Utada Hikaru on \"Home,\" a song with both English and Japanese lyrics. It is on his album Whatever's Clever!, which takes ideas from the sounds of the 1980s and has received strong praise.",
+            "During this time, Puth said he cared less about what was \"cool\" and more about what felt right to him. Fans call him \"Professor Puth\" because his short online videos explain music theory and songwriting in a simple, fun way. Today, as a singer, pianist, songwriter, and producer, he keeps growing while staying true to his musical roots."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 850,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Charlie Puth is famous for hit songs like \"Attention\" and \"See You Again.\" He has loved music since he was a child. His mother was a music teacher. She introduced him to classical training. Later, he also loved pop and R&B. These kinds of music helped shape his musical style.",
+            "His songs climbed the charts. In addition to his own music, he worked behind the scenes as a producer for other stars, like Justin Bieber and Ava Max.",
+            "Puth has strong connections with Asian artists. Jung Kook of BTS had been a fan of Puth for years before they met. In 2016, he posted a cover of \"We Don't Talk Anymore.\" Later, they met at a music show in Korea and performed together. Their 2022 song \"Left and Right\" became a hit and won Collaboration of the Year at the People's Choice Awards. In 2026, Puth teamed up with Japanese star Utada Hikaru on the song \"Home.\" It has English and Japanese lyrics.",
+            "Puth now cares less about what is \"cool.\" He cares more about what feels right to him. Fans call him \"Professor Puth\" because his short online videos explain music theory and songwriting in a simple, fun way. He keeps growing while staying true to his musical roots."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "passion",
+          "pos": "n.",
+          "zh": "熱情；熱愛",
+          "example": "Her passion for dancing started when she was five."
+        },
+        {
+          "word": "producer",
+          "pos": "n.",
+          "zh": "（音樂、影視）製作人",
+          "example": "The producer helped the band record a better album."
+        },
+        {
+          "word": "perform",
+          "pos": "v.",
+          "zh": "表演、演出",
+          "example": "Our class will perform a short play at the school festival."
+        },
+        {
+          "word": "release",
+          "pos": "v.",
+          "zh": "發行、發布",
+          "example": "The game company will release a new game in May."
+        },
+        {
+          "word": "collaboration",
+          "pos": "n.",
+          "zh": "合作；合作作品",
+          "example": "The song is a collaboration between two famous rappers."
+        },
+        {
+          "word": "theory",
+          "pos": "n.",
+          "zh": "理論",
+          "example": "Our teacher made music theory easy to understand."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g11-live-u09-r1",
+      "skill": "reading",
+      "title": "Reading 1 · Charlie Puth: Music That Connects",
+      "passage_id": "g11-live-u09-p1",
+      "question_ids": [
+        "g11-live-u09-q01",
+        "g11-live-u09-q02",
+        "g11-live-u09-q03",
+        "g11-live-u09-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g11-live-u09-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Music Words",
+      "question_ids": [
+        "g11-live-u09-q11",
+        "g11-live-u09-q12",
+        "g11-live-u09-q13",
+        "g11-live-u09-q14",
+        "g11-live-u09-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g11-live-u09-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · Past Perfect & stay true to",
+      "question_ids": [
+        "g11-live-u09-q21",
+        "g11-live-u09-q22",
+        "g11-live-u09-q23",
+        "g11-live-u09-q24"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-live-u09-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to become a music teacher",
+          "feedback": "Puth's mother was a music teacher, but that is only one detail. Who is the whole text about?"
+        },
+        {
+          "key": "B",
+          "text": "Why BTS is popular around the world",
+          "feedback": "BTS appears in only one paragraph. The main idea must cover the whole passage."
+        },
+        {
+          "key": "C",
+          "text": "How Charlie Puth grew as a musician and connected with other artists",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "The history of pop and R&B music",
+          "feedback": "The text mentions pop and R&B only once. It is a story about one person."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The passage follows Puth from childhood to producer to his work with Asian artists and his online videos. It is about how he grew as a musician and connected with others (C). 主旨題：要涵蓋從童年到現在的整篇內容。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the first sentence of each paragraph. Whose story is it?",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"climbed the charts\", \"connections with Asian artists\", \"keeps growing\".",
+          "action": "highlight-words",
+          "words": [
+            "climbed the charts",
+            "connections with Asian artists",
+            "keeps growing"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is not in the passage. There is no history of R&B.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "The whole text is about Puth's growth and his music connections. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u09-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-music"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "According to paragraph 3, what did Jung Kook do BEFORE he met Puth?",
+      "stem_support": "What did Jung Kook do before he met Puth?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He posted his own cover of one of Puth's songs.",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "He wrote \"Attention\" for Puth.",
+          "feedback": "\"Attention\" is Puth's own hit song. Look for the word \"cover\" in paragraph 3."
+        },
+        {
+          "key": "C",
+          "text": "He won an award with Puth.",
+          "feedback": "The award came in 2022, after they met and made \"Left and Right\". The question asks about BEFORE."
+        },
+        {
+          "key": "D",
+          "text": "He taught Puth to play the piano.",
+          "feedback": "This is not in the passage. Puth's mother gave him classical training."
+        }
+      ],
+      "answer": "A",
+      "explanation": "\"Jung Kook had been a fan of Puth for years before they met\", and in 2016 he posted a cover of \"We Don't Talk Anymore\" (A). 注意 had been（過去完成式）表示比「見面」更早發生。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 3. Find the name Jung Kook.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"had been a fan of Puth for years\" and \"posted a cover\".",
+          "action": "highlight-words",
+          "words": [
+            "had been a fan of Puth for years",
+            "posted a cover"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Options C and D happened AFTER they met, or are not in the text.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C",
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Before meeting, Jung Kook was already a fan and posted a cover song. Answer: A.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-music"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "What can we infer from Puth's nickname, \"Professor Puth\"?",
+      "stem_support": "Fans call him \"Professor Puth.\" What does this tell us?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He teaches classes at a university.",
+          "feedback": "It is only a nickname from fans. Read the reason after \"because\"."
+        },
+        {
+          "key": "B",
+          "text": "He is good at explaining difficult music ideas.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "He only sings classical songs.",
+          "feedback": "He loves pop and R&B too. The nickname comes from his videos."
+        },
+        {
+          "key": "D",
+          "text": "He does not like making videos.",
+          "feedback": "The text says he shares short online videos. This is the opposite."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Fans call him that because his short videos explain music theory in a simple, fun way. So he is good at explaining difficult music ideas (B). He is not a real professor — it is a nickname. 推論題：綽號的「原因」寫在 because 後面。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at paragraph 4. Find the nickname.",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"because his short online videos explain music theory\".",
+          "action": "highlight-words",
+          "words": [
+            "Professor Puth",
+            "explain music theory and songwriting"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is the opposite of the text: he makes short videos.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "A nickname from fans + videos that explain theory = he is a good explainer. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u09-q03v",
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-music"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q04",
+      "skill": "reading",
+      "sub_skill": "cause-effect",
+      "type": "single-choice",
+      "stem": "According to the passage, what helped shape Puth's musical style?",
+      "stem_support": "What made Puth's music style?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Working only with Asian artists",
+          "feedback": "His work with Asian artists came later. Look at paragraph 1 for what shaped his style."
+        },
+        {
+          "key": "B",
+          "text": "His online videos about music theory",
+          "feedback": "The videos show his personality, but they did not shape his style. Read paragraph 1."
+        },
+        {
+          "key": "C",
+          "text": "Living in Korea for many years",
+          "feedback": "The passage never says he lived in Korea. He met Jung Kook at a show there."
+        },
+        {
+          "key": "D",
+          "text": "Classical training and a love of pop and R&B",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paragraph 1: classical training from his mother and his love of pop and R&B helped shape his musical style (D).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 1. Find the word \"shape\".",
+          "action": "highlight-paragraph",
+          "paragraph": 0
+        },
+        {
+          "level": 2,
+          "text": "Key words: \"classical training\", \"pop and R&B\", \"helped shape\".",
+          "action": "highlight-words",
+          "words": [
+            "classical training",
+            "pop and R&B",
+            "helped shape his musical style"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Options A and B are about later parts of his career, not his style.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Classical training + pop and R&B → his musical style. Answer: D.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-music"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "My sister practices the guitar every night because music is her real ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "passion",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "presence",
+          "feedback": "Presence means being somewhere or how much people see you. It is not a feeling of love."
+        },
+        {
+          "key": "C",
+          "text": "producer",
+          "feedback": "A producer is a person who makes music or films. Music can't be \"her producer\"."
+        }
+      ],
+      "answer": "A",
+      "explanation": "passion = a very strong love for something（熱情、熱愛）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "She practices every night. How does she feel about music?",
+          "action": "highlight-words",
+          "words": [
+            "every night"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Find a word that means \"a strong love for something\".",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Producer\" is a person, not a feeling.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: passion. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u09-q11v",
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q12",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The band will ___ three new songs on stage at the concert tonight.",
+      "options": [
+        {
+          "key": "A",
+          "text": "nickname",
+          "feedback": "To nickname is to give someone a special name. Bands don't nickname songs on stage."
+        },
+        {
+          "key": "B",
+          "text": "perform",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "connect",
+          "feedback": "Connect means to join or link. What does a band do with songs on stage?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "perform = sing, play, or act for people（表演、演出）. perform on stage 在舞台上表演.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What does a band do on stage?",
+          "action": "highlight-words",
+          "words": [
+            "on stage"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a verb meaning \"sing or play for an audience\".",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Nickname\" means to give someone a funny name. It doesn't fit songs.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: perform.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q13",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The singer will ___ her new album online next Friday, so fans can listen to it right away.",
+      "options": [
+        {
+          "key": "A",
+          "text": "connect",
+          "feedback": "Connect means to link things or people. Which verb means \"make an album public\"?"
+        },
+        {
+          "key": "B",
+          "text": "theory",
+          "feedback": "Theory is a noun (理論). After \"will\" we need a verb."
+        },
+        {
+          "key": "C",
+          "text": "release",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "release = make a song, album, or film available to the public（發行、發布）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What happens to an album when fans can listen to it for the first time?",
+          "action": "highlight-words",
+          "words": [
+            "new album online",
+            "listen to it right away"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a verb meaning \"make it public for the first time\"（發行）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Theory\" is a noun, so it cannot follow \"will\".",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: release. release a song / an album / a movie.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "The two singers worked together on a new song. Their c____________ won a big award.",
+      "answer": [
+        "collaboration"
+      ],
+      "explanation": "collaboration = working together; also the song or work they make together（合作；合作作品）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The singers \"worked together\". What noun means that?",
+          "action": "highlight-words",
+          "words": [
+            "worked together"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The word starts with \"c\" and comes from the verb collaborate.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "collaborate (v.) → collabor_ _ _ _ _ (n.)",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: collaboration（合作作品）.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q15",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "The music p_ _ _ _ _ _ _ (8 letters) worked behind the scenes and helped the young singer make a better album.",
+      "answer": [
+        "producer"
+      ],
+      "explanation": "producer = a person who is in charge of making a song, album, or film（製作人）. Puth worked as a producer for other stars.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "This person works \"behind the scenes\" (在幕後). Who could it be?",
+          "action": "highlight-words",
+          "words": [
+            "behind the scenes"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The word comes from the verb produce + -er.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "produce + r = p r o d u c e _",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: producer（製作人）.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q21",
+      "skill": "grammar",
+      "sub_skill": "past-perfect",
+      "type": "single-choice",
+      "stem": "When I got to the station, the train ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has already left",
+          "feedback": "Has left is present perfect (connected to now). This story is all in the past."
+        },
+        {
+          "key": "B",
+          "text": "had already left",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "leaves",
+          "feedback": "Leaves is present tense. \"Got\" tells us this happened in the past."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Two past actions: the train left FIRST, then I got to the station. 先發生的用過去完成式 had + p.p.，後發生的用過去式。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Which happened first: \"I got to the station\" or \"the train left\"?",
+          "action": "highlight-words",
+          "words": [
+            "When I got to the station"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The earlier past action uses had + p.p.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is present tense, but the story is in the past.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: had already left. The train left before I arrived.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q22",
+      "skill": "grammar",
+      "sub_skill": "past-perfect",
+      "type": "fill-blank",
+      "stem": "Tina ___ (finish) her homework before her mom came home.",
+      "answer": [
+        "had finished",
+        "'d finished",
+        "had already finished"
+      ],
+      "explanation": "finish happened before came home → had + p.p. = had finished. 「先」做完作業，「後」媽媽回家。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the second past action: \"before her mom came home\".",
+          "action": "highlight-words",
+          "words": [
+            "before her mom came home"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "The earlier action → had + past participle.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "The p.p. of finish is finished. had + ______ .",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: had finished. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u09-q22v",
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q23",
+      "skill": "grammar",
+      "sub_skill": "stay-true-to",
+      "type": "single-choice",
+      "stem": "Even after she became famous, the singer stayed true ___ her small-town roots.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "with",
+          "feedback": "We say \"stay in touch with\", but \"stay true\" uses a different preposition."
+        },
+        {
+          "key": "C",
+          "text": "for",
+          "feedback": "\"For\" doesn't go with \"stay true\". Think: stay true ___ yourself."
+        }
+      ],
+      "answer": "A",
+      "explanation": "stay true to + N. = 忠於……；堅持…… (stay true to yourself / your values / your roots).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the words before the blank: \"stayed true\".",
+          "action": "highlight-words",
+          "words": [
+            "stayed true"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "This phrase always uses the same preposition: stay true ___ something.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "We say \"stay in touch with\", not \"stay true with\". Remove B.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: to. stay true to your roots = 不忘本、忠於自己的根源.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u09-q24",
+      "skill": "grammar",
+      "sub_skill": "past-perfect",
+      "type": "single-choice",
+      "stem": "Which sentence uses the past perfect correctly?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Before Amy joined the band, she had played the piano for five years.",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "Before Amy joined the band, she has played the piano for five years.",
+          "feedback": "\"Has played\" connects to now, but \"joined\" is in the past. Which tense shows an earlier past action?"
+        },
+        {
+          "key": "C",
+          "text": "Before Amy had joined the band, she plays the piano for five years.",
+          "feedback": "Here \"had joined\" is on the later action, and \"plays\" is present. Try to put had + p.p. on the earlier action."
+        }
+      ],
+      "answer": "A",
+      "explanation": "In A, playing the piano for five years happened before joining the band, so \"had played\" is correct. B mixes present perfect with a past event; C puts had + p.p. on the later action and uses present tense \"plays\".",
+      "hints": [
+        {
+          "level": 1,
+          "text": "In each sentence, find the action that happened FIRST.",
+          "action": "explain"
+        },
+        {
+          "level": 2,
+          "text": "Rule: earlier past action = had + p.p.; later past action = simple past.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C uses \"plays\" (present tense) for a past story.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: A. Amy played the piano first (had played), then joined the band (joined).",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-live-u09-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Charlie Puth: Growing and Connecting Through Music"
+        },
+        {
+          "key": "B",
+          "text": "How to Make a Cover Song"
+        },
+        {
+          "key": "C",
+          "text": "The Best Music Shows in Korea"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The passage is about Puth's music and the connections he builds with artists around the world."
+    },
+    {
+      "question_id": "g11-live-u09-q03v",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Puth cares \"more about what felt right to him\" than about what was \"cool\". This suggests that he ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "only follows the newest trends"
+        },
+        {
+          "key": "B",
+          "text": "makes music that is true to himself"
+        },
+        {
+          "key": "C",
+          "text": "wants to stop making music"
+        }
+      ],
+      "answer": "B",
+      "explanation": "He follows his own feelings instead of trends."
+    },
+    {
+      "question_id": "g11-live-u09-q11v",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Drawing is more than a hobby for Ken; it is his ___. He draws every single day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "theory"
+        },
+        {
+          "key": "B",
+          "text": "vision"
+        },
+        {
+          "key": "C",
+          "text": "passion"
+        }
+      ],
+      "answer": "C",
+      "explanation": "passion = strong love for something."
+    },
+    {
+      "question_id": "g11-live-u09-q22v",
+      "skill": "grammar",
+      "sub_skill": "past-perfect",
+      "type": "fill-blank",
+      "stem": "By the time we arrived, the movie ___ (start).",
+      "answer": [
+        "had started",
+        "'d started",
+        "had already started"
+      ],
+      "explanation": "The movie started before we arrived → had started."
+    }
+  ]
+}

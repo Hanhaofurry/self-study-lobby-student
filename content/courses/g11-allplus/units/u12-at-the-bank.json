@@ -1,0 +1,222 @@
+{
+  "unit": {
+    "unit_id": "g11-allplus-u12",
+    "order": 12,
+    "title": "At the Bank",
+    "title_zh": "銀行英語",
+    "topic": "daily-life",
+    "grade": [11],
+    "objectives": [
+      "I can understand a bank conversation about opening an account, digital payments, credit cards, and wire transfers.",
+      "I can use banking words such as deposit, balance, interest, and wire transfer.",
+      "I can ask simple questions at a bank counter."
+    ],
+    "estimated_minutes": 25,
+    "tags": ["#allplus-2026-08"],
+    "source": "ALL+ 互動英語 2026年8月號 p.51"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-allplus-u12-p1",
+      "title": "A Student at the Bank",
+      "topic": "daily-life",
+      "abstraction": "concrete",
+      "original_available": true,
+      "audio_url": "",
+      "transcript": "Customer: Hi. I'm a student from Taiwan, and I want to open an account here. Clerk: Sure. A checking account is for everyday spending, and a savings account lets you save money and earn interest. Customer: Then I'll take both, please. Clerk: No problem. Please show me your passport, your student visa, your I-20 form, and something that proves your address. You don't need a Social Security Number. Customer: Here you go. Can I use my new account with Zelle or PayPal? Clerk: Yes. Zelle is already inside our mobile app, so you only need a phone number or an email address. For PayPal, create a PayPal account first and then link it to your bank account. And please turn on two-factor authentication for extra security. Customer: Got it. Clerk: One more thing. Would you like a student credit card? It helps you build a credit history. Customer: Sounds useful. I'll apply. Clerk: Welcome back! Customer: My parents sent me money by wire transfer three days ago, but it hasn't arrived yet. Clerk: A wire transfer normally needs three to five business days to arrive. A wrong SWIFT code or extra security checks can also cause a delay. Do you have the reference number? Customer: Yes, here it is. Clerk: Thank you. Let me check the status for you.",
+      "variants": []
+    }
+  ],
+  "sets": [
+    { "set_id": "g11-allplus-u12-l1", "skill": "listening", "title": "Listening 1 · A Student at the Bank", "passage_id": "g11-allplus-u12-p1", "question_ids": ["g11-allplus-u12-q41", "g11-allplus-u12-q42", "g11-allplus-u12-q43", "g11-allplus-u12-q44"], "estimated_minutes": 10 },
+    { "set_id": "g11-allplus-u12-v1", "skill": "vocabulary", "title": "Vocabulary 1 · Banking Words & Expressions", "question_ids": ["g11-allplus-u12-q11", "g11-allplus-u12-q12", "g11-allplus-u12-q13", "g11-allplus-u12-q14", "g11-allplus-u12-q15"], "estimated_minutes": 8 }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-allplus-u12-q41",
+      "skill": "listening", "sub_skill": "key-information", "type": "single-choice",
+      "stem": "Which account helps you save money and earn interest?",
+      "options": [
+        { "key": "A", "text": "A checking account", "feedback": "The clerk says a checking account is for everyday spending. Listen again for \"earn interest\"." },
+        { "key": "B", "text": "A savings account", "feedback": "" },
+        { "key": "C", "text": "A credit card account", "feedback": "The credit card comes later and is for building a credit history. Listen to the first part again." }
+      ],
+      "answer": "B",
+      "explanation": "The clerk says a savings account lets you save money and earn interest. A checking account is for everyday spending. savings account 儲蓄帳戶；checking account 支票／活期帳戶.",
+      "hints": [
+        { "level": 1, "text": "Listen again to the first part. The clerk compares two accounts.", "action": "replay" },
+        { "level": 2, "text": "Listen slowly. Key words: everyday spending / earn interest.", "action": "replay-slow" },
+        { "level": 3, "text": "\"A checking account is for everyday spending, and a ___ account lets you save money and earn interest.\"", "action": "partial-transcript" },
+        { "level": 4, "text": "Full transcript is shown. Answer: a savings account.", "action": "show-transcript" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u12-q42",
+      "skill": "listening", "sub_skill": "key-information", "type": "single-choice",
+      "stem": "Which item does the customer NOT need to open the account?",
+      "options": [
+        { "key": "A", "text": "A passport", "feedback": "The clerk asks for the passport first. Listen for the word \"don't\"." },
+        { "key": "B", "text": "A student visa", "feedback": "The student visa is on the clerk's list. Which item does the clerk say is not needed?" },
+        { "key": "C", "text": "A Social Security Number", "feedback": "" },
+        { "key": "D", "text": "Proof of address", "feedback": "The clerk asks for \"something that proves your address\". Listen for \"You don't need ...\"." }
+      ],
+      "answer": "C",
+      "explanation": "The clerk lists a passport, a student visa, an I-20 form, and something that proves the customer's address, then says, \"You don't need a Social Security Number.\" 國際學生開戶不一定需要 SSN（美國社會安全號碼）.",
+      "hints": [
+        { "level": 1, "text": "Listen again. The clerk gives a list, then says one thing is not needed.", "action": "replay" },
+        { "level": 2, "text": "Listen slowly. Key words: \"You don't need ...\".", "action": "replay-slow" },
+        { "level": 3, "text": "\"Please show me your passport, your student visa, your I-20 form, and something that proves your address. You don't need a ___.\"", "action": "partial-transcript" },
+        { "level": 4, "text": "Full transcript is shown. Answer: a Social Security Number.", "action": "show-transcript" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 2, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u12-q43",
+      "skill": "listening", "sub_skill": "key-information", "type": "single-choice",
+      "stem": "How long does a wire transfer usually take?",
+      "options": [
+        { "key": "A", "text": "One business day", "feedback": "Listen again: the clerk gives a range of days, not just one." },
+        { "key": "B", "text": "Three to five business days", "feedback": "" },
+        { "key": "C", "text": "Two weeks", "feedback": "Two weeks is not mentioned. Listen for \"normally needs\"." },
+        { "key": "D", "text": "Three days", "feedback": "Three days is when the parents SENT the money, not how long a transfer usually takes." }
+      ],
+      "answer": "B",
+      "explanation": "The clerk says a wire transfer normally needs three to five business days to arrive. business days = 工作天（不含週末、假日）.",
+      "hints": [
+        { "level": 1, "text": "Listen to the last part of the conversation. Focus on numbers.", "action": "replay" },
+        { "level": 2, "text": "Listen slowly. Key words: normally needs.", "action": "replay-slow" },
+        { "level": 3, "text": "\"A wire transfer normally needs ___ to ___ business days to arrive.\"", "action": "partial-transcript" },
+        { "level": 4, "text": "Full transcript is shown. Answer: three to five business days.", "action": "show-transcript" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u12-q44",
+      "skill": "listening", "sub_skill": "cause-effect", "type": "single-choice",
+      "stem": "According to the clerk, what can cause a wire transfer to be late?",
+      "options": [
+        { "key": "A", "text": "A wrong SWIFT code", "feedback": "" },
+        { "key": "B", "text": "Using Zelle instead of PayPal", "feedback": "Zelle and PayPal are from an earlier part of the talk. Listen for the word \"delay\"." },
+        { "key": "C", "text": "Not having a credit card", "feedback": "The credit card is not connected to the transfer. Listen for what \"can also cause a delay\"." },
+        { "key": "D", "text": "Sending money on a Monday", "feedback": "No day of the week is mentioned. Listen for \"wrong\"." }
+      ],
+      "answer": "A",
+      "explanation": "The clerk says a wrong SWIFT code or extra security checks can cause a delay. SWIFT code = 銀行國際代碼，用於國際匯款辨識收款銀行.",
+      "hints": [
+        { "level": 1, "text": "Listen to the wire transfer part again.", "action": "replay" },
+        { "level": 2, "text": "Listen slowly. Key words: cause a delay.", "action": "replay-slow" },
+        { "level": 3, "text": "\"A wrong ___ code or extra security checks can also cause a delay.\"", "action": "partial-transcript" },
+        { "level": 4, "text": "Full transcript is shown. Answer: a wrong SWIFT code.", "action": "show-transcript" }
+      ],
+      "difficulty": "challenge", "bloom": "understand", "dok": 2, "points": 10,
+      "tags": ["#allplus-2026-08"], "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u12-q11",
+      "skill": "vocabulary", "sub_skill": "collocation", "type": "single-choice",
+      "stem": "I want to put NT$5,000 into my savings account. I'd like to make a ___.",
+      "options": [
+        { "key": "A", "text": "deposit", "feedback": "" },
+        { "key": "B", "text": "withdrawal", "feedback": "A withdrawal means taking money OUT. The speaker is putting money IN." },
+        { "key": "C", "text": "loan", "feedback": "A loan is money you borrow from the bank. The speaker is giving money to the bank." }
+      ],
+      "answer": "A",
+      "explanation": "make a deposit = put money into an account（存款）; make a withdrawal = take money out（提款）.",
+      "hints": [
+        { "level": 1, "text": "Is the speaker putting money IN or taking money OUT?", "action": "highlight-words", "words": ["put NT$5,000 into"] },
+        { "level": 2, "text": "make a ___ = 存款.", "action": "explain" },
+        { "level": 3, "text": "Option B is the opposite (taking money out).", "action": "eliminate-option", "eliminate": ["B"] },
+        { "level": 4, "text": "Answer: deposit. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g11-allplus-u12-q11v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u12-q12",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Before I buy the concert ticket, let me check my account ___ to see how much money I have left.",
+      "options": [
+        { "key": "A", "text": "visa", "feedback": "A visa lets you enter a country. We need a word for the amount of money in an account." },
+        { "key": "B", "text": "mortgage", "feedback": "A mortgage is a loan for buying a house. Read \"how much money I have left\"." },
+        { "key": "C", "text": "balance", "feedback": "" }
+      ],
+      "answer": "C",
+      "explanation": "balance = the amount of money in your account（餘額）.",
+      "hints": [
+        { "level": 1, "text": "The speaker wants to know \"how much money I have left\".", "action": "highlight-words", "words": ["how much money I have left"] },
+        { "level": 2, "text": "You need a noun meaning 餘額.", "action": "explain" },
+        { "level": 3, "text": "Option A (visa) is for travel, not money.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "Answer: balance. check your balance = 查餘額.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u12-q13",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "With two-factor ___, you need your password AND a code sent to your phone to log in.",
+      "options": [
+        { "key": "A", "text": "compliance", "feedback": "Compliance means following rules or laws. The sentence is about proving who you are." },
+        { "key": "B", "text": "authentication", "feedback": "" },
+        { "key": "C", "text": "purchase", "feedback": "A purchase is something you buy. Logging in is not buying." }
+      ],
+      "answer": "B",
+      "explanation": "two-factor authentication = 雙重認證: you prove who you are in two ways (password + phone code). It adds security.",
+      "hints": [
+        { "level": 1, "text": "You need TWO things to log in. What does this check?", "action": "highlight-words", "words": ["password AND a code"] },
+        { "level": 2, "text": "You need a word meaning 驗證、認證.", "action": "explain" },
+        { "level": 3, "text": "Option C (purchase) is about buying.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: authentication.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u12-q14",
+      "skill": "vocabulary", "sub_skill": "collocation", "type": "fill-blank",
+      "stem": "My parents in Taiwan sent money to my bank account in Canada by wire t________.",
+      "answer": ["transfer"],
+      "explanation": "wire transfer = 電匯: sending money from one bank to another, often between countries.",
+      "hints": [
+        { "level": 1, "text": "Money moves from one country's bank to another.", "action": "highlight-words", "words": ["sent money", "by wire"] },
+        { "level": 2, "text": "The word starts with t and means 轉帳、匯款.", "action": "explain" },
+        { "level": 3, "text": "It has 8 letters: t r a n s _ _ _.", "action": "explain" },
+        { "level": 4, "text": "Answer: transfer → wire transfer.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g11-allplus-u12-q15",
+      "skill": "vocabulary", "sub_skill": "useful-expression", "type": "single-choice",
+      "stem": "You want to know whether a credit card costs money every year. What should you ask the bank clerk?",
+      "options": [
+        { "key": "A", "text": "Do I have to pay a yearly fee for this card?", "feedback": "" },
+        { "key": "B", "text": "Can I make a withdrawal from my savings account?", "feedback": "This asks about taking money out, not about the card's cost." },
+        { "key": "C", "text": "How do I link my account to PayPal?", "feedback": "This is about digital payments. You want to know about a cost every year." }
+      ],
+      "answer": "A",
+      "explanation": "a yearly (annual) fee = 年費. Other useful questions: How is interest calculated? Can the fee be waived (免除)?",
+      "hints": [
+        { "level": 1, "text": "Key words in the question: \"costs money every year\".", "action": "highlight-words", "words": ["costs money every year"] },
+        { "level": 2, "text": "Money you pay every year = a yearly / annual fee（年費）.", "action": "explain" },
+        { "level": 3, "text": "Option C is about PayPal, not the card.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: A.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-allplus-u12-q11v", "skill": "vocabulary", "sub_skill": "collocation", "type": "single-choice",
+      "stem": "I need cash for the night market, so I'll make a ___ from the ATM.",
+      "options": [
+        { "key": "A", "text": "deposit" },
+        { "key": "B", "text": "withdrawal" },
+        { "key": "C", "text": "balance" }
+      ],
+      "answer": "B", "explanation": "Taking cash out of an account = make a withdrawal（提款）."
+    }
+  ]
+}

@@ -1,0 +1,1058 @@
+{
+  "unit": {
+    "unit_id": "g10-4u-u08",
+    "order": 8,
+    "title": "What to Know About the Melamine Sponge",
+    "title_zh": "一擦就乾淨？看懂科技海綿的神奇功效",
+    "topic": "science-technology",
+    "grade": [
+      10
+    ],
+    "objectives": [
+      "I can explain the strengths and limits of a household product.",
+      "I can use “have trouble / difficulty / a hard time + V-ing” to talk about problems.",
+      "I can choose correctly between “because of + noun” and “because + clause”."
+    ],
+    "estimated_minutes": 30,
+    "tags": [
+      "#4u-2026-09"
+    ],
+    "source": "English 4U 2026年9月號 p.38"
+  },
+  "passages": [
+    {
+      "passage_id": "g10-4u-u08-p1",
+      "title": "The Melamine Sponge: Handy but Not Perfect",
+      "topic": "science-technology",
+      "abstraction": "concrete",
+      "original_available": true,
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 980,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Some stains refuse to go away no matter how hard you scrub. For problems like these, many people now reach for a melamine sponge. It feels soft in your hand, but it acts like very fine sandpaper. Inside it are countless tiny, hard pieces. When you rub it gently over a dirty spot, these pieces slip into small cracks on the surface and lift the dirt out. People use it on shoes, tables, walls, and sinks.",
+            "The sponge needs only a little water — no soap or cleaner at all. It is especially good at stubborn stains, such as black marks on shoes or fingerprints on walls, which may be gone after a few wipes. It is also firm, so you can cut it into small pieces without it falling apart. Those small pieces can clean corners that cloths and ordinary sponges cannot reach. No wonder many families call it a handy helper.",
+            "Still, the sponge has limits. Because of its rough texture, it is not suitable for every material. It can scratch shiny surfaces like screens, car paint, and non-stick pans, so it is wise to test it on a small area first. It also does not last long. The hard pieces inside come off during cleaning, so the sponge gradually wears down into smaller bits.",
+            "Safety matters, too. When hot water or oil touches the sponge, it breaks down faster, and then it may give off harmful particles. That is why you should not use it on cups or bowls. After cleaning, rinse the surface with clean water to remove any small bits. Like every cleaning tool, the melamine sponge has pros and cons, so use it wisely."
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 820,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Some stains are very hard to clean. Many people use a melamine sponge for them. The sponge is soft, but it cleans like fine sandpaper. It has many tiny, hard pieces inside. When you rub a dirty spot, the pieces go into small cracks on the surface and take the dirt out.",
+            "You only need a little water. You do not need soap. The sponge is good at stubborn stains, like black marks on shoes or fingerprints on walls. It is firm, so you can cut it into small pieces. The small pieces can clean corners. Many families call it a handy helper.",
+            "But the sponge has limits. Because of its rough texture, it is not suitable for every material. It can scratch shiny surfaces like screens, car paint, and non-stick pans. So, test it on a small area first. Also, the hard pieces inside come off during cleaning. The sponge gradually wears down into smaller bits.",
+            "Be careful with hot water and oil. They make the sponge break down more quickly, and it may give off harmful particles. Do not use it on cups or bowls. After cleaning, rinse the surface with clean water to remove any small bits. The sponge has pros and cons, so use it wisely."
+          ]
+        }
+      ],
+      "glossary": [
+        {
+          "word": "surface",
+          "pos": "n.",
+          "zh": "表面",
+          "example": "Wipe the surface of the desk before you put your laptop on it."
+        },
+        {
+          "word": "stubborn",
+          "pos": "adj.",
+          "zh": "難以去除的；頑強的",
+          "example": "Coffee left a stubborn stain on my white T-shirt."
+        },
+        {
+          "word": "firm",
+          "pos": "adj.",
+          "zh": "結實的；堅實的",
+          "example": "This bed is firm, so it is good for your back."
+        },
+        {
+          "word": "suitable",
+          "pos": "adj.",
+          "zh": "適合的",
+          "example": "This movie is not suitable for young children."
+        },
+        {
+          "word": "gradually",
+          "pos": "adv.",
+          "zh": "逐漸地",
+          "example": "The ice gradually melted in the sun."
+        },
+        {
+          "word": "harmful",
+          "pos": "adj.",
+          "zh": "有害的",
+          "example": "Too much screen time can be harmful to your eyes."
+        }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g10-4u-u08-r1",
+      "skill": "reading",
+      "title": "Reading 1 · The Magic Sponge?",
+      "passage_id": "g10-4u-u08-p1",
+      "question_ids": [
+        "g10-4u-u08-q01",
+        "g10-4u-u08-q02",
+        "g10-4u-u08-q03",
+        "g10-4u-u08-q04"
+      ],
+      "estimated_minutes": 12
+    },
+    {
+      "set_id": "g10-4u-u08-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Cleaning Words",
+      "question_ids": [
+        "g10-4u-u08-q11",
+        "g10-4u-u08-q12",
+        "g10-4u-u08-q13",
+        "g10-4u-u08-q14",
+        "g10-4u-u08-q15"
+      ],
+      "estimated_minutes": 8
+    },
+    {
+      "set_id": "g10-4u-u08-g1",
+      "skill": "grammar",
+      "title": "Grammar 1 · have trouble V-ing & because (of)",
+      "question_ids": [
+        "g10-4u-u08-q21",
+        "g10-4u-u08-q22",
+        "g10-4u-u08-q23",
+        "g10-4u-u08-q24"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g10-4u-u08-q01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "How to make a sponge at home",
+          "feedback": "The passage never teaches how to make a sponge."
+        },
+        {
+          "key": "B",
+          "text": "What the melamine sponge is good at and what its limits are",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Why soap is better than water",
+          "feedback": "Actually, the sponge needs no soap. This is not the main idea."
+        },
+        {
+          "key": "D",
+          "text": "How to clean car paint",
+          "feedback": "Car paint is only one example of a surface the sponge can scratch."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraphs 1–2 show the sponge's strengths; paragraphs 3–4 show its limits and safety problems. The main idea covers both (B). 主旨＝優點＋限制。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the first sentence of paragraph 3. It turns the passage in a new direction.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “handy helper” and “has limits”.",
+          "action": "highlight-words",
+          "words": [
+            "handy helper",
+            "has limits"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option A is not in the passage. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Good points + limits = the whole passage. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u08-q01v",
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 0,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q02",
+      "skill": "reading",
+      "sub_skill": "detail",
+      "type": "single-choice",
+      "stem": "Why should you test the sponge on a small area first?",
+      "stem_support": "Why should you try the sponge on a small area first?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because it may scratch shiny surfaces",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "Because it needs a lot of soap",
+          "feedback": "The text says it needs NO soap."
+        },
+        {
+          "key": "C",
+          "text": "Because it is too soft to clean anything",
+          "feedback": "The sponge is firm and cleans well. Look for “scratch”."
+        },
+        {
+          "key": "D",
+          "text": "Because it changes color in water",
+          "feedback": "Color is not mentioned. Read paragraph 3 again."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 3: the rough texture “can scratch shiny surfaces like screens, car paint, and non-stick pans”, so you should test a small area first (A).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Go to paragraph 3. Find the words “small area”.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “scratch shiny surfaces” and “test it on a small area”.",
+          "action": "highlight-words",
+          "words": [
+            "scratch shiny surfaces",
+            "test it on a small area"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option B is the opposite of the text: no soap is needed.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Test first → so you do not scratch a shiny surface. Answer: A.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q03",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Based on the passage, which person is using the melamine sponge in the WRONG way?",
+      "stem_support": "Who is NOT using the sponge in a safe or correct way?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ben removes black marks from his white shoes with a little water.",
+          "feedback": "The passage says this is a good use. Look for something the text warns against."
+        },
+        {
+          "key": "B",
+          "text": "Cindy cuts a small piece to clean a corner of the sink.",
+          "feedback": "Cutting it into small pieces for corners is recommended."
+        },
+        {
+          "key": "C",
+          "text": "David tests it on a hidden part of his table first.",
+          "feedback": "Testing first is the wise thing to do."
+        },
+        {
+          "key": "D",
+          "text": "Amy washes her coffee cups with it in hot water.",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paragraph 4 says hot water can make the sponge break down and give off harmful particles, and it should not be used on cups or bowls. Amy does both (D). 應用推論：把文中的警告套用到情境中。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read paragraph 4 about safety.",
+          "action": "highlight-paragraph",
+          "paragraph": 3
+        },
+        {
+          "level": 2,
+          "text": "Key words: “Hot water” (support: “hot water”) and “cups or bowls”.",
+          "action": "highlight-words",
+          "words": [
+            "hot water",
+            "cups or bowls"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option C is exactly what paragraph 3 suggests. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Hot water + cups = two warnings in paragraph 4 → D.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "apply",
+      "dok": 3,
+      "paragraph_ref": 3,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q04",
+      "skill": "reading",
+      "sub_skill": "cause-effect",
+      "type": "single-choice",
+      "stem": "According to the passage, why does the sponge become smaller over time?",
+      "stem_support": "Why does the sponge get smaller?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because people cut it with scissors every day",
+          "feedback": "Cutting is a choice, not the reason it wears down."
+        },
+        {
+          "key": "B",
+          "text": "Because the tiny, hard pieces inside come off during cleaning",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Because it dries in the sun",
+          "feedback": "The sun is not mentioned."
+        },
+        {
+          "key": "D",
+          "text": "Because soap melts it",
+          "feedback": "The sponge does not need soap at all."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 3: “The hard pieces inside come off during cleaning, so the sponge gradually wears down” (B). so 前面是原因，後面是結果。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the end of paragraph 3.",
+          "action": "highlight-paragraph",
+          "paragraph": 2
+        },
+        {
+          "level": 2,
+          "text": "Key words: “come off during cleaning” and “gradually wears down”.",
+          "action": "highlight-words",
+          "words": [
+            "come off during cleaning",
+            "gradually wears down"
+          ]
+        },
+        {
+          "level": 3,
+          "text": "Option D is wrong: no soap is used.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Cause: pieces come off → Effect: smaller sponge. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u08-q04v",
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "This ___ stain on my shirt is still there after three washes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "handy",
+          "feedback": "Handy means “useful”. Is a stain useful?"
+        },
+        {
+          "key": "B",
+          "text": "shiny",
+          "feedback": "Shiny means “bright and smooth”. Read the clue: three washes."
+        },
+        {
+          "key": "C",
+          "text": "stubborn",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "stubborn (stain) = 難以去除的. It is still there after three washes.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the clue in the sentence.",
+          "action": "highlight-words",
+          "words": [
+            "still there after three washes"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning “very hard to remove”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A means useful. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: stubborn. stubborn stain = 頑固污漬.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q12",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "These thin shoes are not ___ for hiking in the mountains; they are made for dancing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "suitable",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "harmful",
+          "feedback": "Harmful means “causing damage”. The sentence is about the right use of shoes."
+        },
+        {
+          "key": "C",
+          "text": "firm",
+          "feedback": "Firm means “hard and strong”. The clue is “made for dancing”, not for hiking."
+        }
+      ],
+      "answer": "A",
+      "explanation": "be suitable for sth = 適合… . The shoes are right for dancing, not for hiking.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the word after the blank.",
+          "action": "highlight-words",
+          "words": [
+            "for hiking"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pattern: be + ___ + for = be right for（適合）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option B does not fit “made for dancing”.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: suitable. In the reading: not suitable for every material.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q13",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "fill-blank",
+      "stem": "The old fridge has started to give ___ a bad smell. We need to clean it.",
+      "answer": [
+        "off"
+      ],
+      "explanation": "give off sth = 散發出（氣味、光、熱）. The fridge sends out a bad smell.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the verb before the blank.",
+          "action": "highlight-words",
+          "words": [
+            "give ___ a bad smell"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "give ___ = send out a smell, light, or heat.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Example: The fire gave o__ a lot of heat.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: off → give off.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Eating too much sugar can be ___ to your teeth.",
+      "options": [
+        {
+          "key": "A",
+          "text": "handy",
+          "feedback": "Handy means useful. Is sugar useful for your teeth?"
+        },
+        {
+          "key": "B",
+          "text": "harmful",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "suitable",
+          "feedback": "Suitable needs “for”, and the meaning does not fit sugar and teeth."
+        }
+      ],
+      "answer": "B",
+      "explanation": "harmful = 有害的（harm + -ful）. be harmful to sth = 對…有害.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Is too much sugar good or bad for teeth?",
+          "action": "highlight-words",
+          "words": [
+            "too much sugar"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "harm = damage; -ful = full of. harm + ful = ?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C usually goes with “for”, not “to”.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: harmful.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q15",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "My old backpack is starting to fall ___; the zipper is broken and there is a hole in the bottom.",
+      "options": [
+        {
+          "key": "A",
+          "text": "down",
+          "feedback": "Fall down = drop to the ground. The clue is a broken zipper and a hole."
+        },
+        {
+          "key": "B",
+          "text": "apart",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "behind",
+          "feedback": "Fall behind = be slower than others. It does not describe a bag."
+        }
+      ],
+      "answer": "B",
+      "explanation": "fall apart = 散開；解體 (break into pieces). A broken zipper and a hole show the bag is breaking into pieces.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the clue after the semicolon (;).",
+          "action": "highlight-words",
+          "words": [
+            "the zipper is broken"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a phrase meaning “break into pieces”.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option C is about speed, not objects. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: apart. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u08-q15v",
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q21",
+      "skill": "grammar",
+      "sub_skill": "have-trouble-ving",
+      "type": "single-choice",
+      "stem": "Jerry had trouble ___ the bus stop in the heavy rain.",
+      "options": [
+        {
+          "key": "A",
+          "text": "find",
+          "feedback": "After “have trouble” we need V-ing."
+        },
+        {
+          "key": "B",
+          "text": "to find",
+          "feedback": "We do not use “to V” after “have trouble”."
+        },
+        {
+          "key": "C",
+          "text": "finding",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "found",
+          "feedback": "After “have trouble” we need V-ing, not the past tense."
+        }
+      ],
+      "answer": "C",
+      "explanation": "S + have trouble (in) + V-ing = 做…有困難. → had trouble finding.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find the pattern before the blank.",
+          "action": "highlight-words",
+          "words": [
+            "had trouble"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Rule: have trouble / difficulty / a hard time + V-ing.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option D is the past tense. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "D"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: finding. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g10-4u-u08-q21v",
+      "difficulty": "foundation",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q22",
+      "skill": "grammar",
+      "sub_skill": "have-trouble-ving",
+      "type": "single-choice",
+      "stem": "Which sentence is NOT correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I have difficulty waking up early on Mondays.",
+          "feedback": "This one is correct: have difficulty + V-ing."
+        },
+        {
+          "key": "B",
+          "text": "She has a hard time to understand the map.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "They had problems finding a seat on the train.",
+          "feedback": "This one is correct: have problems + V-ing."
+        },
+        {
+          "key": "D",
+          "text": "We had a hard time carrying the heavy box.",
+          "feedback": "This one is correct: have a hard time + V-ing."
+        }
+      ],
+      "answer": "B",
+      "explanation": "have a hard time must be followed by V-ing: “She has a hard time understanding the map.” Not “to understand”.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the word after each “difficulty / hard time / problems”.",
+          "action": "highlight-words",
+          "words": [
+            "difficulty",
+            "a hard time",
+            "problems"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "All of them need V-ing. Which one uses “to V”?",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A follows the rule. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: B (to understand → understanding).",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q23",
+      "skill": "grammar",
+      "sub_skill": "because-vs-because-of",
+      "type": "fill-blank",
+      "stem": "The flight was delayed ___ ___ the strong wind. (two words)",
+      "answer": [
+        "because of",
+        "due to"
+      ],
+      "explanation": "“the strong wind” is a noun phrase, not a clause (no verb). Noun phrase → because of. 名詞片語前用 because of。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at what comes after the blank. Is there a verb?",
+          "action": "highlight-words",
+          "words": [
+            "the strong wind"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "because + S + V; because of + noun.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "“the strong wind” has no verb, so it is a noun phrase.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: because of.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g10-4u-u08-q24",
+      "skill": "grammar",
+      "sub_skill": "because-vs-because-of",
+      "type": "single-choice",
+      "stem": "Which sentence is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because of it was raining, we stayed inside.",
+          "feedback": "“it was raining” is a clause (S + V). Use “because”, not “because of”."
+        },
+        {
+          "key": "B",
+          "text": "We stayed inside because the rain.",
+          "feedback": "“the rain” is a noun. Use “because of the rain”."
+        },
+        {
+          "key": "C",
+          "text": "We stayed inside because of the rain.",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "Because the rain, we stayed inside.",
+          "feedback": "“because” needs a subject + verb after it."
+        }
+      ],
+      "answer": "C",
+      "explanation": "because of + noun (the rain); because + S + V (it was raining). Only C matches the rule.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at what comes after “because” or “because of” in each sentence.",
+          "action": "highlight-words",
+          "words": [
+            "because of the rain",
+            "because the rain"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Noun → because of. Subject + verb → because.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A puts a clause after “because of”. Remove it.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: C. (= We stayed inside because it was raining.)",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#4u-2026-09"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g10-4u-u08-q01v",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Never Clean Your House Again"
+        },
+        {
+          "key": "B",
+          "text": "The Melamine Sponge: Handy but Not Perfect"
+        },
+        {
+          "key": "C",
+          "text": "Ten Uses for Old Cups"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The title should show both sides: useful (handy) but with limits (not perfect)."
+    },
+    {
+      "question_id": "g10-4u-u08-q04v",
+      "skill": "reading",
+      "sub_skill": "cause-effect",
+      "type": "single-choice",
+      "stem": "What can happen when hot water and oil are used with the sponge?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It cleans better and lasts longer."
+        },
+        {
+          "key": "B",
+          "text": "It breaks down faster and may give off harmful particles."
+        },
+        {
+          "key": "C",
+          "text": "It becomes harder and shinier."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 4: hot water and oil make it break down faster, and it may give off harmful particles."
+    },
+    {
+      "question_id": "g10-4u-u08-q15v",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "The sponge is firm, so you can cut it without it ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "falling apart"
+        },
+        {
+          "key": "B",
+          "text": "giving off"
+        },
+        {
+          "key": "C",
+          "text": "keeping in mind"
+        }
+      ],
+      "answer": "A",
+      "explanation": "fall apart = break into pieces."
+    },
+    {
+      "question_id": "g10-4u-u08-q21v",
+      "skill": "grammar",
+      "sub_skill": "have-trouble-ving",
+      "type": "single-choice",
+      "stem": "Many students have difficulty ___ new words.",
+      "options": [
+        {
+          "key": "A",
+          "text": "remember"
+        },
+        {
+          "key": "B",
+          "text": "remembering"
+        },
+        {
+          "key": "C",
+          "text": "to remember"
+        }
+      ],
+      "answer": "B",
+      "explanation": "have difficulty + V-ing → remembering."
+    }
+  ]
+}

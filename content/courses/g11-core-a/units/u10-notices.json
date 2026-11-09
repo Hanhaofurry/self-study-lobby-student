@@ -1,0 +1,457 @@
+{
+  "unit": {
+    "unit_id": "g11-live-u10",
+    "order": 10,
+    "title": "Learning to Write: Notices",
+    "title_zh": "英文寫作課：撰寫告示",
+    "topic": "writing",
+    "grade": [
+      11
+    ],
+    "objectives": [
+      "I can list the key information a notice needs: what, when, where, who, and what to do.",
+      "I can write a short, clear notice for a school or club event.",
+      "I can use \"hand in / submit / turn in\" correctly."
+    ],
+    "estimated_minutes": 30,
+    "tags": [
+      "#live-2026-08"
+    ],
+    "source": "Live 互動英語 2026年8月號 p.42"
+  },
+  "passages": [],
+  "sets": [
+    {
+      "set_id": "g11-live-u10-w1",
+      "skill": "writing",
+      "title": "Writing 1 · Write a Notice",
+      "question_ids": [
+        "g11-live-u10-q31"
+      ],
+      "estimated_minutes": 18
+    },
+    {
+      "set_id": "g11-live-u10-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Notice Words & hand in",
+      "question_ids": [
+        "g11-live-u10-q11",
+        "g11-live-u10-q12",
+        "g11-live-u10-q13",
+        "g11-live-u10-q14",
+        "g11-live-u10-q15"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-live-u10-q31",
+      "skill": "writing",
+      "sub_skill": "notice",
+      "type": "essay",
+      "stem": "Your school library is holding a Used Book Sale. Write a notice for all students and teachers. Use these details: Friday, November 20; 12:10–1:00 p.m. (lunch break); the school library; books cost NT$20–NT$50; students who want to sell old books must hand them in to the library desk by Wednesday, November 18; contact Ms. Lin for more information. Your notice should tell readers what is happening, when and where, who it is for, what they should do, and who to contact.",
+      "word_target": {
+        "support": [
+          40,
+          60
+        ],
+        "standard": [
+          70,
+          100
+        ]
+      },
+      "rubric_id": "rb-opinion-4x4",
+      "scaffolds": {
+        "frames": [
+          "[Title] ___",
+          "All ___ are invited to ___.",
+          "Date: ___ / Time: ___ / Place: ___",
+          "Please hand in ___ to ___ by ___.",
+          "Students should bring ___.",
+          "For more information, please contact ___."
+        ],
+        "word_bank": [
+          "are invited to",
+          "upcoming",
+          "hand in",
+          "submit",
+          "by (+ deadline)",
+          "If necessary,",
+          "register",
+          "get in touch with",
+          "contact",
+          "For more information,"
+        ],
+        "model_text": "Used Book Sale\nAll students and teachers are invited to our Used Book Sale!\nDate: Friday, November 20\nTime: 12:10 p.m.–1:00 p.m. (lunch break)\nPlace: The school library\nYou can buy storybooks, comics, and test-prep books for only NT$20 to NT$50. If you want to sell your old books, please hand them in to the library desk by Wednesday, November 18. All the money will be used to buy new books for the library. For more information, please contact Ms. Lin at the library.",
+        "checklist": [
+          "I wrote a short, clear title.",
+          "I said who the notice is for and what is happening.",
+          "I gave the date, time, and place.",
+          "I told readers what to do and the deadline (hand in ... by ...).",
+          "I gave a contact person.",
+          "I kept my sentences short and direct."
+        ]
+      },
+      "explanation": "A clear notice has a short title, an invitation line that says who it is for, the date/time/place, what readers should do (e.g. hand in, bring, register), and a contact person. 告示要短、直接、好掃讀：標題 → 對象與活動 → 時間地點 → 要做的事 → 聯絡人。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Start with a short title, then one sentence: who is invited and to what event?",
+          "action": "explain"
+        },
+        {
+          "level": 2,
+          "text": "Use the frames and the word bank. Put the date, time, and place on separate lines.",
+          "action": "show-frames"
+        },
+        {
+          "level": 3,
+          "text": "Sample start: \"Used Book Sale — All students and teachers are invited to ...\" Then add Date: / Time: / Place:.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Read the model notice below, then write your own with the same parts.",
+          "action": "show-model"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "create",
+      "dok": 3,
+      "points": 16,
+      "tags": [
+        "#live-2026-08",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u10-q11",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "Please ___ your homework to Mr. Wang before Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "hand in",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "hand out",
+          "feedback": "Hand out means to give things to many people, like a teacher giving out worksheets. Students give homework TO the teacher."
+        },
+        {
+          "key": "C",
+          "text": "take off",
+          "feedback": "Take off means 脫下 (clothes) or 起飛 (planes). Which phrase means 繳交?"
+        }
+      ],
+      "answer": "A",
+      "explanation": "hand in sth (to sb) = give your work to a teacher（繳交）. Same meaning: turn in / submit. hand out = 分發（老師發給學生）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Who gets the homework? Read the words after the blank.",
+          "action": "highlight-words",
+          "words": [
+            "to Mr. Wang"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a phrase meaning 繳交 (give work to a teacher).",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Take off\" means 脫下 or 起飛. It doesn't fit homework.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: hand in. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u10-q11v",
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u10-q12",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "You need a signed ___ slip from your parents before you can join the school trip.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reminder",
+          "feedback": "A reminder helps you remember something. But here your parents must say \"yes\" first."
+        },
+        {
+          "key": "B",
+          "text": "instruction",
+          "feedback": "Instructions tell you how to do something. What do parents sign to say \"you may go\"?"
+        },
+        {
+          "key": "C",
+          "text": "permission",
+          "feedback": ""
+        }
+      ],
+      "answer": "C",
+      "explanation": "permission slip = a form that says your parents allow you to do something（家長同意書）.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Your parents must sign it before you can go. What do they give you?",
+          "action": "highlight-words",
+          "words": [
+            "from your parents",
+            "before you can join"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word meaning 許可、允許.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Instruction\" tells you how to do something; parents don't sign an instruction slip.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: permission slip（同意書）.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u10-q13",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "fill-blank",
+      "stem": "All students must s _ _ _ _ _ (6 letters) their reports online by 5 p.m. on Monday.",
+      "answer": [
+        "submit"
+      ],
+      "explanation": "submit = hand in / turn in, more formal（提交）. submit a report / an application.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The word starts with \"s\" and means the same as hand in.",
+          "action": "highlight-words",
+          "words": [
+            "their reports online by 5 p.m."
+          ]
+        },
+        {
+          "level": 2,
+          "text": "It is a formal word for 提交, often used for online forms and reports.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "s u b _ _ _",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: submit = hand in = turn in.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u10-q14",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The principal will ___ the winners of the art contest at the morning meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "announce",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "register",
+          "feedback": "Register means to sign up (報名), e.g. register for a class. The principal is telling names, not signing up."
+        },
+        {
+          "key": "C",
+          "text": "invent",
+          "feedback": "Invent means to create something new, like a machine. Try a verb about telling news."
+        }
+      ],
+      "answer": "A",
+      "explanation": "announce = tell people something officially（宣布）. Notices are often used to announce events.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The principal tells everyone the winners' names. Which verb means that?",
+          "action": "highlight-words",
+          "words": [
+            "the winners of the art contest"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a verb meaning 宣布、公布.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Register\" means 報名; you register FOR something.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "B"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: announce.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u10-q15",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "Which sentence is NOT correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Please hand in your form by Monday.",
+          "feedback": "This one is correct: hand in + noun. Look for a sentence with a pronoun."
+        },
+        {
+          "key": "B",
+          "text": "Please hand your form in by Monday.",
+          "feedback": "This one is correct too: with a noun, it can go in the middle. Check where \"it\" goes."
+        },
+        {
+          "key": "C",
+          "text": "Please turn in your form by Monday.",
+          "feedback": "Turn in = hand in, so this is correct. Which sentence has a pronoun in the wrong place?"
+        },
+        {
+          "key": "D",
+          "text": "Please hand in it by Monday.",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "hand in is a phrasal verb with two parts. With a noun, both orders are OK: hand in your form / hand your form in. With a pronoun (it, them), the pronoun MUST go in the middle: hand it in. So D is wrong. 代名詞要放在 hand 和 in 中間。",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Compare the four sentences. What is different in D?",
+          "action": "explain"
+        },
+        {
+          "level": 2,
+          "text": "Rule: hand in + noun OR hand + noun + in. But with it/them: hand it in.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "A and C are both correct (hand in = turn in).",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A",
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: D. Correct form: Please hand it in by Monday.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#track-vocational"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-live-u10-q11v",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "Don't forget to ___ your art project by Thursday, or you will lose points.",
+      "options": [
+        {
+          "key": "A",
+          "text": "turn on"
+        },
+        {
+          "key": "B",
+          "text": "turn in"
+        },
+        {
+          "key": "C",
+          "text": "turn off"
+        }
+      ],
+      "answer": "B",
+      "explanation": "turn in = hand in = submit（繳交）."
+    }
+  ]
+}

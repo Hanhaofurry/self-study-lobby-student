@@ -1,0 +1,631 @@
+{
+  "unit": {
+    "unit_id": "g11-live-u12",
+    "order": 12,
+    "title": "Travel Gone Wrong: Airport Dialogues",
+    "title_zh": "當旅行出包：機場對話",
+    "topic": "travel",
+    "grade": [
+      11
+    ],
+    "objectives": [
+      "I can understand key information in airport dialogues about delays, curfews, lost baggage, and missed connections.",
+      "I can use useful airport words such as voucher, curfew, rebook, and free of charge.",
+      "I can ask an airline agent for help in simple English."
+    ],
+    "estimated_minutes": 25,
+    "tags": [
+      "#live-2026-08"
+    ],
+    "source": "Live 互動英語 2026年8月號 p.51"
+  },
+  "passages": [
+    {
+      "passage_id": "g11-live-u12-p1",
+      "title": "Problems at the Airport",
+      "topic": "travel",
+      "abstraction": "concrete",
+      "original_available": true,
+      "audio_url": "",
+      "transcript": "[1] Flight Delay\nPassenger: Hi. The screen says my flight is delayed. Do you know why?\nAgent: Yes. We found a technical problem with the plane, and safety comes first. Boarding will start at 6:30 p.m. Here is a meal voucher for the airport restaurants.\n[2] Airport Curfew\nPassenger: My delayed flight was just canceled! What happened?\nAgent: I'm sorry. This airport has a curfew. No planes can take off or land at night. The next flight leaves tomorrow at 10:30 a.m.\nPassenger: Will you give me a hotel room?\nAgent: I'm afraid not. We are a low-cost airline, so hotels aren't included. But we can give you a travel voucher.\n[3] Lost Baggage\nPassenger: My suitcase never came out. Here is my baggage claim ticket.\nAgent: Let me help you file a report. What does your bag look like?\nPassenger: It's a medium-sized black suitcase with a red tag.\nAgent: Thank you. Please write down your phone number and address. We'll track your bag and call you when we know more.\n[4] Missed Connection\nPassenger: My first flight was late, so I missed my connecting flight to Tokyo.\nAgent: There's another flight at 9:00 tonight. I can rebook you on it.\nPassenger: Do I have to pay extra?\nAgent: No. The delay was the airline's fault, so the change is free of charge. Please go to gate 12.",
+      "variants": []
+    }
+  ],
+  "sets": [
+    {
+      "set_id": "g11-live-u12-l1",
+      "skill": "listening",
+      "title": "Listening 1 · Problems at the Airport",
+      "passage_id": "g11-live-u12-p1",
+      "question_ids": [
+        "g11-live-u12-q41",
+        "g11-live-u12-q42",
+        "g11-live-u12-q43",
+        "g11-live-u12-q44"
+      ],
+      "estimated_minutes": 10
+    },
+    {
+      "set_id": "g11-live-u12-v1",
+      "skill": "vocabulary",
+      "title": "Vocabulary 1 · Airport Words & Expressions",
+      "question_ids": [
+        "g11-live-u12-q11",
+        "g11-live-u12-q12",
+        "g11-live-u12-q13",
+        "g11-live-u12-q14",
+        "g11-live-u12-q15"
+      ],
+      "estimated_minutes": 8
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "g11-live-u12-q41",
+      "skill": "listening",
+      "sub_skill": "key-information",
+      "type": "single-choice",
+      "stem": "Dialogue 1: Why is the flight delayed?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because of bad weather",
+          "feedback": "Weather is never mentioned. Listen for the word \"problem\"."
+        },
+        {
+          "key": "B",
+          "text": "Because the pilot is sick",
+          "feedback": "The pilot isn't mentioned. What did they find with the plane?"
+        },
+        {
+          "key": "C",
+          "text": "Because there is a technical problem with the plane",
+          "feedback": ""
+        },
+        {
+          "key": "D",
+          "text": "Because the airport is closed at night",
+          "feedback": "That is the reason in dialogue 2, not dialogue 1. Listen to dialogue 1 again."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The agent says \"We found a technical problem with the plane, and safety comes first.\" technical problem / technical issue = 機械（技術）故障.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Listen to dialogue 1 again. Focus on the agent's first answer.",
+          "action": "replay"
+        },
+        {
+          "level": 2,
+          "text": "Listen at slow speed. Key word: technical.",
+          "action": "replay-slow"
+        },
+        {
+          "level": 3,
+          "text": "\"We found a ___ problem with the plane, and safety comes first.\"",
+          "action": "partial-transcript"
+        },
+        {
+          "level": 4,
+          "text": "Full transcript is shown. Answer: a technical problem with the plane.",
+          "action": "show-transcript"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-travel",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u12-q42",
+      "skill": "listening",
+      "sub_skill": "key-information",
+      "type": "single-choice",
+      "stem": "Dialogue 2: Why can't the passenger leave tonight?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The airport has a curfew, so no planes can fly at night.",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "All the hotels near the airport are full.",
+          "feedback": "Hotels come up later, but they are not why the flight can't leave. Listen for \"curfew\"."
+        },
+        {
+          "key": "C",
+          "text": "The passenger lost his ticket.",
+          "feedback": "Tickets are not mentioned in dialogue 2. What rule does the airport have?"
+        },
+        {
+          "key": "D",
+          "text": "The plane needs to be cleaned.",
+          "feedback": "Cleaning is not mentioned. Listen to the agent's first answer again."
+        }
+      ],
+      "answer": "A",
+      "explanation": "\"This airport has a curfew. No planes can take off or land at night.\" curfew（宵禁）= a rule that stops something at night.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Listen to dialogue 2 again. What rule does the airport have?",
+          "action": "replay"
+        },
+        {
+          "level": 2,
+          "text": "Listen slowly. Key words: curfew, take off, land, at night.",
+          "action": "replay-slow"
+        },
+        {
+          "level": 3,
+          "text": "\"This airport has a ___. No planes can take off or land at night.\"",
+          "action": "partial-transcript"
+        },
+        {
+          "level": 4,
+          "text": "Full transcript is shown. Answer: the airport has a night curfew.",
+          "action": "show-transcript"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-travel",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u12-q43",
+      "skill": "listening",
+      "sub_skill": "key-information",
+      "type": "single-choice",
+      "stem": "Dialogue 3: What does the passenger give the agent so the bag can be found and sent to her?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Money to buy a new suitcase",
+          "feedback": "Nobody pays money in dialogue 3. What information does the agent ask for?"
+        },
+        {
+          "key": "B",
+          "text": "Her passport and her hotel key",
+          "feedback": "These are not mentioned. Listen for the two things the agent asks."
+        },
+        {
+          "key": "C",
+          "text": "A photo of the suitcase",
+          "feedback": "She doesn't show a photo; she tells the agent about the bag in words. What else does she write down?"
+        },
+        {
+          "key": "D",
+          "text": "A description of the bag and her phone number and address",
+          "feedback": ""
+        }
+      ],
+      "answer": "D",
+      "explanation": "She describes the bag (a medium-sized black suitcase with a red tag) and writes down her phone number and address, so the airline can track the bag and contact her (D).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Listen to dialogue 3 again. What two questions does the agent ask?",
+          "action": "replay"
+        },
+        {
+          "level": 2,
+          "text": "Listen slowly. Key words: What does your bag look like? / phone number and address.",
+          "action": "replay-slow"
+        },
+        {
+          "level": 3,
+          "text": "\"It's a medium-sized black suitcase with a red tag.\" ... \"Please write down your ___ ___ and address.\"",
+          "action": "partial-transcript"
+        },
+        {
+          "level": 4,
+          "text": "Full transcript is shown. Answer: a description of the bag and her contact details.",
+          "action": "show-transcript"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-travel",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u12-q44",
+      "skill": "listening",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Dialogue 4: Why doesn't the passenger have to pay for the new flight?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because he has a travel voucher",
+          "feedback": "The travel voucher is in dialogue 2. Listen for the word \"fault\" in dialogue 4."
+        },
+        {
+          "key": "B",
+          "text": "Because the airline caused the delay",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "Because the new flight is not full",
+          "feedback": "The agent never talks about empty seats. Why is the change free?"
+        },
+        {
+          "key": "D",
+          "text": "Because he is flying to Tokyo",
+          "feedback": "Tokyo is where he is going, not the reason it's free. Listen to the agent's last answer."
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"The delay was the airline's fault, so the change is free of charge.\" If the airline caused the problem, the airline pays. free of charge = 免費.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Listen to the end of dialogue 4. Whose fault was the delay?",
+          "action": "replay"
+        },
+        {
+          "level": 2,
+          "text": "Listen slowly. Key words: fault, free of charge.",
+          "action": "replay-slow"
+        },
+        {
+          "level": 3,
+          "text": "\"The delay was the ___ fault, so the change is free of charge.\"",
+          "action": "partial-transcript"
+        },
+        {
+          "level": 4,
+          "text": "Full transcript is shown. Answer: the airline caused the delay.",
+          "action": "show-transcript"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08",
+        "#topic-travel",
+        "#track-vocational"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u12-q11",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The ___ gave every passenger a meal voucher because the flight was three hours late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "airline",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "baggage",
+          "feedback": "Baggage means bags and suitcases. Bags can't give vouchers!"
+        },
+        {
+          "key": "C",
+          "text": "curfew",
+          "feedback": "A curfew is a rule about night hours. Who would give passengers vouchers?"
+        }
+      ],
+      "answer": "A",
+      "explanation": "airline = a company that flies planes and carries passengers（航空公司）. A low-cost airline / carrier = 廉價航空.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Who gives vouchers to passengers when a flight is late?",
+          "action": "highlight-words",
+          "words": [
+            "gave every passenger a meal voucher"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word for a company that flies planes.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Curfew\" is a rule, not a company. It can't give vouchers.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: airline.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u12-q12",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "fill-blank",
+      "stem": "The delay was our fault, so changing your flight is free ___ charge.",
+      "answer": [
+        "of"
+      ],
+      "explanation": "free of charge = 免費 (no money needed). charge (n.) = 費用.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the words around the blank: \"free ___ charge\".",
+          "action": "highlight-words",
+          "words": [
+            "free ___ charge"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "This is a fixed phrase meaning 免費.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "The missing word is a short preposition: o_.",
+          "action": "explain"
+        },
+        {
+          "level": 4,
+          "text": "Answer: free of charge.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "foundation",
+      "bloom": "remember",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u12-q13",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The airport has a ___, so no planes can land between 11 p.m. and 6 a.m.",
+      "options": [
+        {
+          "key": "A",
+          "text": "voucher",
+          "feedback": "A voucher is a paper you can use instead of money. It can't stop planes from landing."
+        },
+        {
+          "key": "B",
+          "text": "curfew",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "tag",
+          "feedback": "A tag is a label on your bag. Which word is a rule about night hours?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "curfew = a rule that stops an activity during certain hours, usually at night（宵禁）. Some airports have one to stop noise at night.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read the second part: no planes can land at night. What kind of rule is that?",
+          "action": "highlight-words",
+          "words": [
+            "no planes can land between 11 p.m. and 6 a.m."
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a word for a night-time rule（宵禁）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "A \"tag\" is a small label on a bag.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: curfew. Try the similar question below.",
+          "action": "show-variant"
+        }
+      ],
+      "variant_question_id": "g11-live-u12-q13v",
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u12-q14",
+      "skill": "vocabulary",
+      "sub_skill": "collocation",
+      "type": "single-choice",
+      "stem": "Which sentence is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I lost two baggages at the airport.",
+          "feedback": "Baggage is uncountable, so it never takes -s. How can we count it?"
+        },
+        {
+          "key": "B",
+          "text": "I lost two pieces of baggage at the airport.",
+          "feedback": ""
+        },
+        {
+          "key": "C",
+          "text": "I lost two baggage at the airport.",
+          "feedback": "We can't put a number right before an uncountable noun. Try \"two pieces of ...\"."
+        }
+      ],
+      "answer": "B",
+      "explanation": "baggage and luggage are uncountable nouns（不可數）. We can't say two baggages. Use a piece of / two pieces of baggage, or count suitcases (two suitcases).",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Is \"baggage\" a countable or an uncountable noun?",
+          "action": "explain"
+        },
+        {
+          "level": 2,
+          "text": "Uncountable nouns have no -s and need a unit: a piece of ...",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "Option A adds -s to baggage, which is not possible.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "A"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: B. I lost two pieces of baggage. (Or: I lost two suitcases.)",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "challenge",
+      "bloom": "analyze",
+      "dok": 2,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    },
+    {
+      "question_id": "g11-live-u12-q15",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Passengers on Flight 202, please ___ to Gate 8 now. Boarding will begin soon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "proceed",
+          "feedback": ""
+        },
+        {
+          "key": "B",
+          "text": "organize",
+          "feedback": "Organize means to plan or arrange something. We need a verb meaning \"go\"."
+        },
+        {
+          "key": "C",
+          "text": "charge",
+          "feedback": "Charge means to ask for money. Passengers are being told where to go."
+        }
+      ],
+      "answer": "A",
+      "explanation": "proceed to + place = go to（前往）. It is a formal word used in airport announcements.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at the words after the blank: \"to Gate 8\".",
+          "action": "highlight-words",
+          "words": [
+            "to Gate 8"
+          ]
+        },
+        {
+          "level": 2,
+          "text": "You need a formal verb meaning \"go\"（前往）.",
+          "action": "explain"
+        },
+        {
+          "level": 3,
+          "text": "\"Charge\" means to ask for money. It doesn't fit.",
+          "action": "eliminate-option",
+          "eliminate": [
+            "C"
+          ]
+        },
+        {
+          "level": 4,
+          "text": "Answer: proceed. Please proceed to gate 12 = 請前往 12 號登機門.",
+          "action": "explain"
+        }
+      ],
+      "difficulty": "standard",
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": [
+        "#live-2026-08"
+      ],
+      "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g11-live-u12-q13v",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "Because of the ___, the night market had to close at 10 p.m. during the storm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "voucher"
+        },
+        {
+          "key": "B",
+          "text": "luggage"
+        },
+        {
+          "key": "C",
+          "text": "curfew"
+        }
+      ],
+      "answer": "C",
+      "explanation": "curfew = a rule that stops activities at night."
+    }
+  ]
+}
