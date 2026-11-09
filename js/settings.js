@@ -1,5 +1,5 @@
 // Reading & accessibility settings (UDL: multiple means of representation).
-import { getState, update } from "./store.js";
+import { getState, updateSettings } from "./store.js";
 import { esc, icon, ttsAvailable, speak } from "./ui.js";
 
 export function applySettings() {
@@ -78,11 +78,11 @@ export function openSettings() {
   dialog.querySelector("form").addEventListener("change", (event) => {
     const { name, value } = event.target;
     if (!name) return;
-    update((s) => {
+    updateSettings((settings) => {
       let v = value;
       if (name === "speechRate") v = Number(value);
       if (name === "showTimer") v = value === "true";
-      s.settings[name] = v;
+      settings[name] = v;
     });
     applySettings();
     document.dispatchEvent(new CustomEvent("settings-changed"));

@@ -1,5 +1,5 @@
 // Practice page: question → answer → check → feedback, with 4-stage hints (scaffolding).
-import { getState, update, markActiveToday } from "../store.js";
+import { getState, update, markActiveToday, queueEvent, scheduleSync } from "../store.js";
 import { setHasSupport, loadRubric } from "../content.js";
 import {
   esc, icon, SKILLS, BLOOM, DIFFICULTY, subSkillLabel, skillChip, toast, todayISO,
@@ -726,7 +726,9 @@ export async function renderPractice(root, ctx, setId) {
       delete st.runs[setId];
       st.last = null;
       markActiveToday();
+      queueEvent(session);
     });
+    scheduleSync(5000); // short delay so the reflection answer is included
     renderSummary(session);
   }
 
@@ -769,7 +771,12 @@ export async function renderPractice(root, ctx, setId) {
     root.querySelectorAll("[data-reflect]").forEach((b) => b.addEventListener("click", () => {
       root.querySelectorAll("[data-reflect]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
       root.querySelectorAll("[data-reflect]").forEach((x) => x.classList.toggle("is-selected", x === b));
-      update((st) => { const last = st.sessions[st.sessions.length - 1]; if (last) last.reflection = b.dataset.reflect; });
+      update((st) => {
+        const last = st.sessions[st.sessions.length - 1];
+        if (last) last.reflection = b.dataset.reflect;
+        const ev = (st.pendingEvents || []).find((e) => e.ts === last?.ts && e.set_id === last?.set_id);
+        if (ev) ev.reflection = b.dataset.reflect;
+      });
       toast("謝謝分享，已記錄你的反思");
     }));
     root.querySelector('[data-action="again"]').addEventListener("click", () => {

@@ -8,7 +8,36 @@ const GRADES = [
   { grade: 12, label: "十二年級", sub: "高三", length: "文章約 450–650 字", lexile: "1000L–1200L" },
 ];
 
+// Cloud mode: the class comes from the teacher's roster, so this page becomes "my account".
+function renderAccount(root, ctx) {
+  const p = ctx.auth?.profile || {};
+  const c = ctx.cls;
+  root.innerHTML = `
+    <section class="page page--narrow">
+      <header class="page-head">
+        <a class="back-link" href="#/">${icon("arrowLeft")} 首頁</a>
+        <h1>我的帳號</h1>
+      </header>
+      <div class="card account-card">
+        <span class="account-card__avatar" aria-hidden="true">${esc((p.name || p.student_id || "?").slice(-2))}</span>
+        <div>
+          <strong class="account-card__name">${esc(p.name || "")}</strong>
+          <p class="muted small">學號 ${esc(p.student_id || "")}${p.seat ? ` · ${esc(p.seat)} 號` : ""}</p>
+          <p class="muted small">${esc(c?.class_name || p.class_code || "")}${ctx.course ? ` · ${esc(ctx.course.title)}` : ""}</p>
+        </div>
+      </div>
+      ${!c ? `<div class="card empty"><p>老師還沒有幫你的班級設定課程，請告訴老師。</p></div>` : ""}
+      <div class="q-actions">
+        ${ctx.course ? `<a class="button button--lg" href="#/units">進入課程 ${icon("arrowRight")}</a>` : ""}
+        <a class="button button--secondary button--lg" href="#/password">修改密碼</a>
+        <button class="button button--secondary button--lg" type="button" data-logout>登出</button>
+      </div>
+      <p class="privacy">${icon("lock")} 你的學習紀錄會自動存到老師的雲端試算表，換一台電腦登入也看得到。在公用電腦練習完請記得登出。</p>
+    </section>`;
+}
+
 export async function renderSelect(root, ctx) {
+  if (ctx.cloud) return renderAccount(root, ctx);
   const catalog = await loadCatalog();
   const state = getState();
   let grade = state.grade || ctx.course?.grade?.[0] || 10;
