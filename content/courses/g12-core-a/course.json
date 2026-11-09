@@ -1,0 +1,9 @@
+{
+  "course_id": "g12-core-a",
+  "title": "十二年級學測衝刺英文",
+  "grade": [12],
+  "track": "general",
+  "default_level": "standard",
+  "version": "2026.11",
+  "units": ["units/u01-ai-creativity.json"]
+}

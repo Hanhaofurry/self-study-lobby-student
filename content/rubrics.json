@@ -1,0 +1,13 @@
+{
+  "rubrics": [
+    {
+      "rubric_id": "rb-opinion-4x4",
+      "criteria": [
+        { "name": "Content", "zh": "內容", "descriptors": { "4": "Clear position with two well-supported reasons and examples.", "3": "Clear position with two reasons and one example.", "2": "A position is given, but the reasons are unclear or there is only one.", "1": "No clear position yet." } },
+        { "name": "Organization", "zh": "組織", "descriptors": { "4": "Topic sentence, logical order, linking words, and a conclusion.", "3": "Mostly logical order with some linking words.", "2": "Ideas are listed without a clear order.", "1": "Hard to follow." } },
+        { "name": "Language", "zh": "語言", "descriptors": { "4": "Varied words and sentences with few errors.", "3": "Some variety; errors do not block meaning.", "2": "Simple sentences; errors sometimes block meaning.", "1": "Frequent errors block meaning." } },
+        { "name": "Mechanics", "zh": "拼字標點", "descriptors": { "4": "Spelling, capitals, and punctuation are correct.", "3": "A few small mistakes.", "2": "Several mistakes.", "1": "Many mistakes." } }
+      ]
+    }
+  ]
+}

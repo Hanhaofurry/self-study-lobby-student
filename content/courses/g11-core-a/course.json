@@ -1,0 +1,9 @@
+{
+  "course_id": "g11-core-a",
+  "title": "十一年級必修英文",
+  "grade": [11],
+  "track": "general",
+  "default_level": "standard",
+  "version": "2026.11",
+  "units": ["units/u01-fast-fashion.json"]
+}

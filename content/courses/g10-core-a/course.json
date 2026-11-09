@@ -1,0 +1,9 @@
+{
+  "course_id": "g10-core-a",
+  "title": "十年級必修英文",
+  "grade": [10],
+  "track": "general",
+  "default_level": "standard",
+  "version": "2026.11",
+  "units": ["units/u01-phones.json", "units/u02-food-waste.json"]
+}

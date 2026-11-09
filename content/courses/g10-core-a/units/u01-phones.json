@@ -1,0 +1,411 @@
+{
+  "unit": {
+    "unit_id": "g10-u01",
+    "order": 1,
+    "title": "Phones in the Classroom",
+    "title_zh": "教室裡的手機",
+    "topic": "technology",
+    "grade": [10],
+    "objectives": [
+      "I can identify the main idea of an article.",
+      "I can make an inference using evidence from the text.",
+      "I can write a short opinion paragraph with two reasons."
+    ],
+    "estimated_minutes": 45,
+    "tags": ["#topic-technology", "#textbook-L1"]
+  },
+  "passages": [
+    {
+      "passage_id": "g10-u01-p1",
+      "title": "Phones in the Classroom",
+      "topic": "technology",
+      "abstraction": "social",
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1000,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Many teenagers say they cannot imagine a single day without their phones. They use them to chat with friends, check homework deadlines, listen to music, and look up answers in seconds. For most students, a phone is not just a gadget; it is a personal assistant that travels everywhere with them.",
+            "Yet a growing number of schools around the world are experimenting with phone-free classrooms. Supporters argue that constant notifications fragment students' attention. A single buzz can pull a learner away from a math problem, and research suggests it may take several minutes to fully refocus. Some teachers also report that students talk to one another more during breaks when their phones are locked away.",
+            "Critics respond that banning phones ignores the reality that digital skills are essential for future careers. Employers expect young workers to search for reliable information, communicate online, and use apps to organize their work. If schools simply remove phones, these critics say, students lose the chance to practice using technology responsibly with a teacher's guidance.",
+            "Between these two positions, many schools are searching for a middle path. Some allow phones only for specific learning tasks, while others ask students to keep them in a box until the bell rings. Whatever the rule, the debate raises a bigger question: should schools protect students from distraction, or teach them how to manage it?"
+          ]
+        },
+        {
+          "level": "support",
+          "lexile": 850,
+          "lexile_source": "estimated",
+          "paragraphs": [
+            "Many teenagers use their phones every day. They chat with friends, check their homework, listen to music, and find answers fast. For many students, a phone is like a small helper that goes everywhere with them.",
+            "Now some schools ask students to put their phones away in class. These schools say phone messages make it hard to focus. One short buzz can stop a student in the middle of a math problem. It can take a few minutes to start thinking clearly again. Some teachers also see that students talk more with each other when phones are locked away.",
+            "Other people, called critics, do not agree. They say digital skills are essential for future jobs. Workers must find good information online and use apps for their work. If schools take phones away, students cannot practice using them in a smart way with a teacher's help.",
+            "Many schools want a middle path. Some let students use phones only for class tasks. Others ask students to keep phones in a box until the bell rings. The big question is this: should schools keep students away from distraction, or teach them how to control it?"
+          ]
+        }
+      ],
+      "glossary": [
+        { "word": "gadget", "pos": "n.", "zh": "小裝置、小玩意", "example": "This kitchen gadget cuts apples in one second." },
+        { "word": "fragment", "pos": "v.", "zh": "使分裂、使零碎", "example": "Noise can fragment your attention." },
+        { "word": "refocus", "pos": "v.", "zh": "重新集中注意力", "example": "Take a deep breath and refocus on the question." },
+        { "word": "critic", "pos": "n.", "zh": "批評者", "example": "Critics say the plan is too expensive." },
+        { "word": "essential", "pos": "adj.", "zh": "必要的、不可缺少的", "example": "Water is essential for life." },
+        { "word": "distraction", "pos": "n.", "zh": "使人分心的事物", "example": "Loud music is a distraction when I study." }
+      ]
+    },
+    {
+      "passage_id": "g10-u01-p2",
+      "title": "Station Announcement",
+      "topic": "daily-life",
+      "abstraction": "concrete",
+      "audio_url": "",
+      "transcript": "Attention, please. The train to Kaohsiung departs at nine fifteen from platform three. Passengers for Tainan should change trains at Chiayi. Please have your tickets ready. Thank you.",
+      "variants": []
+    }
+  ],
+  "sets": [
+    { "set_id": "g10-u01-r1", "skill": "reading", "title": "Reading 1 · Phones in the Classroom", "passage_id": "g10-u01-p1", "question_ids": ["g10-u01-q01", "g10-u01-q02", "g10-u01-q03", "g10-u01-q04"], "estimated_minutes": 12 },
+    { "set_id": "g10-u01-v1", "skill": "vocabulary", "title": "Vocabulary 1 · Words from the Text", "question_ids": ["g10-u01-q11", "g10-u01-q12", "g10-u01-q13", "g10-u01-q14"], "estimated_minutes": 8 },
+    { "set_id": "g10-u01-g1", "skill": "grammar", "title": "Grammar 1 · Present Perfect & Agreement", "question_ids": ["g10-u01-q21", "g10-u01-q22", "g10-u01-q23"], "estimated_minutes": 8 },
+    { "set_id": "g10-u01-w1", "skill": "writing", "title": "Writing 1 · Opinion Paragraph", "question_ids": ["g10-u01-q31"], "estimated_minutes": 15 },
+    { "set_id": "g10-u01-l1", "skill": "listening", "title": "Listening 1 · Station Announcement", "passage_id": "g10-u01-p2", "question_ids": ["g10-u01-q41", "g10-u01-q42"], "estimated_minutes": 5 }
+  ],
+  "questions": [
+    {
+      "question_id": "g10-u01-q01",
+      "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        { "key": "A", "text": "Why teenagers buy expensive phones", "feedback": "The passage never talks about prices. What do the schools and the critics disagree about?" },
+        { "key": "B", "text": "A debate over whether schools should limit phone use", "feedback": "" },
+        { "key": "C", "text": "How phones help students learn faster", "feedback": "That is only one small idea. The main idea must cover the whole passage." },
+        { "key": "D", "text": "The history of mobile technology", "feedback": "There are no dates or history in the passage. Try again!" }
+      ],
+      "answer": "B",
+      "explanation": "The passage shows two sides — schools that want phone-free classrooms and critics who disagree — and ends with a question. So it is about a debate (B). 主旨要能涵蓋全文，而不是只有一段的細節。",
+      "hints": [
+        { "level": 1, "text": "Read the first sentence of each paragraph. How many different opinions do you see?", "action": "highlight-paragraph", "paragraph": 0 },
+        { "level": 2, "text": "Key words: \"Yet\", \"Supporters argue\", and \"Critics respond\" show two sides.", "action": "highlight-words", "words": ["Yet", "Supporters argue", "Critics respond", "Other people"] },
+        { "level": 3, "text": "Option D can be removed: there is no history in the passage. Which option includes BOTH sides?", "action": "eliminate-option", "eliminate": ["D"] },
+        { "level": 4, "text": "The main idea covers the whole text: schools vs. critics = a debate. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g10-u01-q01v",
+      "difficulty": "foundation", "bloom": "understand", "dok": 2, "paragraph_ref": 0, "points": 10,
+      "tags": ["#topic-technology"], "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q02",
+      "skill": "reading", "sub_skill": "detail", "type": "single-choice",
+      "stem": "According to paragraph 2, why do some schools want phone-free classrooms?",
+      "stem_support": "In paragraph 2, why do some schools say \"no phones\"?",
+      "options": [
+        { "key": "A", "text": "Phones are too expensive for most families.", "feedback": "Price is not mentioned in paragraph 2. Look for the word \"attention\"." },
+        { "key": "B", "text": "Notifications make it hard for students to focus.", "feedback": "" },
+        { "key": "C", "text": "Students forget to charge their phones.", "feedback": "Charging is not in the text. What does \"a single buzz\" do to a learner?" },
+        { "key": "D", "text": "Teachers do not know how to use phones.", "feedback": "The text does not say this. Read paragraph 2 again, sentence 2." }
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 2 says notifications \"fragment students' attention\" and a buzz can \"pull a learner away\" from work. That means they make it hard to focus (B).",
+      "hints": [
+        { "level": 1, "text": "Go to paragraph 2. Find the sentence that begins with \"Supporters argue\".", "action": "highlight-paragraph", "paragraph": 1 },
+        { "level": 2, "text": "Key words: \"fragment students' attention\" and \"refocus\".", "action": "highlight-words", "words": ["fragment students' attention", "refocus", "hard to focus"] },
+        { "level": 3, "text": "Options A and C are never mentioned in the passage.", "action": "eliminate-option", "eliminate": ["A", "C"] },
+        { "level": 4, "text": "\"Fragment attention\" = break your focus into pieces, so the answer is B.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 2, "paragraph_ref": 1, "points": 10,
+      "tags": ["#topic-technology"], "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q03",
+      "skill": "reading", "sub_skill": "inference", "type": "single-choice",
+      "stem": "Based on the passage, which statement would the critics most likely agree with?",
+      "stem_support": "What do the critics think schools should do?",
+      "options": [
+        { "key": "A", "text": "Phones should be banned in all public places.", "feedback": "The critics never talk about all public places. This goes too far." },
+        { "key": "B", "text": "Schools should teach students to use phones responsibly.", "feedback": "" },
+        { "key": "C", "text": "Notifications improve students' concentration.", "feedback": "The passage says notifications break attention, not improve it." },
+        { "key": "D", "text": "Digital skills are less important than reading skills.", "feedback": "This is the opposite of the critics' view. Look at the word \"essential\"." }
+      ],
+      "answer": "B",
+      "explanation": "The critics say digital skills are essential for future careers and students should practice with a teacher's guidance. So they would prefer teaching responsible use (B) instead of banning phones. 推論題：答案不會原文照抄，但一定有文本證據。",
+      "hints": [
+        { "level": 1, "text": "Look at paragraph 3. Who are \"the critics\"? What do they care about?", "action": "highlight-paragraph", "paragraph": 2 },
+        { "level": 2, "text": "Key words: \"digital skills are essential\" and \"using technology responsibly\".", "action": "highlight-words", "words": ["essential", "responsibly", "smart way"] },
+        { "level": 3, "text": "Option A goes too far — \"all public places\" is not in the text. Now compare B and D.", "action": "eliminate-option", "eliminate": ["A"] },
+        { "level": 4, "text": "The critics value digital skills, so they would choose teaching over banning. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g10-u01-q03v",
+      "difficulty": "standard", "bloom": "analyze", "dok": 3, "paragraph_ref": 2, "points": 10,
+      "tags": ["#topic-technology", "#exam-gsat"], "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q04",
+      "skill": "reading", "sub_skill": "author-purpose", "type": "single-choice",
+      "stem": "Why does the writer end the passage with a question?",
+      "stem_support": "The last sentence is a question. Why?",
+      "options": [
+        { "key": "A", "text": "To show that the answer is very simple", "feedback": "If the answer were simple, there would be no debate. Look at \"a bigger question\"." },
+        { "key": "B", "text": "To invite readers to think about both sides", "feedback": "" },
+        { "key": "C", "text": "To prove that phones should be banned", "feedback": "The writer does not choose a side in the last paragraph." },
+        { "key": "D", "text": "To give advice on buying a new phone", "feedback": "Buying phones is not the topic here." }
+      ],
+      "answer": "B",
+      "explanation": "The question lists two choices (protect students from distraction OR teach them to manage it). The writer does not answer it, so the purpose is to make readers think about both sides (B).",
+      "hints": [
+        { "level": 1, "text": "Read the last sentence of paragraph 4 carefully.", "action": "highlight-paragraph", "paragraph": 3 },
+        { "level": 2, "text": "The question has the word \"or\". It gives two choices. Does the writer choose one?", "action": "highlight-words", "words": ["a bigger question", "big question"] },
+        { "level": 3, "text": "Options C and D are not what the writer does in paragraph 4.", "action": "eliminate-option", "eliminate": ["C", "D"] },
+        { "level": 4, "text": "An open question at the end usually invites readers to think. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g10-u01-q04v",
+      "difficulty": "challenge", "bloom": "analyze", "dok": 3, "paragraph_ref": 3, "points": 10,
+      "tags": ["#topic-technology", "#exam-gsat"], "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q11",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Constant notifications can ___ your attention, so you keep losing your place in the book.",
+      "options": [
+        { "key": "A", "text": "fragment", "feedback": "" },
+        { "key": "B", "text": "repair", "feedback": "Repair means \"fix\". Do notifications fix your attention?" },
+        { "key": "C", "text": "collect", "feedback": "Collect means \"bring together\". The sentence says you keep LOSING your place." }
+      ],
+      "answer": "A",
+      "explanation": "fragment = break into small pieces（使零碎）. Notifications break your attention, so you lose your place.",
+      "hints": [
+        { "level": 1, "text": "Read the second half: \"you keep losing your place\". Is this good or bad?", "action": "highlight-words", "words": ["losing your place"] },
+        { "level": 2, "text": "You need a word that means \"break into small pieces\"（打斷、使零碎）.", "action": "explain" },
+        { "level": 3, "text": "Example: The loud noise fragmented my thoughts, and I forgot what I wanted to say.", "action": "explain" },
+        { "level": 4, "text": "Answer: fragment. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g10-u01-q11v",
+      "difficulty": "standard", "bloom": "understand", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q12",
+      "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "Water is ___ for life; no plant or animal can live without it.",
+      "options": [
+        { "key": "A", "text": "essential", "feedback": "" },
+        { "key": "B", "text": "optional", "feedback": "Optional means \"you can choose not to have it\". Can animals live without water?" },
+        { "key": "C", "text": "famous", "feedback": "Famous means \"well known\". Read the part after the semicolon (;)." }
+      ],
+      "answer": "A",
+      "explanation": "essential = necessary（必要的）. \"No plant or animal can live without it\" tells us water is necessary.",
+      "hints": [
+        { "level": 1, "text": "The part after \";\" explains the blank. Read it again.", "action": "highlight-words", "words": ["can live without it"] },
+        { "level": 2, "text": "Find a word that means \"you must have it\"（不可缺少的）.", "action": "explain" },
+        { "level": 3, "text": "Option C does not fit the meaning. Compare A and B.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: essential. In the passage: \"digital skills are essential for future careers\".", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "remember", "dok": 1, "points": 10,
+      "tags": ["#track-vocational"], "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q13",
+      "skill": "vocabulary", "sub_skill": "collocation", "type": "single-choice",
+      "stem": "Our class needs to ___ a decision about the phone rule before Friday.",
+      "options": [
+        { "key": "A", "text": "make", "feedback": "" },
+        { "key": "B", "text": "say", "feedback": "We \"say\" words, but we do not \"say a decision\"." },
+        { "key": "C", "text": "build", "feedback": "We build houses, not decisions." }
+      ],
+      "answer": "A",
+      "explanation": "make a decision 是固定搭配（collocation）＝做決定。Other examples: make a plan, make a choice.",
+      "hints": [
+        { "level": 1, "text": "Some words always go together in English. Which verb goes with \"decision\"?", "action": "highlight-words", "words": ["decision"] },
+        { "level": 2, "text": "Think of \"make a plan\" and \"make a choice\".", "action": "explain" },
+        { "level": 3, "text": "Example: I made a decision to study for 20 minutes every day.", "action": "explain" },
+        { "level": 4, "text": "Answer: make a decision. 搭配詞要整組記：make a decision / make a mistake / make progress.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q14",
+      "skill": "vocabulary", "sub_skill": "word-parts", "type": "single-choice",
+      "stem": "In the word \"refocus\", the prefix re- means ___.",
+      "options": [
+        { "key": "A", "text": "again", "feedback": "" },
+        { "key": "B", "text": "not", "feedback": "\"Not\" is usually un- or dis-, like unhappy or dislike." },
+        { "key": "C", "text": "before", "feedback": "\"Before\" is pre-, like preview." }
+      ],
+      "answer": "A",
+      "explanation": "re- = again（再一次）: refocus = focus again; rewrite = write again; return = come back again.",
+      "hints": [
+        { "level": 1, "text": "Think of other re- words you know: rewrite, replay, return.", "action": "explain" },
+        { "level": 2, "text": "Replay = play ___ ?", "action": "explain" },
+        { "level": 3, "text": "Options B and C belong to other prefixes (un-, pre-).", "action": "eliminate-option", "eliminate": ["B", "C"] },
+        { "level": 4, "text": "Answer: again. refocus = focus again.", "action": "explain" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 2, "points": 10,
+      "tags": ["#track-vocational"], "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q21",
+      "skill": "grammar", "sub_skill": "present-perfect", "type": "fill-blank",
+      "stem": "She ___ (live) in Tainan since 2020.",
+      "answer": ["has lived", "'s lived"],
+      "explanation": "since + 過去時間點 → 現在完成式 have/has + p.p.；主詞 she 是第三人稱單數，所以是 has lived.",
+      "hints": [
+        { "level": 1, "text": "Find the time word in the sentence.", "action": "highlight-words", "words": ["since 2020"] },
+        { "level": 2, "text": "since + a point in the past → have/has + past participle (p.p.).", "action": "explain" },
+        { "level": 3, "text": "Example: I have known him since 2019. Is \"she\" singular or plural?", "action": "explain" },
+        { "level": 4, "text": "Answer: has lived. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g10-u01-q21v",
+      "difficulty": "standard", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q22",
+      "skill": "grammar", "sub_skill": "subject-verb-agreement", "type": "single-choice",
+      "stem": "Which sentence is correct?",
+      "options": [
+        { "key": "A", "text": "Each of the students have a phone.", "feedback": "The subject is \"Each\", not \"students\". Is \"each\" singular or plural?" },
+        { "key": "B", "text": "Each of the students has a phone.", "feedback": "" },
+        { "key": "C", "text": "Each of the students having a phone.", "feedback": "This sentence has no main verb. A sentence needs a verb like has." }
+      ],
+      "answer": "B",
+      "explanation": "Each of + 複數名詞，真正的主詞是 Each（單數），所以動詞用 has.",
+      "hints": [
+        { "level": 1, "text": "Find the real subject of the sentence. Is it \"Each\" or \"students\"?", "action": "explain" },
+        { "level": 2, "text": "Rule: each / every / one of ... → singular verb.", "action": "explain" },
+        { "level": 3, "text": "Option C has no main verb, so it is not a full sentence.", "action": "eliminate-option", "eliminate": ["C"] },
+        { "level": 4, "text": "Answer: B. Try the similar question below.", "action": "show-variant" }
+      ],
+      "variant_question_id": "g10-u01-q22v",
+      "difficulty": "standard", "bloom": "understand", "dok": 2, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q23",
+      "skill": "grammar", "sub_skill": "present-perfect", "type": "fill-blank",
+      "stem": "Our school ___ (use) phone boxes for two years.",
+      "answer": ["has used", "'s used", "has been using"],
+      "explanation": "for + 一段時間（for two years），表示從過去持續到現在 → has used（主詞 our school 單數）.",
+      "hints": [
+        { "level": 1, "text": "Find the time words: \"for two years\".", "action": "highlight-words", "words": ["for two years"] },
+        { "level": 2, "text": "for + a length of time → have/has + p.p.", "action": "explain" },
+        { "level": 3, "text": "\"Our school\" is one school → has. The p.p. of use is used.", "action": "explain" },
+        { "level": 4, "text": "Answer: has used.", "action": "explain" }
+      ],
+      "difficulty": "standard", "bloom": "apply", "dok": 1, "points": 10, "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q31",
+      "skill": "writing", "sub_skill": "opinion-paragraph", "type": "essay",
+      "stem": "Should high schools allow phones in class? Write a paragraph and give two reasons.",
+      "word_target": { "support": [40, 60], "standard": [80, 120] },
+      "rubric_id": "rb-opinion-4x4",
+      "scaffolds": {
+        "frames": ["In my opinion, ___.", "First, ___.", "For example, ___.", "Second, ___.", "Therefore, ___."],
+        "word_bank": ["distraction", "focus", "emergency", "research", "responsible", "rules", "In addition,", "However,"],
+        "model_text": "In my opinion, phones should be allowed in class with clear rules. First, students can use them to look up information quickly. For example, they can check a new word in an online dictionary. Second, phones help students stay safe in an emergency. However, phones can also be a distraction, so teachers should decide when students may use them. Therefore, schools should teach students to use phones responsibly instead of banning them.",
+        "checklist": ["I wrote a topic sentence.", "I gave two reasons.", "I gave at least one example.", "I wrote a concluding sentence.", "I checked my verb tenses."]
+      },
+      "explanation": "A good opinion paragraph has a clear position, two reasons with examples, and a conclusion.",
+      "hints": [
+        { "level": 1, "text": "First decide: Yes or No? Write your opinion in one sentence.", "action": "explain" },
+        { "level": 2, "text": "Use the word bank and the sentence frames on the right. Linkers: First, Second, Therefore.", "action": "show-frames" },
+        { "level": 3, "text": "Sample start: \"In my opinion, phones should be allowed in class with clear rules. First, ...\"", "action": "explain" },
+        { "level": 4, "text": "Read the model paragraph below, then write your own with the same structure.", "action": "show-model" }
+      ],
+      "difficulty": "standard", "bloom": "create", "dok": 3, "points": 16, "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q41",
+      "skill": "listening", "sub_skill": "key-information", "type": "single-choice",
+      "stem": "What time does the train to Kaohsiung leave?",
+      "options": [
+        { "key": "A", "text": "9:15", "feedback": "" },
+        { "key": "B", "text": "9:50", "feedback": "Listen again: fifteen or fifty? Fifteen has a long \"-teen\" sound." },
+        { "key": "C", "text": "3:15", "feedback": "Three is the platform number, not the time." }
+      ],
+      "answer": "A",
+      "explanation": "The speaker says \"departs at nine fifteen from platform three\". 9:15 can also be said \"a quarter past nine\".",
+      "hints": [
+        { "level": 1, "text": "Listen again. Focus on the numbers.", "action": "replay" },
+        { "level": 2, "text": "Listen at slow speed. Key word: departs (= leaves).", "action": "replay-slow" },
+        { "level": 3, "text": "\"The train to Kaohsiung departs at ___ fifteen from platform three.\"", "action": "partial-transcript" },
+        { "level": 4, "text": "Full transcript is shown. Answer: 9:15.", "action": "show-transcript" }
+      ],
+      "difficulty": "foundation", "bloom": "understand", "dok": 1, "points": 10,
+      "tags": ["#track-vocational", "#exam-tvee"], "status": "published"
+    },
+    {
+      "question_id": "g10-u01-q42",
+      "skill": "listening", "sub_skill": "key-information", "type": "single-choice",
+      "stem": "Where should passengers for Tainan change trains?",
+      "options": [
+        { "key": "A", "text": "Taichung", "feedback": "Taichung is not in the announcement. Listen for \"change trains at\"." },
+        { "key": "B", "text": "Chiayi", "feedback": "" },
+        { "key": "C", "text": "Kaohsiung", "feedback": "Kaohsiung is where the train is going, not where to change." }
+      ],
+      "answer": "B",
+      "explanation": "\"Passengers for Tainan should change trains at Chiayi.\"",
+      "hints": [
+        { "level": 1, "text": "Listen for the word \"Tainan\".", "action": "replay" },
+        { "level": 2, "text": "Listen slowly. Key words: change trains at ...", "action": "replay-slow" },
+        { "level": 3, "text": "\"Passengers for Tainan should change trains at ___.\"", "action": "partial-transcript" },
+        { "level": 4, "text": "Full transcript is shown. Answer: Chiayi.", "action": "show-transcript" }
+      ],
+      "difficulty": "foundation", "bloom": "apply", "dok": 2, "points": 10,
+      "tags": ["#track-vocational"], "status": "published"
+    }
+  ],
+  "variants": [
+    {
+      "question_id": "g10-u01-q01v", "skill": "reading", "sub_skill": "main-idea", "type": "single-choice",
+      "stem": "Which title best fits the passage?",
+      "options": [
+        { "key": "A", "text": "Phones at School: Distraction or Learning Tool?" },
+        { "key": "B", "text": "The Cheapest Phones for Students" },
+        { "key": "C", "text": "How to Fix a Broken Phone" }
+      ],
+      "answer": "A", "explanation": "A good title covers both sides of the debate."
+    },
+    {
+      "question_id": "g10-u01-q03v", "skill": "reading", "sub_skill": "inference", "type": "single-choice",
+      "stem": "Supporters of phone-free classrooms would most likely agree that ___.",
+      "options": [
+        { "key": "A", "text": "a single notification can break students' focus" },
+        { "key": "B", "text": "digital skills are not important at all" },
+        { "key": "C", "text": "students should use phones during tests" }
+      ],
+      "answer": "A", "explanation": "Paragraph 2: \"A single buzz can pull a learner away from a math problem.\""
+    },
+    {
+      "question_id": "g10-u01-q04v", "skill": "reading", "sub_skill": "author-purpose", "type": "single-choice",
+      "stem": "In paragraph 4, \"a middle path\" means ___.",
+      "options": [
+        { "key": "A", "text": "a road in the center of a city" },
+        { "key": "B", "text": "a choice between two extreme ideas" },
+        { "key": "C", "text": "a rule that bans all phones" }
+      ],
+      "answer": "B", "explanation": "The schools look for a choice between \"ban all phones\" and \"allow all phones\"."
+    },
+    {
+      "question_id": "g10-u01-q11v", "skill": "vocabulary", "sub_skill": "word-in-context", "type": "single-choice",
+      "stem": "The loud music began to ___ my thoughts, and I couldn't finish my essay.",
+      "options": [
+        { "key": "A", "text": "organize" },
+        { "key": "B", "text": "fragment" },
+        { "key": "C", "text": "improve" }
+      ],
+      "answer": "B", "explanation": "\"Couldn't finish\" shows the music broke my thoughts → fragment."
+    },
+    {
+      "question_id": "g10-u01-q21v", "skill": "grammar", "sub_skill": "present-perfect", "type": "fill-blank",
+      "stem": "They ___ (study) English for five years.",
+      "answer": ["have studied", "'ve studied", "have been studying"], "explanation": "for five years → have + p.p.; they → have."
+    },
+    {
+      "question_id": "g10-u01-q22v", "skill": "grammar", "sub_skill": "subject-verb-agreement", "type": "single-choice",
+      "stem": "Which sentence is correct?",
+      "options": [
+        { "key": "A", "text": "Every teacher in our school knows the new rule." },
+        { "key": "B", "text": "Every teacher in our school know the new rule." }
+      ],
+      "answer": "A", "explanation": "every + singular noun → singular verb (knows)."
+    }
+  ]
+}

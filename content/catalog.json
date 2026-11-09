@@ -1,0 +1,32 @@
+{
+  "version": "2026.11",
+  "courses": [
+    {
+      "course_id": "g10-core-a",
+      "title": "十年級必修英文",
+      "short": "必修英文",
+      "grade": [10],
+      "track": "general",
+      "description": "生活與科技議題：閱讀、字彙、文法、寫作、聽力",
+      "path": "courses/g10-core-a/course.json"
+    },
+    {
+      "course_id": "g11-core-a",
+      "title": "十一年級必修英文",
+      "short": "必修英文",
+      "grade": [11],
+      "track": "general",
+      "description": "社會議題：消費、環境與文化",
+      "path": "courses/g11-core-a/course.json"
+    },
+    {
+      "course_id": "g12-core-a",
+      "title": "十二年級學測衝刺英文",
+      "short": "學測衝刺",
+      "grade": [12],
+      "track": "general",
+      "description": "抽象議題與多觀點閱讀、議論寫作",
+      "path": "courses/g12-core-a/course.json"
+    }
+  ]
+}
