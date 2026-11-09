@@ -1,0 +1,320 @@
+{
+  "_readme": "老師樣板：複製此檔，修改 course / unit / passages / questions / classes 內容即可。欄位定義請見 docs/self-study-site-plan.md 第 6.2 節。",
+  "course": {
+    "course_id": "g10-core-a",
+    "title": "十年級必修英文（上）",
+    "grade": [10],
+    "track": "general",
+    "description": "以生活與科技議題為主的閱讀、字彙、文法與寫作練習",
+    "unit_ids": ["u01"],
+    "default_level": "standard",
+    "version": "2026.09"
+  },
+  "unit": {
+    "unit_id": "u01",
+    "course_id": "g10-core-a",
+    "order": 1,
+    "title": "Phones in the Classroom",
+    "topic": "technology",
+    "objectives": [
+      "I can identify the main idea of an article.",
+      "I can make an inference using evidence from the text.",
+      "I can write a short opinion paragraph with two reasons."
+    ],
+    "estimated_minutes": 40,
+    "set_ids": ["u01-r1", "u01-v1", "u01-g1", "u01-w1", "u01-l1"],
+    "tags": ["#topic-technology", "#textbook-L1"]
+  },
+  "passages": [
+    {
+      "passage_id": "p-u01-01",
+      "title": "Phones in the Classroom",
+      "topic": "technology",
+      "abstraction": "social",
+      "variants": [
+        {
+          "level": "standard",
+          "lexile": 1000,
+          "lexile_source": "estimated",
+          "word_count": 45,
+          "text": "Many teenagers say they cannot imagine a day without their phones. Yet a growing number of schools are experimenting with phone-free classrooms, arguing that constant notifications fragment students' attention. Critics respond that banning phones ignores the reality that digital skills are essential for future careers."
+        },
+        {
+          "level": "support",
+          "lexile": 850,
+          "lexile_source": "estimated",
+          "word_count": 48,
+          "text": "Many teenagers use their phones every day. Some schools now ask students to put their phones away in class. These schools say phone messages make it hard for students to focus. Other people do not agree. They say students need to learn digital skills for their future jobs."
+        }
+      ],
+      "glossary": [
+        { "word": "fragment", "pos": "v.", "zh": "使分裂、使零碎", "example": "Noise can fragment your attention." },
+        { "word": "critic", "pos": "n.", "zh": "批評者", "example": "Critics say the plan is too expensive." },
+        { "word": "essential", "pos": "adj.", "zh": "必要的", "example": "Water is essential for life." }
+      ]
+    },
+    {
+      "passage_id": "p-u01-listen",
+      "title": "Train Announcement",
+      "topic": "daily-life",
+      "abstraction": "concrete",
+      "audio_url": "",
+      "transcript": "Attention, please. The train to Kaohsiung departs at nine fifteen from platform three. Please have your tickets ready.",
+      "variants": []
+    }
+  ],
+  "question_sets": [
+    { "set_id": "u01-r1", "unit_id": "u01", "skill": "reading", "title": "Reading 1: Phones in the Classroom", "passage_id": "p-u01-01", "question_ids": ["q-0001", "q-0002"], "scoring_mode": "practice" },
+    { "set_id": "u01-v1", "unit_id": "u01", "skill": "vocabulary", "title": "Vocabulary 1", "question_ids": ["q-0101"], "scoring_mode": "practice" },
+    { "set_id": "u01-g1", "unit_id": "u01", "skill": "grammar", "title": "Grammar 1: Present Perfect", "question_ids": ["q-0201"], "scoring_mode": "practice" },
+    { "set_id": "u01-w1", "unit_id": "u01", "skill": "writing", "title": "Writing 1: Opinion Paragraph", "question_ids": ["q-0301"], "scoring_mode": "practice" },
+    { "set_id": "u01-l1", "unit_id": "u01", "skill": "listening", "title": "Listening 1: Announcements", "passage_id": "p-u01-listen", "question_ids": ["q-0401"], "scoring_mode": "practice" }
+  ],
+  "questions": [
+    {
+      "question_id": "q-0001",
+      "set_id": "u01-r1",
+      "unit_id": "u01",
+      "skill": "reading",
+      "sub_skill": "main-idea",
+      "type": "single-choice",
+      "stem": "What is the passage mainly about?",
+      "stem_support": "What is this text about?",
+      "options": [
+        { "key": "A", "text": "Why teenagers buy expensive phones", "feedback": "The passage does not talk about prices. What do schools and critics disagree about?" },
+        { "key": "B", "text": "A debate over whether schools should limit phone use", "feedback": "" },
+        { "key": "C", "text": "How phones help students learn faster", "feedback": "This is only one side, and the passage never says 'faster'. Look for both sides." },
+        { "key": "D", "text": "The history of mobile technology", "feedback": "There are no dates or history in the passage. Try again!" }
+      ],
+      "answer": "B",
+      "explanation": "The passage shows two sides: schools that want phone-free classrooms and critics who disagree. So it is about a debate (B).",
+      "hints": [
+        { "level": 1, "text": "Read the whole paragraph. How many different opinions do you see?", "action": "highlight-paragraph" },
+        { "level": 2, "text": "Key words: \"Yet\" and \"Critics respond\" show two sides.", "action": "highlight-words" },
+        { "level": 3, "text": "Option D can be removed: there is no history in the passage.", "action": "eliminate-option" },
+        { "level": 4, "text": "The main idea covers the whole text: schools vs. critics = a debate. Try the similar question below.", "action": "show-example" }
+      ],
+      "variant_question_id": "q-0001v",
+      "grade": [10],
+      "difficulty": "foundation",
+      "level_available": ["standard", "support"],
+      "lexile": 1000,
+      "bloom": "understand",
+      "dok": 2,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": ["#topic-technology"],
+      "status": "published",
+      "updated_at": "2026-11-09"
+    },
+    {
+      "question_id": "q-0002",
+      "set_id": "u01-r1",
+      "unit_id": "u01",
+      "skill": "reading",
+      "sub_skill": "inference",
+      "type": "single-choice",
+      "stem": "Based on the passage, which statement would the critics most likely agree with?",
+      "stem_support": "What do the critics think schools should do?",
+      "options": [
+        { "key": "A", "text": "Phones should be banned in all public places.", "feedback": "The critics never talk about all public places. This goes too far." },
+        { "key": "B", "text": "Schools should teach students to use phones responsibly.", "feedback": "" },
+        { "key": "C", "text": "Notifications improve students' concentration.", "feedback": "The passage says notifications fragment attention, not improve it." },
+        { "key": "D", "text": "Digital skills are less important than reading skills.", "feedback": "This is the opposite of the critics' view. Look at the word 'essential'." }
+      ],
+      "answer": "B",
+      "explanation": "The critics say digital skills are essential for future careers, so they would prefer teaching responsible use (B) instead of banning phones.",
+      "hints": [
+        { "level": 1, "text": "Look at the last sentence. Who are \"the critics\"?", "action": "highlight-paragraph" },
+        { "level": 2, "text": "Key words: \"ignores the reality\" and \"digital skills are essential\".", "action": "highlight-words" },
+        { "level": 3, "text": "Option A goes too far. Now compare B and D.", "action": "eliminate-option" },
+        { "level": 4, "text": "The critics value digital skills, so they would choose teaching over banning. Try the similar question below.", "action": "show-example" }
+      ],
+      "variant_question_id": "q-0002v",
+      "grade": [10],
+      "difficulty": "standard",
+      "level_available": ["standard", "support"],
+      "lexile": 1000,
+      "bloom": "analyze",
+      "dok": 3,
+      "paragraph_ref": 1,
+      "points": 10,
+      "tags": ["#topic-technology", "#exam-gsat"],
+      "status": "published",
+      "updated_at": "2026-11-09"
+    },
+    {
+      "question_id": "q-0101",
+      "set_id": "u01-v1",
+      "unit_id": "u01",
+      "skill": "vocabulary",
+      "sub_skill": "word-in-context",
+      "type": "single-choice",
+      "stem": "The glass vase is very ___, so please carry it carefully.",
+      "options": [
+        { "key": "A", "text": "fragile", "feedback": "" },
+        { "key": "B", "text": "flexible", "feedback": "Flexible means 'can bend'. Can glass bend easily?" },
+        { "key": "C", "text": "famous", "feedback": "Famous means 'well known'. Why do we need to carry it carefully?" }
+      ],
+      "answer": "A",
+      "explanation": "fragile = easily broken（易碎的）. Glass breaks easily, so we carry it carefully.",
+      "hints": [
+        { "level": 1, "text": "Read the second half: \"carry it carefully\". Why?", "action": "highlight-words" },
+        { "level": 2, "text": "Find a word that means \"easy to break\"（容易碎的）.", "action": "show-example" },
+        { "level": 3, "text": "Example: The old book is fragile; its pages tear easily.", "action": "show-example" },
+        { "level": 4, "text": "Answer: fragile. Try this: Be careful with the ___ eggs.", "action": "show-example" }
+      ],
+      "variant_question_id": "q-0101v",
+      "grade": [10, 11],
+      "difficulty": "foundation",
+      "level_available": ["standard"],
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": ["#track-vocational"],
+      "status": "published",
+      "updated_at": "2026-11-09"
+    },
+    {
+      "question_id": "q-0201",
+      "set_id": "u01-g1",
+      "unit_id": "u01",
+      "skill": "grammar",
+      "sub_skill": "present-perfect",
+      "type": "fill-blank",
+      "stem": "She ___ (live) in Tainan since 2020.",
+      "answer": ["has lived", "'s lived"],
+      "answer_rules": { "ignore_case": true, "trim_spaces": true },
+      "explanation": "since + 過去時間點 → 現在完成式 have/has + p.p.；主詞 she 為第三人稱單數，所以是 has lived。",
+      "hints": [
+        { "level": 1, "text": "Find the time word in the sentence.", "action": "highlight-words" },
+        { "level": 2, "text": "since + a point in the past → have/has + past participle.", "action": "show-example" },
+        { "level": 3, "text": "Example: I have known him since 2019. Is \"she\" singular or plural?", "action": "show-example" },
+        { "level": 4, "text": "Answer: has lived. Try this: They ___ (study) English for five years.", "action": "show-example" }
+      ],
+      "variant_question_id": "q-0201v",
+      "grade": [10],
+      "difficulty": "standard",
+      "level_available": ["standard"],
+      "bloom": "apply",
+      "dok": 1,
+      "points": 10,
+      "tags": ["#grammar-tense"],
+      "status": "published",
+      "updated_at": "2026-11-09"
+    },
+    {
+      "question_id": "q-0301",
+      "set_id": "u01-w1",
+      "unit_id": "u01",
+      "skill": "writing",
+      "sub_skill": "opinion-paragraph",
+      "type": "essay",
+      "stem": "Should high schools allow phones in class? Write a paragraph and give two reasons.",
+      "word_target": { "foundation": [40, 60], "standard": [80, 120], "challenge": [150, 180] },
+      "rubric_id": "rb-opinion-4x4",
+      "scaffolds": {
+        "frames": [
+          "In my opinion, ___.",
+          "First, ___. For example, ___.",
+          "Second, ___.",
+          "Therefore, ___."
+        ],
+        "word_bank": ["distraction", "focus", "emergency", "research", "responsible", "In addition", "However"],
+        "model_text": "In my opinion, phones should be allowed in class with clear rules. First, students can use them to look up information quickly. For example, they can check a word in an online dictionary. Second, phones help students stay safe in an emergency. Therefore, schools should teach students to use phones responsibly instead of banning them.",
+        "checklist": ["I wrote a topic sentence.", "I gave two reasons.", "I gave at least one example.", "I wrote a concluding sentence.", "I checked my verb tenses."]
+      },
+      "explanation": "A good opinion paragraph has a clear position, two reasons with examples, and a conclusion.",
+      "hints": [
+        { "level": 1, "text": "First decide: Yes or No? Write your opinion in one sentence.", "action": "show-example" },
+        { "level": 2, "text": "Useful words: distraction, emergency, focus. Linkers: First, In addition, Therefore.", "action": "show-example" },
+        { "level": 3, "text": "Sample start: In my opinion, phones should be allowed in class with clear rules. First, ...", "action": "show-example" },
+        { "level": 4, "text": "Read the full model paragraph, then use the same structure for: Should students wear uniforms?", "action": "show-example" }
+      ],
+      "grade": [10],
+      "difficulty": "standard",
+      "level_available": ["standard", "support"],
+      "bloom": "create",
+      "dok": 3,
+      "points": 16,
+      "tags": ["#topic-technology"],
+      "status": "published",
+      "updated_at": "2026-11-09"
+    },
+    {
+      "question_id": "q-0401",
+      "set_id": "u01-l1",
+      "unit_id": "u01",
+      "skill": "listening",
+      "sub_skill": "key-information",
+      "type": "single-choice",
+      "stem": "What time does the train leave?",
+      "options": [
+        { "key": "A", "text": "9:15", "feedback": "" },
+        { "key": "B", "text": "9:50", "feedback": "Listen again: fifteen or fifty? Pay attention to the ending sound." },
+        { "key": "C", "text": "3:15", "feedback": "Three is the platform number, not the time." }
+      ],
+      "answer": "A",
+      "explanation": "The speaker says \"departs at nine fifteen\". \"Three\" is the platform number.",
+      "hints": [
+        { "level": 1, "text": "Listen again. Focus on numbers.", "action": "replay" },
+        { "level": 2, "text": "Listen at 0.75× speed. Key word: departs.", "action": "replay-slow" },
+        { "level": 3, "text": "The train to Kaohsiung departs at ___ fifteen.", "action": "show-partial-transcript" },
+        { "level": 4, "text": "Full transcript shown. Answer: 9:15. Note: 9:15 can also be said \"a quarter past nine\".", "action": "show-transcript" }
+      ],
+      "grade": [10, 11, 12],
+      "difficulty": "foundation",
+      "level_available": ["standard"],
+      "bloom": "understand",
+      "dok": 1,
+      "points": 10,
+      "tags": ["#track-vocational", "#exam-tvee"],
+      "status": "published",
+      "updated_at": "2026-11-09"
+    }
+  ],
+  "rubrics": [
+    {
+      "rubric_id": "rb-opinion-4x4",
+      "criteria": [
+        { "name": "Content", "descriptors": { "4": "Clear position with two well-supported reasons and examples.", "3": "Clear position with two reasons; one example.", "2": "Position is given; reasons are unclear or only one reason.", "1": "No clear position." } },
+        { "name": "Organization", "descriptors": { "4": "Topic sentence, logical order, linkers, and conclusion.", "3": "Mostly logical with some linkers.", "2": "Ideas are listed without clear order.", "1": "Hard to follow." } },
+        { "name": "Language", "descriptors": { "4": "Varied vocabulary and sentences; few errors.", "3": "Some variety; errors do not block meaning.", "2": "Simple sentences; errors sometimes block meaning.", "1": "Frequent errors block meaning." } },
+        { "name": "Mechanics", "descriptors": { "4": "Spelling, capitals, and punctuation are correct.", "3": "A few small mistakes.", "2": "Several mistakes.", "1": "Many mistakes." } }
+      ],
+      "student_checklist": ["I wrote a topic sentence.", "I gave two reasons.", "I gave at least one example.", "I wrote a concluding sentence.", "I checked my verb tenses."]
+    }
+  ],
+  "classes": [
+    {
+      "class_code": "10A-2026",
+      "class_name": "高一甲班",
+      "teacher": "王老師",
+      "course_id": "g10-core-a",
+      "released_units": [
+        { "unit_id": "u01", "open_date": "2026-09-01", "due_date": "2026-09-15" }
+      ],
+      "scoring_mode": "practice",
+      "default_level": "standard",
+      "allow_level_switch": true,
+      "timer": { "enabled": false, "minutes_per_set": 15, "allow_extension": true },
+      "hint_policy": { "max_level": 4 },
+      "archived": false
+    },
+    {
+      "class_code": "V1-2026",
+      "class_name": "高職一年級資訊科",
+      "teacher": "王老師",
+      "course_id": "g10-core-a",
+      "released_units": [
+        { "unit_id": "u01", "open_date": "2026-09-08", "due_date": "2026-09-29" }
+      ],
+      "scoring_mode": "no-penalty",
+      "default_level": "support",
+      "allow_level_switch": true,
+      "timer": { "enabled": false },
+      "hint_policy": { "max_level": 4 },
+      "archived": false
+    }
+  ]
+}
